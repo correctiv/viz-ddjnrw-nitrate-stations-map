@@ -1,0 +1,42 @@
+@import url('https://unpkg.com/leaflet@1.0.3/dist/leaflet.css');
+
+@import './vars.scss';
+@import './helpers.scss';
+@import './mixins.scss';
+
+// components
+@import './button.scss';
+@import './entypo.scss';
+@import './reset-control.scss';
+
+@import './leaflet-map.scss';
+@import './infobox.scss';
+@import './legend.scss';
+@import './searchbox.scss';
+
+// base app container
+.ddjnrw-mst-map__container {
+  display: block;
+  width: 100%;
+  position: relative;
+}
+
+.figure__credits {
+  clear: both;
+  margin-top: 14px;
+  color: #9c9c9c;
+  font-size: 14px;
+  line-height: 1.4;
+
+  a {
+    border: none;
+    text-decoration: underline;
+    color: inherit;
+  }
+
+  &>p:first-of-type:before {
+    // remove icon
+    content: '';
+    padding: 0;
+  }
+}

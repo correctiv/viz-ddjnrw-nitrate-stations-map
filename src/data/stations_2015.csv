@@ -1,0 +1,1311 @@
+id,name,city,council,date,value,lat,lon,kind,area
+100135651,WF 1F   OVENSTAEDT,Petershagen,Detmold,2015-04-16,281.0,52.424,8.9666,GW-Messstelle,Acker
+20101120,I/8C ML Oesterwiehe,Verl,Detmold,2015-08-06,270.8,51.8417,8.5361,GW-Messstelle,Acker
+80201570,FLOTHEND 200,Nettetal,Düsseldorf,2015-08-27,234.5,51.2959,6.2711,GW-Messstelle,Acker
+110200408,TE/40 Wechte,Lengerich,Münster,2015-10-29,202.7,52.1851,7.7668,GW-Messstelle,Acker
+219483218,Nörvenich 2,Nörvenich,Köln,2015-12-08,187.6,50.8031,6.6466,GW-Messstelle,"bebaut, besiedelt"
+110200251,TE/25 IBBENBUEREN,Ibbenbüren,Münster,2015-12-08,183.6,52.2831,7.6663,GW-Messstelle,Acker
+219602815,Schalbruch,Selfkant,Köln,2015-06-08,182.7,51.0565,5.9185,GW-Messstelle,Acker
+26531100,"103_ 4,0m Ml OL",Delbrück,Detmold,2015-08-04,182.7,51.7549,8.6159,GW-Messstelle,Acker
+110200214,TE/21 -SCHALE-,Hopsten,Münster,2015-03-30,180.1,52.4378,7.6103,GW-Messstelle,Acker
+110220791,HS/79 -FLAMSCHEN-,Coesfeld,Münster,2015-12-07,178.3,51.915,7.1497,GW-Messstelle,Acker
+26541130,"769-5,5m ML Pavenst",Gütersloh,Detmold,2015-09-29,176.5,51.9061,8.339,GW-Messstelle,Acker
+10202810,HERBACH,Herzogenrath,Köln,2015-04-09,176.1,50.9079,6.1077,GW-Messstelle,Acker
+26541129,"769-4,0m MLPavenst",Gütersloh,Detmold,2015-09-29,167.3,51.9061,8.339,GW-Messstelle,Acker
+219602712,Havert,Selfkant,Köln,2015-06-08,165.0,51.0415,5.9297,GW-Messstelle,Acker
+110070057,VII/5 -SENDENHORST-,Sendenhorst,Münster,2015-11-12,163.3,51.8439,7.8075,GW-Messstelle,Acker
+70203817,LGD Sechtem Plantag,Bornheim,Köln,2015-05-28,162.4,50.7811,6.9411,GW-Messstelle,Acker
+80302555,UEDEM    GRILLPLATZ,Uedem,Düsseldorf,2015-08-24,158.8,51.6691,6.2334,GW-Messstelle,Acker
+80301850,MODELLFLUGPLATZ 333,Nettetal,Düsseldorf,2015-07-07,156.2,51.3,6.2139,GW-Messstelle,Acker
+80302154,BOEKHOLT HILDEBRAND,Straelen,Düsseldorf,2015-06-23,154.0,51.4271,6.291,GW-Messstelle,Acker
+110210190,ST.GEB/19 Leversum,Lüdinghausen,Münster,2015-11-18,152.2,51.7709,7.3764,GW-Messstelle,Acker
+219671916,Merzbrück,Würselen,Köln,2015-10-05,149.1,50.8321,6.1888,GW-Messstelle,Acker
+70203416,LGD BORNHEIM B4/99,Bornheim,Köln,2015-05-26,147.8,50.7727,7.0038,GW-Messstelle,Acker
+60230113,BO/11 BORKENWIRTHE,Borken,Münster,2015-06-22,146.9,51.8893,6.7769,GW-Messstelle,Acker
+20104315,VI/5 M Versmold,Versmold,Detmold,2015-07-14,146.5,52.0065,8.1708,GW-Messstelle,Grünland
+110070094,VII/9 -ALBERSLOH-,Sendenhorst,Münster,2015-12-08,146.5,51.8691,7.7133,GW-Messstelle,Acker
+32502643,UWB-Ddorf 00213,Düsseldorf,Düsseldorf,2016-01-06,146.0,51.1546,6.8092,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+110200330,TE/33 Schlickelde,Ibbenbüren,Münster,2015-03-17,145.1,52.3332,7.7227,GW-Messstelle,Acker
+100140749,WG 68    BARTLING,Minden,Detmold,2015-04-16,144.2,52.3617,8.8716,GW-Messstelle,Acker
+10421415,Mariaschacht P5,Stolberg (Rhld.),Köln,2015-06-10,143.9,50.7526,6.2712,GW-Messstelle,Grünland
+106530288,"BS 1 ML  -05,50 NOR",Bad Salzuflen,Detmold,2015-10-05,142.0,52.0247,8.7578,GW-Messstelle,Acker
+110200081,TE/8 -BEVERGERN-,Hörstel,Münster,2015-11-02,141.6,52.2581,7.5841,GW-Messstelle,Acker
+42060564,LINEG_2211-2H,Xanten,Düsseldorf,2015-07-22,137.9,51.646,6.4355,GW-Messstelle,Wald
+26531112,"103- 6,0m ML OL",Delbrück,Detmold,2015-08-04,135.0,51.7549,8.6159,GW-Messstelle,Acker
+23161437,43      Boker Heide,Delbrück,Detmold,2015-10-20,130.9,51.7458,8.6021,GW-Messstelle,Acker
+26531094,"103- 2,0m ML OL",Delbrück,Detmold,2015-08-04,130.1,51.7549,8.6159,GW-Messstelle,Acker
+71200307,FRITZDORF ZBR 491,Wachtberg,Köln,2015-10-14,130.1,50.595,7.0893,Schachtbrunnen,"bebaut, besiedelt"
+106530021,"PHG43 -6,0m ML",Petershagen,Detmold,2015-03-31,128.3,52.3472,8.9983,GW-Messstelle,Acker
+60240337,AH/33 -WENDFELD-,Stadtlohn,Münster,2015-06-10,126.5,52.0432,6.9332,GW-Messstelle,Acker
+219972011,Owichter.,Euskirchen,Köln,2015-12-09,125.2,50.6918,6.7436,GW-Messstelle,Acker
+60240040,AH/4 -Gronau-,Gronau (Westf.),Münster,2015-04-15,124.8,52.222,7.0837,GW-Messstelle,Acker
+110040200,IV/20 -OSTBEVERN-,Ostbevern,Münster,2015-12-03,124.3,52.0223,7.8514,GW-Messstelle,Acker
+86592786,WW FELLERHÖFE  E VI,Willich,Düsseldorf,2015-02-05,121.6,51.2784,6.5801,Schachtbrunnen,Acker
+30302810,Erkr-Niermannsweg,Erkrath,Düsseldorf,2015-03-13,121.2,51.2106,6.9133,GW-Messstelle,Acker
+26541142,"769-7,0m ML Pavenst",Gütersloh,Detmold,2015-09-29,121.2,51.9061,8.339,GW-Messstelle,Acker
+110200160,TE/16 -UTHUISEN-,Hörstel,Münster,2015-12-08,120.8,52.3131,7.5396,GW-Messstelle,Acker
+70168817,LGD DICKOPSHOF,Wesseling,Köln,2015-06-08,119.0,50.8037,6.9599,GW-Messstelle,Acker
+80303316,LOUISENDORF     394,Bedburg-Hau,Düsseldorf,2015-09-11,117.7,51.7285,6.2281,GW-Messstelle,Acker
+110060090,VI/9 GROEBLINGEN,Warendorf,Münster,2015-11-24,116.4,51.9795,7.9903,GW-Messstelle,Acker
+26540174,"178- 3,0m ML",Bielefeld,Detmold,2015-09-29,115.9,51.9373,8.5306,GW-Messstelle,Acker
+10203862,Wefelen 2,Herzogenrath,Köln,2015-04-09,114.6,50.854,6.1206,GW-Messstelle,Acker
+26540514,"I/8C-4,0m ML    LGD",Verl,Detmold,2015-08-06,113.7,51.8417,8.5361,GW-Messstelle,Acker
+279470617,Br.Hoverhf,Erftstadt,Köln,2015-06-23,113.3,50.753,6.7421,GW-Messstelle,Acker
+289086516,Hehn,Mönchengladbach,Düsseldorf,2015-11-16,112.8,51.1883,6.3654,GW-Messstelle,Acker
+80300686,VOGELSRATH 211,Schwalmtal,Düsseldorf,2015-10-14,112.4,51.2368,6.2706,GW-Messstelle,Acker
+80201600,RÖHLENEND 203,Viersen,Düsseldorf,2015-08-27,111.9,51.2526,6.3234,GW-Messstelle,"bebaut, besiedelt"
+60070109,HS 18,Dorsten,Münster,2015-12-17,111.1,51.7561,6.9284,GW-Messstelle,Wald
+80301794,FOSSA           327,Straelen,Düsseldorf,2015-10-02,111.1,51.4804,6.2286,GW-Messstelle,Acker
+70284611,LGD Alfter ALTABL.,Alfter,Köln,2015-06-10,111.1,50.7337,7.0291,GW-Messstelle,Acker
+10200691,ISWEILER NR.290,Nörvenich,Köln,2015-04-23,110.2,50.786,6.5903,GW-Messstelle,Acker
+100135626,PH 25N   OVENSTAEDT,Petershagen,Detmold,2015-04-09,108.4,52.4149,8.9487,GW-Messstelle,Acker
+80303183,ERVSCHERWEG     381,Goch,Düsseldorf,2015-09-08,107.5,51.6795,6.1353,GW-Messstelle,Acker
+16001606,Br. Heres,Euskirchen,Köln,2015-09-07,106.6,50.6788,6.8499,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+80201581,SCHMALENEND 201,Viersen,Düsseldorf,2015-08-27,104.4,51.2661,6.273,GW-Messstelle,Acker
+80201611,RENNEPERSTR. 212,Schwalmtal,Düsseldorf,2015-09-04,103.5,51.2386,6.2846,GW-Messstelle,Acker
+80301721,FLUGPLATZ       320,Goch,Düsseldorf,2015-09-03,103.5,51.6914,6.109,GW-Messstelle,Acker
+106530033,"PHG43 -8,0m ML",Petershagen,Detmold,2015-03-31,103.1,52.3472,8.9983,GW-Messstelle,Acker
+80100612,HÜLS STEEG      022,Krefeld,Düsseldorf,2015-09-10,102.2,51.3657,6.5019,GW-Messstelle,Acker
+106530203,"PH46N -5,0m ML",Petershagen,Detmold,2015-04-23,101.8,52.3243,8.9665,GW-Messstelle,Acker
+10202821,Orsbeck,Wassenberg,Köln,2016-03-17,101.8,51.0885,6.1656,GW-Messstelle,Acker
+16000997,IPO P5 Süd neu,Heinsberg (Rhld.),Köln,2015-04-20,100.0,51.041,6.1343,GW-Messstelle,Acker
+110070148,VII/14-WESTERODE-,Greven,Münster,2015-12-01,98.7,52.0838,7.5567,GW-Messstelle,"bebaut, besiedelt"
+80301060,EHRENMAL     HY 254,Straelen,Düsseldorf,2015-06-22,97.8,51.4545,6.2644,GW-Messstelle,Acker
+110200123,TE/12 -RODDE-,Rheine,Münster,2015-11-03,97.3,52.2783,7.5364,GW-Messstelle,Acker
+91166603,Bruecke OL 739,Geseke,Arnsberg,2015-06-22,96.0,51.627,8.4541,GW-Messstelle,Acker
+60220867,HS/86 -TUNGERLOH-,Gescher,Münster,2015-09-24,95.6,51.9397,7.0481,GW-Messstelle,Grünland
+219080215,Ratheim,Hückelhoven,Köln,2015-07-07,95.1,51.0656,6.1973,GW-Messstelle,Acker
+110200380,TE/38 LOTTE DÜTE,Westerkappeln,Münster,2015-03-18,93.4,52.2818,7.879,GW-Messstelle,Acker
+80302543,UEDEM       KEPPELN,Uedem,Düsseldorf,2015-08-24,93.4,51.6763,6.2699,GW-Messstelle,Acker
+10409415,Aldericusquelle,Zülpich,Köln,2016-01-21,92.9,50.709,6.6224,gefasste Quelle,Acker
+110290045,RH/4 SUTRUM,Neuenkirchen,Münster,2015-01-28,92.0,52.2537,7.403,GW-Messstelle,Acker
+210404553,Lüxheim Br. 6,Vettweiß,Köln,2015-09-14,89.8,50.7608,6.6255,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+80300960,HOLLEN       HY 244,Uedem,Düsseldorf,2015-09-01,89.4,51.6898,6.2531,GW-Messstelle,Acker
+110220109,HS/10 MERFELD,Dülmen,Münster,2015-11-05,89.4,51.8559,7.1769,GW-Messstelle,Acker
+10202791,LOVERICH,Baesweiler,Köln,2015-03-12,88.9,50.9347,6.1904,GW-Messstelle,"bebaut, besiedelt"
+80100806,PFALZDORF       033,Goch,Düsseldorf,2015-09-09,88.5,51.7281,6.1685,GW-Messstelle,Wald
+110310019,BOMBECK 01,Billerbeck,Münster,2015-11-10,86.7,51.9732,7.3399,GW-Messstelle,Acker
+110280027,NK/2-NEUENKIRCHEN S,Neuenkirchen,Münster,2015-06-17,86.7,52.2507,7.3685,GW-Messstelle,Acker
+11005154,Jakobwülles Zus693,Vettweiß,Köln,2015-08-24,85.8,50.7627,6.558,Schachtbrunnen,Acker
+219974214,Kettenheim,Vettweiß,Köln,2015-09-04,85.4,50.7533,6.5858,GW-Messstelle,Acker
+219671114,Selsten,Heinsberg (Rhld.),Köln,2015-03-23,84.9,51.0432,6.0456,GW-Messstelle,Acker
+218639016,Duerboslar,Aldenhoven,Köln,2015-07-14,84.9,50.9042,6.2647,GW-Messstelle,Acker
+100140683,WG 62    BUTENBOHM,Stemwede,Detmold,2015-05-21,84.5,52.3887,8.4513,GW-Messstelle,Acker
+100140087,SU 79    WG 9/SUEDH,Hille,Detmold,2015-03-17,84.1,52.3301,8.8436,GW-Messstelle,Acker
+80300364,STEVESHOF,Kempen,Düsseldorf,2016-01-27,84.1,51.3655,6.3819,GW-Messstelle,Acker
+91141102,Niederbauer ML1,Lippetal,Arnsberg,2015-09-03,84.1,51.6568,8.0892,GW-Messstelle,Acker
+210404711,Hambach Fl. Br.I,Niederzier,Köln,2015-11-23,83.2,50.892,6.4297,GW-Messstelle,Acker
+10403127,Waldfeucht  P 2,Waldfeucht,Köln,2015-06-01,82.7,51.0671,6.0318,GW-Messstelle,Acker
+21001730,602FA LGD Bockhorst,Versmold,Detmold,2015-07-02,82.3,52.0678,8.1908,GW-Messstelle,Acker
+110200135,TE/13-LAGGENBECK-,Ibbenbüren,Münster,2015-12-08,81.9,52.2538,7.7702,GW-Messstelle,Acker
+10407649,UEVEKOVEN BR. 101,Wegberg,Köln,2015-10-06,81.4,51.1267,6.2891,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+10409683,Rißdorfquelle,Mechernich,Köln,2015-04-16,81.0,50.5928,6.7152,gefasste Quelle,Acker
+21000347,630             LGD,Gütersloh,Detmold,2015-10-15,80.5,51.9035,8.3418,GW-Messstelle,Acker
+11007023,Vussem Zus,Mechernich,Köln,2016-01-26,79.6,50.5659,6.6638,Schachtbrunnen,"bebaut, besiedelt"
+80200953,BOCKERT         183,Viersen,Düsseldorf,2016-01-26,79.6,51.2382,6.3814,GW-Messstelle,Acker
+10201415,Matzerath Br. 201,Erkelenz,Köln,2015-04-07,79.6,51.0727,6.2716,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+10409129,Mehlenb. Quelle 2D,Mechernich,Köln,2015-07-29,78.8,50.6236,6.6,gefasste Quelle,Acker
+219486219,Kessenich 3,Euskirchen,Köln,2015-03-26,78.8,50.6903,6.7987,GW-Messstelle,"bebaut, besiedelt"
+110200410,TE/41 Bockraden,Ibbenbüren,Münster,2015-12-01,78.3,52.3113,7.7286,GW-Messstelle,Acker
+60220028,HS/2 -NORDICK-,Heiden,Münster,2015-01-30,77.9,51.8549,6.9607,GW-Messstelle,Acker
+80301885,HÜLS  PARKPL.   336,Krefeld,Düsseldorf,2015-04-17,77.9,51.3766,6.518,GW-Messstelle,"bebaut, besiedelt"
+106530045,"PHG43-10,0m ML",Petershagen,Detmold,2015-03-31,77.4,52.3472,8.9983,GW-Messstelle,Acker
+10203230,GLEHN FLACH,Mechernich,Köln,2015-06-15,77.4,50.6056,6.5859,GW-Messstelle,Acker
+60082800,HS 35,Recklinghausen,Münster,2015-10-28,77.4,51.6331,7.1436,GW-Messstelle,Acker
+80303201,MARIENWASSERWEG 383,Weeze,Düsseldorf,2015-08-26,77.0,51.6209,6.1883,GW-Messstelle,Acker
+10307217,Arloff  P 5.1,Bad Münstereifel,Köln,2015-04-15,77.0,50.597,6.7989,GW-Messstelle,Acker
+215988711,Duerschev,Zülpich,Köln,2015-10-13,76.9,50.6669,6.7211,GW-Messstelle,Acker
+22520223,Bo4 Borgentreich,Borgentreich,Detmold,2015-07-16,76.5,51.5678,9.2743,GW-Messstelle,Acker
+40071005,0 07 100 - HS 115,Schermbeck,Düsseldorf,2015-11-23,75.2,51.6962,6.9033,GW-Messstelle,Grünland
+80301332,DREILINDENHOF   281,Kaarst,Düsseldorf,2015-08-20,75.2,51.1858,6.6086,GW-Messstelle,Acker
+21001765,768 T         LGD,Steinhagen,Detmold,2015-07-15,75.2,51.9859,8.3874,GW-Messstelle,Wald
+10407121,FZJ Flachbrunnen 2,Niederzier,Köln,2015-10-05,75.0,50.893,6.4365,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+11050093,Schweinheim Zus 409,Euskirchen,Köln,2015-05-20,74.8,50.6134,6.8678,Schachtbrunnen,Acker
+219971614,Sievernich,Vettweiß,Köln,2015-09-23,74.8,50.7305,6.6603,GW-Messstelle,Acker
+110280015,NK/1 NEUENKIRCHEN_T,Neuenkirchen,Münster,2015-07-02,74.3,52.2545,7.3572,GW-Messstelle,Acker
+80000046,EMMERICH      Nr 18,Emmerich,Düsseldorf,2015-09-30,74.3,51.8487,6.2562,GW-Messstelle,Acker
+70304257,HAUS FORST 1/1994,Kerpen,Köln,2015-08-17,73.9,50.8757,6.619,GW-Messstelle,Acker
+10201518,SCHERPENSEEL,Übach-Palenberg,Köln,2015-10-15,73.9,50.9251,6.0656,GW-Messstelle,Acker
+279480015,Blatzheim2,Kerpen,Köln,2015-12-11,73.0,50.8443,6.6274,GW-Messstelle,Acker
+76503410,ROW WESSEL M15 R 1,Wesseling,Köln,2015-05-12,72.6,50.8335,6.9565,GW-Messstelle,"bebaut, besiedelt"
+288194214,Neubrück,Grevenbroich,Düsseldorf,2015-10-16,72.0,51.1364,6.6452,GW-Messstelle,Acker
+80300911,HASSUM          239,Goch,Düsseldorf,2015-09-08,71.7,51.678,6.0693,GW-Messstelle,Grünland
+86551863,E Rheinfähre HBr.1,Meerbusch,Düsseldorf,2015-10-08,71.4,51.3058,6.7188,Horizontalfilterbrunnen,Acker
+100700512,WE 1  BR WEHE RAHDN,Rahden,Detmold,2015-05-26,70.0,52.4482,8.6544,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+26540526,"I/8C-6,0m ML    LGD",Verl,Detmold,2015-08-06,69.9,51.8417,8.5361,GW-Messstelle,Acker
+76737718,SW TROISD AGGER P7,Troisdorf,Köln,2015-04-17,69.9,50.8224,7.1674,GW-Messstelle,Wald
+91161253,Erwitte GWB 3,Erwitte,Arnsberg,2015-10-20,69.9,51.6146,8.3718,GW-Messstelle,Acker
+100135213,PH 18    GRO HEERSE,Petershagen,Detmold,2015-04-08,69.5,52.447,8.9864,GW-Messstelle,Acker
+110050125,V/12 -ISENDORF-,Emsdetten,Münster,2015-11-04,69.0,52.2051,7.5117,GW-Messstelle,Grünland
+32032171,UWB-Ddorf 01253,Düsseldorf,Düsseldorf,2015-08-28,69.0,51.1944,6.7508,GW-Messstelle,Acker
+210404530,Lüxheim Br. 4,Vettweiß,Köln,2015-11-03,69.0,50.7668,6.624,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+20104303,VI/4 LGD,Versmold,Detmold,2015-06-30,69.0,52.0294,8.2158,GW-Messstelle,Acker
+80301691,SCHNEPPENBAUM   317,Bedburg-Hau,Düsseldorf,2015-09-09,68.6,51.7576,6.2074,GW-Messstelle,Acker
+80100697,WEEZE GUT HEES   01,Weeze,Düsseldorf,2015-09-08,68.6,51.5914,6.14,GW-Messstelle,Acker
+40200504,NEUKIRCHEN NR 121,Neukirchen-Vluyn,Düsseldorf,2015-06-01,68.0,51.4279,6.5667,GW-Messstelle,Acker
+70201213,LGD Widdig GEW 132,Bornheim,Köln,2015-08-12,68.0,50.7882,7.0105,GW-Messstelle,Acker
+86573974,E GATZWEILER Hor.1,Mönchengladbach,Düsseldorf,2015-02-11,67.9,51.1579,6.3159,Horizontalfilterbrunnen,Acker
+10201312,Arsbeck Bussardweg,Wegberg,Köln,2015-03-16,67.3,51.1505,6.218,GW-Messstelle,Acker
+76832314,SW WERMELSK. B 1,Wermelskirchen,Köln,2015-08-04,67.3,51.1457,7.2304,GW-Messstelle,"bebaut, besiedelt"
+10409105,Quelle Dützbenden,Mechernich,Köln,2015-04-22,67.3,50.6122,6.6011,gefasste Quelle,Acker
+80201520,VENLOER-HEIDE 195,Nettetal,Düsseldorf,2015-06-23,67.3,51.3549,6.2377,GW-Messstelle,Wald
+80302040,VENNHEIDE,Willich,Düsseldorf,2015-11-27,66.8,51.2702,6.4493,GW-Messstelle,Acker
+10201282,OERATH,Erkelenz,Köln,2016-03-17,66.4,51.0969,6.3016,GW-Messstelle,"bebaut, besiedelt"
+10201117,Niederzier Nr. 14,Niederzier,Köln,2015-05-11,66.0,50.8822,6.453,GW-Messstelle,Acker
+80301009,SCHULE       HY 248,Kevelaer,Düsseldorf,2015-10-12,65.0,51.5687,6.2909,GW-Messstelle,Acker
+80301435,KA ELTEN        291,Emmerich,Düsseldorf,2015-09-02,65.0,51.8733,6.1454,GW-Messstelle,Acker
+10407522,Wassenberg Br. 503,Wassenberg,Köln,2015-10-07,63.3,51.1043,6.15,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+80301710,APPELDORN       319,Kalkar,Düsseldorf,2015-09-11,63.3,51.7265,6.3494,GW-Messstelle,Acker
+218413518,Golzheim,Merzenich,Köln,2015-12-01,62.8,50.8403,6.5855,GW-Messstelle,"bebaut, besiedelt"
+80302180,HOHEN-HOLTAPPEL,Geldern,Düsseldorf,2015-03-20,62.8,51.5372,6.2271,GW-Messstelle,Acker
+10203436,"Nideggen,Pegel Tief",Nideggen,Köln,2015-04-23,62.4,50.6957,6.5039,GW-Messstelle,Acker
+100740522,HB 2  BR BEGATAL,Bad Salzuflen,Detmold,2015-06-24,62.0,52.058,8.7761,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+73779817,WBV THOMASBERG P 15,Königswinter,Köln,2016-04-12,61.9,50.7066,7.2551,GW-Messstelle,Grünland
+80200758,REICHSWALD      162,Kleve,Düsseldorf,2015-05-22,61.9,51.7471,6.101,GW-Messstelle,Acker
+86573986,E GATZWEILER Hor.2,Mönchengladbach,Düsseldorf,2015-10-21,61.9,51.156,6.3144,Horizontalfilterbrunnen,Acker
+80303420,OP DE WACHT     405,Kalkar,Düsseldorf,2015-09-11,61.9,51.7436,6.2939,GW-Messstelle,"bebaut, besiedelt"
+63111020,WW.LIEDERN-P08,Bocholt,Münster,2015-04-21,61.5,51.8279,6.5422,GW-Messstelle,Acker
+10203254,VLATTEN FLACH,Heimbach,Köln,2015-05-11,61.5,50.6475,6.5361,GW-Messstelle,Acker
+110220870,HS/87 EMKUMER MARK,Lüdinghausen,Münster,2015-11-24,61.5,51.7481,7.314,GW-Messstelle,Acker
+10202663,FZJ Nr. 64,Niederzier,Köln,2015-05-11,61.0,50.8953,6.4369,GW-Messstelle,keine Angabe
+10408411,ELLEN BR. 2,Niederzier,Köln,2015-04-21,60.3,50.8536,6.4934,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+20002129,II/12           NRE,Rheda-Wiedenbrück,Detmold,2015-07-22,60.2,51.8704,8.3295,GW-Messstelle,Grünland
+80303407,KLEVE WARBEYEN  403,Kleve,Düsseldorf,2015-01-07,59.7,51.8225,6.205,GW-Messstelle,Grünland
+86621567,E SW Kleve Br.5,Goch,Düsseldorf,2015-09-28,59.6,51.7246,6.0738,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+73765211,EVL LEV 65,Leverkusen,Köln,2015-07-15,59.3,51.0614,6.9701,GW-Messstelle,Wald
+219480618,Eschw.Ue.F,Nörvenich,Köln,2015-12-09,59.3,50.8114,6.5829,GW-Messstelle,Acker
+110220419,HS/41-COE.STOCKUM-,Coesfeld,Münster,2015-09-11,58.8,51.9501,7.0916,GW-Messstelle,Acker
+80301022,SCHRAEVELEN     250,Kevelaer,Düsseldorf,2015-08-25,58.4,51.5973,6.2648,GW-Messstelle,Acker
+10203187,"Vetschau,Autobahnbr","Aachen, Stadt",Köln,2015-03-12,58.4,50.8163,6.0294,GW-Messstelle,Acker
+91161150,Erwitte GWB 1,Erwitte,Arnsberg,2015-06-15,58.4,51.6118,8.3665,GW-Messstelle,Acker
+80201623,LELOH WALD 218,Mönchengladbach,Düsseldorf,2016-01-08,57.5,51.1897,6.3195,GW-Messstelle,Wald
+110200093,TE/9 -HEINE-,Rheine,Münster,2015-11-02,56.2,52.2584,7.5224,GW-Messstelle,Acker
+86573470,E Rheindahlen Br.3,Mönchengladbach,Düsseldorf,2015-10-20,55.7,51.1425,6.3653,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+94160314,Quelle Bullerloch,Erwitte,Arnsberg,2015-09-04,54.9,51.6187,8.3766,ungefasste Quelle,Acker
+86594606,E BG Osterath Br.1,Meerbusch,Düsseldorf,2015-02-02,54.4,51.2536,6.6245,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+10409919,Behnenbachquelle,Blankenheim,Köln,2015-03-09,54.4,50.4208,6.754,gefasste Quelle,Grünland
+219478314,Distelrath,Merzenich,Köln,2015-11-30,54.4,50.8129,6.5356,GW-Messstelle,Acker
+100135031,PH1003M  IM TIMPEN,Petershagen,Detmold,2015-04-13,54.4,52.3541,9.0112,GW-Messstelle,Acker
+289079512,Kapellen,Grevenbroich,Düsseldorf,2015-04-30,54.0,51.139,6.6233,GW-Messstelle,Acker
+42065343,LINEG_2727,Wesel,Düsseldorf,2015-12-03,54.0,51.6229,6.5657,GW-Messstelle,Acker
+80301010,ALTWETTENER WEG 249,Kevelaer,Düsseldorf,2015-06-17,53.5,51.5902,6.298,GW-Messstelle,Acker
+26540204,"178-19,5m ML",Bielefeld,Detmold,2015-09-29,53.1,51.9373,8.5306,GW-Messstelle,Acker
+10409038,Schevenquelle,Kall,Köln,2016-03-07,53.1,50.5623,6.5887,gefasste Quelle,Acker
+279371810,Rheidt,Bergheim,Köln,2015-06-05,53.1,51.0099,6.6822,GW-Messstelle,Acker
+80302646,HOENSLAERSMÜHLE,Kevelaer,Düsseldorf,2016-01-22,53.1,51.5698,6.3207,GW-Messstelle,Grünland
+100761616,BB 1  BR BILLERKE,Bünde,Detmold,2015-04-14,53.0,52.2277,8.5419,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+80301514,GRAFWEGEN       299,Kranenburg,Düsseldorf,2015-03-16,52.7,51.7492,5.9577,GW-Messstelle,Wald
+86621555,E SW Kleve Br.9,Goch,Düsseldorf,2015-09-28,52.5,51.7212,6.0869,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+76734985,PGHM.WELTERSB. SS,Leichlingen (Rhld.),Köln,2015-04-01,52.2,51.111,7.0768,Sammelschacht,Acker
+80302762,STRAELEN        B58,Straelen,Düsseldorf,2015-08-26,52.2,51.4286,6.2479,GW-Messstelle,Acker
+42016368,LINEG_1758,Wesel,Düsseldorf,2015-12-03,52.0,51.6427,6.5939,GW-Messstelle,Grünland
+26504613,TB Voerden,Marienmünster,Detmold,2015-10-13,52.0,51.8182,9.2321,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+80100818,GOCH SCHULE     034,Goch,Düsseldorf,2015-07-10,51.3,51.6835,6.1538,GW-Messstelle,"bebaut, besiedelt"
+104004046,K 7.1 M  SAD Münhg,Petershagen,Detmold,2015-04-09,51.3,52.4073,9.1243,GW-Messstelle,Acker
+100700238,LK 3  BR LUEBBECKE,Lübbecke,Detmold,2015-04-21,51.0,52.315,8.5995,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+11002268,Brachelen Sp Pl,Hückelhoven,Köln,2015-03-26,50.9,51.0089,6.243,GW-Messstelle,"bebaut, besiedelt"
+73311613,VERSICK453,Köln,Köln,2015-06-18,50.8,51.0171,6.8539,GW-Messstelle,"bebaut, besiedelt"
+10409324,Quelle Gödersheim,Nideggen,Köln,2015-06-08,50.4,50.6706,6.5428,Schachtbrunnen,Acker
+100135614,PH46N -ML WIET HEID,Petershagen,Detmold,2015-04-23,50.0,52.3243,8.9665,GW-Messstelle,Acker
+80301502,SCHOTTHEIDE     298,Kranenburg,Düsseldorf,2015-09-03,50.0,51.7607,6.0437,GW-Messstelle,Acker
+80302520,KEMPEN KINDERGARTEN,Kempen,Düsseldorf,2015-12-03,50.0,51.356,6.4244,GW-Messstelle,Acker
+106505452,STOP2 BR STOPPEL,Bad Salzuflen,Detmold,2015-09-14,50.0,52.1112,8.8041,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106530215,"PH46N -6,5m ML",Petershagen,Detmold,2015-04-23,50.0,52.3243,8.9665,GW-Messstelle,Acker
+31040093,Wül-Silberberg B18,Wülfrath,Düsseldorf,2015-09-15,50.0,51.3004,7.0439,GW-Messstelle,Acker
+80301800,STADTHALLE      328,Straelen,Düsseldorf,2015-07-01,49.6,51.4451,6.2595,GW-Messstelle,Acker
+110200070,TE/7 -RIESENBECK-,Hörstel,Münster,2015-11-02,49.6,52.2618,7.6142,GW-Messstelle,Acker
+118052056,W.BROCHTERBECK-VK05,Tecklenburg,Münster,2015-04-21,49.5,52.2106,7.7455,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+76555112,MUELHENS K 6 R1,Köln,Köln,2015-07-14,49.1,50.964,6.8857,GW-Messstelle,Grünland
+106530239,"PH46N-10,0m ML",Petershagen,Detmold,2015-04-23,49.1,52.3243,8.9665,GW-Messstelle,Acker
+42063681,LINEG_2570H,Duisburg,Düsseldorf,2015-03-13,49.0,51.5092,6.6478,GW-Messstelle,Acker
+42063334,LINEG_2539H,Duisburg,Düsseldorf,2015-03-24,49.0,51.3847,6.7061,GW-Messstelle,"bebaut, besiedelt"
+10409040,Pionierquelle,"Aachen, Stadt",Köln,2016-01-20,48.7,50.7366,6.099,gefasste Quelle,Wald
+80302063,KAMPERLINGS,Kempen,Düsseldorf,2015-11-19,48.2,51.3507,6.4205,GW-Messstelle,Acker
+24170070,QU 1 Leiberg Bueren,Wünnenberg,Detmold,2015-12-15,48.0,51.526,8.6655,gefasste Quelle,Acker
+106506067,KHELL BR HELLBERG,Kalletal,Detmold,2015-04-09,48.0,52.1064,8.9889,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+94190094,Paulinenquelle,Marsberg,Arnsberg,2015-09-30,47.8,51.4696,8.8709,gefasste Quelle,Acker
+94130700,Quelle Hs Westrich,Werl,Arnsberg,2015-04-01,47.8,51.5467,7.8653,ungefasste Quelle,Acker
+94130723,Quelle Kurpark Werl,Werl,Arnsberg,2015-04-01,47.8,51.5553,7.9093,ungefasste Quelle,"bebaut, besiedelt"
+106505180,LESTU BR STUCKEN LE,Lemgo,Detmold,2015-06-30,47.0,52.0062,8.9231,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+94190173,TB Gut Forst 1,Marsberg,Arnsberg,2015-04-14,46.9,51.3971,8.8871,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+106530057,"PHG43-12,0m ML",Petershagen,Detmold,2015-03-31,46.9,52.3472,8.9983,GW-Messstelle,Acker
+59540308,BQ III Stockumerstr,Witten,Arnsberg,2015-08-18,46.9,51.4478,7.3766,GW-Messstelle,"bebaut, besiedelt"
+73567012,GEW Köln 373A-tief,Köln,Köln,2015-06-22,46.0,51.0007,6.8367,GW-Messstelle,Acker
+21171403,OL 289 Thüle,Salzkotten,Detmold,2015-10-07,46.0,51.7087,8.5756,GW-Messstelle,"bebaut, besiedelt"
+21184008,OL 121  Lippspringe,Bad Lippspringe,Detmold,2015-12-03,46.0,51.7557,8.833,GW-Messstelle,Acker
+110220390,HS/39 -COE. GOXEL-,Coesfeld,Münster,2015-09-10,46.0,51.935,7.1071,GW-Messstelle,Acker
+26502173,BR Boekendorf,Brakel,Detmold,2015-05-28,46.0,51.7655,9.2074,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+76886414,RBK ALTABL. NUSSB.1,Bergisch Gladbach,Köln,2015-07-23,46.0,51.0072,7.1105,GW-Messstelle,Wald
+59140288,Linnuferquelle,Hagen,Arnsberg,2015-03-23,45.6,51.3844,7.5354,gefasste Quelle,"bebaut, besiedelt"
+10203199,Ürsfeld,"Aachen, Stadt",Köln,2015-03-12,45.6,50.823,6.0657,GW-Messstelle,Acker
+73751789,WVS SUSEWIND QF,Kürten,Köln,2015-04-08,45.6,51.0235,7.2266,gefasste Quelle,Wald
+20104042,206 A Tief - 94/4.2,Bielefeld,Detmold,2015-09-22,45.1,51.9376,8.5042,GW-Messstelle,Grünland
+42065264,LINEG_2719,Kamp-Lintfort,Düsseldorf,2015-12-09,45.0,51.5306,6.5651,GW-Messstelle,Wald
+42065082,LINEG_2702,Rheinberg,Düsseldorf,2015-12-07,45.0,51.5481,6.5613,GW-Messstelle,Acker
+26501430,BR Welda,Warburg,Detmold,2015-05-20,45.0,51.4539,9.1186,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+42011097,LINEG_1251,Moers,Düsseldorf,2015-12-10,45.0,51.5131,6.6112,GW-Messstelle,Acker
+70199619,LGD HERSEL RP 4n,Bornheim,Köln,2015-04-29,44.7,50.7631,7.0563,GW-Messstelle,"bebaut, besiedelt"
+10408381,Linnich Br 630 Rohw,Linnich,Köln,2015-04-27,44.7,50.9892,6.2444,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+73529217,GEM. ALFTER 6,Alfter,Köln,2015-08-13,44.7,50.6755,7.0199,GW-Messstelle,Acker
+73508615,UNI   141A,Köln,Köln,2015-07-06,44.7,50.9276,6.9295,GW-Messstelle,"bebaut, besiedelt"
+20791410,OTTBBOTTBE,Höxter,Detmold,2015-09-01,44.3,51.7037,9.3027,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+94160193,Quelle Stallmeister,Rüthen,Arnsberg,2015-04-23,44.2,51.5035,8.4601,gefasste Quelle,Acker
+289077217,Wanlo,Mönchengladbach,Düsseldorf,2015-07-30,44.2,51.0972,6.4241,GW-Messstelle,Acker
+10409063,Quelle Kinzweiler,Eschweiler,Köln,2016-01-20,44.2,50.8421,6.2203,ungefasste Quelle,Acker
+106506109,KTALL BR TALLE,Kalletal,Detmold,2015-04-09,44.0,52.0945,8.8946,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+73512618,526 HOENIN,Köln,Köln,2015-06-11,44.0,50.8812,6.9442,GW-Messstelle,Acker
+24180853,PB 4     Wewer,Paderborn,Detmold,2015-12-03,44.0,51.6927,8.7104,GW-Messstelle,Acker
+10403474,TEVEREN NATO BR. I,Geilenkirchen,Köln,2015-03-09,44.0,50.9568,6.0527,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+26504212,TB Gehrden,Brakel,Detmold,2015-05-28,44.0,51.6624,9.1117,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+70189110,LGD MENDEN neu,Sankt Augustin,Köln,2015-04-23,43.5,50.7732,7.1442,GW-Messstelle,Acker
+26541208,"770-14,0m ML",Versmold,Detmold,2015-07-21,43.3,52.0602,8.2384,GW-Messstelle,Acker
+94130735,Quelle Westönnen,Werl,Arnsberg,2015-04-01,43.2,51.5566,7.9689,ungefasste Quelle,Acker
+73737288,WG GROSSHAMBERG QF,Burscheid,Köln,2015-04-01,42.9,51.0786,7.0693,gefasste Quelle,Grünland
+94160041,Quelle Eikeloh,Erwitte,Arnsberg,2015-10-28,42.9,51.6231,8.393,Schachtbrunnen,Acker
+20104054,205F   - 94/4.1 LGD,Bielefeld,Detmold,2015-09-22,42.8,51.9376,8.5041,GW-Messstelle,Acker
+94150023,Ahse-Quelle,Bad Sassendorf,Arnsberg,2015-09-04,42.8,51.5862,8.1837,ungefasste Quelle,"bebaut, besiedelt"
+73529412,GEM. ALFTER 8,Rheinbach,Köln,2015-07-13,42.7,50.6686,7.0145,GW-Messstelle,Wald
+91163705,Pöppelsche Eikeloh,Erwitte,Arnsberg,2015-06-15,42.7,51.6161,8.3962,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+94170459,Geseker Spring,Geseke,Arnsberg,2015-04-15,42.5,51.637,8.5098,ungefasste Quelle,"bebaut, besiedelt"
+70201316,LGD Menden Siegstr.,Sankt Augustin,Köln,2015-04-27,42.5,50.7816,7.1689,GW-Messstelle,Acker
+80303390,WALBECK WALD    402,Geldern,Düsseldorf,2015-07-01,42.0,51.5189,6.2172,GW-Messstelle,Wald
+94120353,Jacobsqu Billmerich,Unna,Arnsberg,2015-04-13,42.0,51.5115,7.6885,gefasste Quelle,Acker
+94140248,Qu Am großen Teich,Soest,Arnsberg,2015-04-09,41.9,51.5731,8.1084,gefasste Quelle,"bebaut, besiedelt"
+94120341,Quelle Hemmerde,Unna,Arnsberg,2015-04-13,41.0,51.5521,7.8079,gefasste Quelle,Acker
+70283618,LGD Hürth-Kalsch.,Hürth,Köln,2015-06-19,40.9,50.8829,6.9118,GW-Messstelle,"bebaut, besiedelt"
+80302798,SÜCHTELN        350,Viersen,Düsseldorf,2015-09-04,40.7,51.2788,6.3759,GW-Messstelle,Acker
+110200172,TE/17 -OSTENWALDE-,Hörstel,Münster,2015-03-13,40.6,52.3376,7.5761,GW-Messstelle,Acker
+20103062,III/6.2 Harsewinkel,Harsewinkel,Detmold,2015-07-14,40.5,51.9847,8.2411,GW-Messstelle,Acker
+20790302,BR Riesel -Nethetal,Brakel,Detmold,2015-05-28,40.0,51.6985,9.1651,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+26504261,QU Erkeln,Brakel,Detmold,2015-11-03,40.0,51.6619,9.2253,gefasste Quelle,Wald
+80302944,HOOG POELYCK    371,Kerken,Düsseldorf,2015-08-19,40.0,51.4781,6.3999,GW-Messstelle,Acker
+80301848,SCHARENBERG     332,Wachtendonk,Düsseldorf,2015-10-02,40.0,51.3769,6.2967,GW-Messstelle,Grünland
+106520015,PH1003F Im TIMPEN,Petershagen,Detmold,2015-04-13,39.9,52.3541,9.0112,GW-Messstelle,Acker
+94130711,Quelle Büderich,Werl,Arnsberg,2015-04-01,39.9,51.5558,7.8767,ungefasste Quelle,Acker
+20060208,VI/20   VERSMOLD,Versmold,Detmold,2016-04-14,39.8,52.043,8.0933,GW-Messstelle,Acker
+219078117,Erkelenz 2,Erkelenz,Köln,2015-07-10,39.5,51.0769,6.3089,GW-Messstelle,"bebaut, besiedelt"
+113409163,COESFELD 16,Coesfeld,Münster,2015-04-20,39.4,51.9512,7.1943,GW-Messstelle,Acker
+26541178,"770- 4,0m ML",Versmold,Detmold,2015-07-21,39.3,52.0602,8.2384,GW-Messstelle,Acker
+73560110,Sinnersdorf 671,Pulheim,Köln,2015-07-01,39.3,51.013,6.8197,GW-Messstelle,Acker
+40606107,Sermer Str.,Duisburg,Düsseldorf,2015-12-01,39.1,51.3501,6.695,GW-Messstelle,Acker
+26504327,BR Sommersell,Nieheim,Detmold,2015-05-11,39.0,51.8408,9.1754,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+110040156,IV/15 -MIDDENDORF-,Saerbeck,Münster,2015-09-01,39.0,52.1776,7.6008,GW-Messstelle,Acker
+100746410,LHEID BR HEIDEN LAG,Lage,Detmold,2015-11-04,39.0,51.9771,8.8591,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+94140250,Quelle Ampen,Soest,Arnsberg,2015-04-09,39.0,51.5547,8.0522,gefasste Quelle,Acker
+26500036,Q 55 Bredenborn,Marienmünster,Detmold,2016-01-26,38.9,51.8099,9.179,ungefasste Quelle,Acker
+80300996,NIERSKANAL      247,Geldern,Düsseldorf,2015-08-25,38.8,51.5243,6.2773,GW-Messstelle,Acker
+110250072,BERGB 7-NORDICK-,Ascheberg,Münster,2015-11-25,38.6,51.7297,7.7151,GW-Messstelle,Acker
+10306237,"Ophoven, GwMst. 1",Wassenberg,Köln,2015-05-11,38.6,51.101,6.1304,GW-Messstelle,Grünland
+76931912,RBK ALTABL.TH-FLI 1,Bergisch Gladbach,Köln,2015-07-27,38.6,50.9919,7.1008,GW-Messstelle,"bebaut, besiedelt"
+91133609,Büderich ML62,Werl,Arnsberg,2015-10-26,38.4,51.5488,7.8786,GW-Messstelle,"bebaut, besiedelt"
+94160089,Quelle Rißnei,Rüthen,Arnsberg,2015-05-05,38.3,51.5058,8.4652,gefasste Quelle,Acker
+10202341,FZJ Nr. 40,Niederzier,Köln,2015-05-11,38.0,50.8937,6.4423,GW-Messstelle,Acker
+26503219,Br Eichholz,Steinheim,Detmold,2015-03-25,38.0,51.8407,9.0699,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+279483910,Rheinbach2,Rheinbach,Köln,2015-12-16,37.8,50.6295,6.9539,GW-Messstelle,"bebaut, besiedelt"
+10203217,BLEIBUIR FLACH,Mechernich,Köln,2015-06-15,37.8,50.5938,6.5681,GW-Messstelle,Acker
+10409312,HAUSERBD. HAUPTFAS.,Mechernich,Köln,2015-06-17,37.3,50.5393,6.6628,gefasste Quelle,Acker
+73779210,WBV THOMASBERG P 9,Königswinter,Köln,2015-10-08,37.2,50.7043,7.2329,GW-Messstelle,"bebaut, besiedelt"
+100748454,KS 5 QU  Kalld.Satl,Kalletal,Detmold,2015-02-12,37.2,52.1381,8.9683,gefasste Quelle,Wald
+26504625,TB Altenbergen,Marienmünster,Detmold,2015-10-13,37.0,51.7935,9.2529,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+110210177,ST.GEB/17 -OLFEN-,Olfen,Münster,2015-10-29,37.0,51.71,7.3545,GW-Messstelle,Acker
+42013550,LINEG_1498H,Moers,Düsseldorf,2015-01-15,37.0,51.437,6.6364,GW-Messstelle,Acker
+100791554,VLWS5 TB WESERSTRAS,Vlotho,Detmold,2015-10-28,37.0,52.1651,8.8914,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+73546010,THENHOVEN 622,Köln,Köln,2015-06-16,37.0,51.041,6.8653,GW-Messstelle,Acker
+106530318,"BS 1 ML  -13,00 NOR",Bad Salzuflen,Detmold,2015-10-05,36.8,52.0247,8.7578,GW-Messstelle,Acker
+36411450,VWW LANGENFELD P30,Langenfeld (Rhld.),Düsseldorf,2015-10-01,36.8,51.1066,6.9273,GW-Messstelle,Acker
+80303237,SPORTPLATZ      386,Geldern,Düsseldorf,2016-01-07,36.7,51.5291,6.3027,GW-Messstelle,Acker
+289195810,Hoisten,Neuss,Düsseldorf,2015-05-18,36.6,51.1365,6.7129,GW-Messstelle,Acker
+60230058,BO/4 A -LOWICK-,Bocholt,Münster,2015-01-29,36.6,51.8344,6.5681,GW-Messstelle,Acker
+73561915,GEW KOELN 681,Köln,Köln,2015-06-30,36.4,50.9775,6.879,GW-Messstelle,"bebaut, besiedelt"
+80300376,MÜLHAUSEN   Nr00/91,Grefrath,Düsseldorf,2016-01-27,36.3,51.3532,6.3684,GW-Messstelle,Grünland
+24170173,BR 4    Salzkotten,Salzkotten,Detmold,2015-04-15,36.0,51.6693,8.6255,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+100731296,MH 8 HORIHUXH-MACKE,Porta Westfalica,Detmold,2015-10-08,36.0,52.22,8.923,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+70276018,LGD BN-RUENGSDORF,Bonn,Köln,2016-03-29,35.8,50.6798,7.1741,GW-Messstelle,"bebaut, besiedelt"
+70198111,LGD GEYEN,Pulheim,Köln,2015-08-19,35.8,50.9798,6.8039,GW-Messstelle,Acker
+94120390,Quelle Geinegge,Hamm,Arnsberg,2015-04-16,35.8,51.7182,7.7217,gefasste Quelle,Acker
+40100066,GRUENTHAL NR 7,Alpen,Düsseldorf,2015-04-30,35.6,51.5932,6.5362,GW-Messstelle,Grünland
+70270016,LGD LESSENICH,Bonn,Köln,2015-05-19,35.5,50.7243,7.0539,GW-Messstelle,"bebaut, besiedelt"
+80302518,WILLICH   FESTPLATZ,Willich,Düsseldorf,2016-03-07,35.4,51.2651,6.543,GW-Messstelle,Grünland
+59540618,WETTER 18/2,Wetter (Ruhr),Arnsberg,2015-08-04,35.3,51.3775,7.3862,GW-Messstelle,Acker
+73542015,HEIMERSDORF 597,Köln,Köln,2015-06-16,35.2,51.011,6.8915,GW-Messstelle,"bebaut, besiedelt"
+24180762,Br Buergerpark TN11,Paderborn,Detmold,2015-10-27,35.1,51.7119,8.7461,GW-Messstelle,"bebaut, besiedelt"
+94130590,Quelle Biber,Arnsberg,Arnsberg,2015-04-08,35.1,51.385,7.9364,gefasste Quelle,Acker
+10409336,Quelle Hohlbachtal,Nideggen,Köln,2015-06-08,35.1,50.6785,6.4856,Schachtbrunnen,Grünland
+100731478,MH1109   HUXHOEHE,Porta Westfalica,Detmold,2015-06-24,35.0,52.2202,8.9793,GW-Messstelle,Acker
+73727180,BOHLSCHEID EITORF,Eitorf,Köln,2015-03-24,35.0,50.7592,7.4548,gefasste Quelle,Wald
+60220697,HS/69 -HUELSTEN-,Reken,Münster,2015-11-25,35.0,51.8085,7.1175,GW-Messstelle,Acker
+73770905,WBV THOMASBERG EB 5,Königswinter,Köln,2015-05-19,35.0,50.7177,7.2524,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10202808,Alsdorf-Zopp,Alsdorf,Köln,2015-06-10,35.0,50.864,6.1332,GW-Messstelle,Acker
+10202675,FZJ Nr. 65,Niederzier,Köln,2015-05-11,35.0,50.892,6.4547,GW-Messstelle,keine Angabe
+110200184,TE/18 -DREIERWALDE-,Hörstel,Münster,2015-03-12,34.9,52.3581,7.539,GW-Messstelle,Acker
+289194714,Neukirch.2,Grevenbroich,Düsseldorf,2015-06-02,34.9,51.1105,6.6865,GW-Messstelle,Acker
+26540198,"178-15,5m ML",Bielefeld,Detmold,2015-09-29,34.8,51.9373,8.5306,GW-Messstelle,Acker
+10409956,Eselbach-Quelle,Nideggen,Köln,2015-02-18,34.8,50.664,6.404,ungefasste Quelle,Grünland
+60240428,AH/42-ZWILLBROCK-,Vreden,Münster,2015-06-23,34.6,52.0512,6.7045,GW-Messstelle,Grünland
+21000049,603 LGD Halle,Halle (Westf.),Detmold,2015-07-02,34.6,52.0602,8.3482,GW-Messstelle,"bebaut, besiedelt"
+21000300,626             LGD,Verl,Detmold,2015-09-23,34.6,51.9164,8.5141,GW-Messstelle,Acker
+100140762,WG 70    TAPPENAU,Petershagen,Detmold,2015-04-16,34.4,52.3754,8.8944,GW-Messstelle,Acker
+86541377,E Hoppbruch Br.15,Mönchengladbach,Düsseldorf,2015-03-26,34.3,51.173,6.4977,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+59621620,Asbeck,Menden (Sauerland),Arnsberg,2015-09-29,34.2,51.4009,7.8837,GW-Messstelle,"bebaut, besiedelt"
+94130619,Quelle Hövel,Sundern (Sauerland),Arnsberg,2015-05-04,34.2,51.3646,7.9199,Schachtbrunnen,Wald
+106530290,"BS 1 ML  -08,00 NOR",Bad Salzuflen,Detmold,2015-10-05,34.2,52.0247,8.7578,GW-Messstelle,Acker
+94140224,Quelle Delecke,Möhnesee,Arnsberg,2015-05-07,34.1,51.497,8.1073,gefasste Quelle,Acker
+24180087,Storchenquelle,Borchen,Detmold,2016-01-28,34.1,51.6612,8.7377,ungefasste Quelle,Acker
+106505117,MATO2 BR MATORF LEM,Lemgo,Detmold,2015-10-02,34.0,52.0622,8.8878,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+60070602,HS 116 A,Dorsten,Münster,2015-11-20,34.0,51.7051,6.9687,GW-Messstelle,"bebaut, besiedelt"
+94160170,Br WLK Warstein,Warstein,Arnsberg,2015-09-24,34.0,51.4589,8.3683,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+106505014,HUMF2 BR HUMFELD,Dörentrup,Detmold,2015-05-26,34.0,52.0272,9.0803,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+42063310,LINEG_2537H,Duisburg,Düsseldorf,2015-03-10,34.0,51.3868,6.6523,GW-Messstelle,Acker
+40070130,1 07 030 - HS 111,Schermbeck,Düsseldorf,2015-12-02,33.9,51.6896,6.8631,GW-Messstelle,Acker
+106500028,LUEG4 QU LUEGDE,Lügde,Detmold,2015-02-12,33.8,51.9563,9.2142,ungefasste Quelle,Wald
+24180865,PB 5     Borchen,Borchen,Detmold,2015-10-07,33.7,51.6616,8.7137,GW-Messstelle,Acker
+113409151,COESFELD 15,Coesfeld,Münster,2015-04-20,33.7,51.95,7.2017,GW-Messstelle,Grünland
+80303262,DAIMLERSTRASSE  389,Neuss,Düsseldorf,2016-03-07,33.6,51.2263,6.6628,GW-Messstelle,"bebaut, besiedelt"
+70134212,LGD BN KREUZKIRCHE,Bonn,Köln,2015-10-12,33.4,50.7321,7.1023,GW-Messstelle,"bebaut, besiedelt"
+10403590,WW Gangelt Br. V,Gangelt,Köln,2015-07-28,33.2,50.9786,6.0464,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+106502566,VLWBG QU WINTERBG 1,Vlotho,Detmold,2015-10-28,33.0,52.1563,8.8782,gefasste Quelle,Acker
+106502426,HUBE1 BR HUBERTUS,Horn-Bad Meinberg,Detmold,2015-05-05,33.0,51.9037,9.0605,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+42014542,LINEG_1597,Rheinberg,Düsseldorf,2015-12-07,33.0,51.5842,6.5721,GW-Messstelle,Acker
+59620274,Deilinghofen 1,Hemer,Arnsberg,2015-10-05,33.0,51.3838,7.8304,GW-Messstelle,Acker
+31040032,Wül-Rohdenhaus FP2,Wülfrath,Düsseldorf,2015-09-14,32.8,51.315,7.0143,GW-Messstelle,Acker
+80300789,HOLTMÜHLE 223,Mönchengladbach,Düsseldorf,2015-08-31,32.7,51.1529,6.3021,GW-Messstelle,Acker
+40406015,Bremenkampstr,Oberhausen,Düsseldorf,2015-06-23,32.7,51.5476,6.805,GW-Messstelle,Grünland
+100730103,PS 5  BR SPRENGELWG,Porta Westfalica,Detmold,2015-10-20,32.4,52.2086,8.9501,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+59140185,INMET B7,Hagen,Arnsberg,2015-04-20,32.3,51.3871,7.4535,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+110200457,TE/45 Püsselbüren,Ibbenbüren,Münster,2015-12-08,32.3,52.3056,7.6587,GW-Messstelle,Acker
+73506813,KLETT  431,Köln,Köln,2015-06-23,32.2,50.9079,6.9198,GW-Messstelle,"bebaut, besiedelt"
+100140014,WG 2     MINDEN,Minden,Detmold,2015-09-17,32.2,52.2891,8.8952,GW-Messstelle,"bebaut, besiedelt"
+73537410,GEW KOELN 570,Köln,Köln,2015-07-02,32.2,50.9838,6.9103,GW-Messstelle,"bebaut, besiedelt"
+80200734,VENNICKEL 160,Krefeld,Düsseldorf,2015-09-10,32.1,51.3878,6.6159,GW-Messstelle,Acker
+94120330,KA Frömern,Fröndenberg,Arnsberg,2015-05-26,32.0,51.5095,7.743,Schachtbrunnen,Acker
+80303330,VERNUM          396,Geldern,Düsseldorf,2015-10-12,32.0,51.492,6.3539,GW-Messstelle,Acker
+100720341,PW 4 BR  WIETERSHM,Petershagen,Detmold,2015-08-10,32.0,52.3423,8.9713,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+100740029,LORM2 BR LORENZMEIE,Bad Salzuflen,Detmold,2015-05-11,32.0,52.1057,8.7794,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+20782925,GO 2    Golf Harsew,Harsewinkel,Detmold,2015-04-23,32.0,51.9524,8.2486,GW-Messstelle,Acker
+10409658,Pferdekopfquelle,Kall,Köln,2016-01-27,31.9,50.5175,6.5352,gefasste Quelle,Wald
+118260042,WW.LETTE-VFP.04,Coesfeld,Münster,2015-04-22,31.9,51.8877,7.1683,GW-Messstelle,"bebaut, besiedelt"
+100135468,PH 43 ML FRILLE,Petershagen,Detmold,2015-03-31,31.9,52.3472,8.9983,GW-Messstelle,Acker
+80300662,HEIDWEIHER 209,Schwalmtal,Düsseldorf,2015-07-07,31.7,51.2429,6.2365,GW-Messstelle,Wald
+59130441,DO-Holthausen RWI26,Dortmund,Arnsberg,2015-06-08,31.5,51.5665,7.4365,GW-Messstelle,"bebaut, besiedelt"
+80300947,UEDEM        HY 242,Uedem,Düsseldorf,2015-08-24,31.3,51.6632,6.2675,GW-Messstelle,"bebaut, besiedelt"
+218642817,Baesweiler,Baesweiler,Köln,2015-10-14,31.2,50.9136,6.198,GW-Messstelle,Acker
+70197910,LGD Troisdf.-Spich,Troisdorf,Köln,2015-01-12,31.2,50.8229,7.1137,GW-Messstelle,"bebaut, besiedelt"
+80301460,NIEL            294,Kranenburg,Düsseldorf,2015-09-28,31.2,51.8262,6.0184,GW-Messstelle,Grünland
+100160025,LF 2 Spenge Werther,Spenge,Detmold,2015-06-30,31.2,52.1158,8.4238,GW-Messstelle,Acker
+100702119,WH 1+2 BR HADDENH,Minden,Detmold,2015-05-11,31.0,52.2782,8.8451,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+42060620,LINEG_2216H,Kamp-Lintfort,Düsseldorf,2015-12-04,31.0,51.4793,6.5654,GW-Messstelle,Acker
+59540734,Baumeister,Breckerfeld,Arnsberg,2015-03-23,31.0,51.2707,7.4317,GW-Messstelle,Acker
+73770504,WBV THOMASBERG EB 1,Königswinter,Köln,2015-05-19,31.0,50.7076,7.2336,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+10403978,Kirchhoven Br7 Rohw,Heinsberg (Rhld.),Köln,2015-11-17,30.9,51.0739,6.0534,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+100141389,WG 89    Nordfriedh,Minden,Detmold,2015-09-17,30.8,52.3121,8.9153,GW-Messstelle,"bebaut, besiedelt"
+10409488,Erftquelle,Nettersheim,Köln,2015-03-05,30.6,50.4999,6.7329,ungefasste Quelle,Grünland
+26500140,Q 18 Gehrden,Brakel,Detmold,2015-02-25,30.6,51.6458,9.1385,ungefasste Quelle,Grünland
+21001790,770ML Siedinghausen,Versmold,Detmold,2015-07-21,30.4,52.0602,8.2384,GW-Messstelle,Acker
+10409701,Schlabergquell Hahn,"Aachen, Stadt",Köln,2015-02-24,30.4,50.7109,6.199,ungefasste Quelle,Grünland
+94160077,Mühlenteichquelle,Erwitte,Arnsberg,2015-05-26,30.4,51.6135,8.3406,ungefasste Quelle,"bebaut, besiedelt"
+91174909,Brilon LederkeOL748,Brilon,Arnsberg,2015-12-01,30.3,51.3864,8.5349,GW-Messstelle,Acker
+59621151,Musikschule,Iserlohn,Arnsberg,2015-10-07,30.3,51.3791,7.7004,GW-Messstelle,"bebaut, besiedelt"
+10409968,Michelsbach-Quelle,Simmerath,Köln,2015-02-18,30.2,50.6399,6.3516,ungefasste Quelle,Grünland
+110200226,TE/22 -HALVERDE-,Hopsten,Münster,2015-03-26,30.1,52.4105,7.6558,GW-Messstelle,Acker
+24170150,Hederquelle,Salzkotten,Detmold,2016-02-17,30.1,51.6536,8.6007,ungefasste Quelle,Acker
+118610247,WW.OFFLUM-VF24,Neuenkirchen,Münster,2015-04-16,30.0,52.2409,7.3347,GW-Messstelle,Acker
+100741654,HSTE4 BR STEINB-QG,Bad Salzuflen,Detmold,2015-03-31,30.0,52.1016,8.761,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+80301678,HUISBERDEN      315,Bedburg-Hau,Düsseldorf,2015-09-09,30.0,51.7895,6.2326,GW-Messstelle,Acker
+26501820,BR Niesen,Willebadessen,Detmold,2015-10-07,30.0,51.6171,9.1196,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106530306,"BS 1 ML  -10,50 NOR",Bad Salzuflen,Detmold,2015-10-05,30.0,52.0247,8.7578,GW-Messstelle,Acker
+59110302,FIEGE,Bochum,Arnsberg,2015-05-06,30.0,51.4814,7.2323,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+42016459,LINEG_1767,Xanten,Düsseldorf,2015-01-13,30.0,51.6743,6.4623,GW-Messstelle,"bebaut, besiedelt"
+20790624,INDWBALBII,Höxter,Detmold,2015-03-10,29.9,51.8176,9.4108,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+34608448,Industriestr.GWM2n,Velbert,Düsseldorf,2015-09-15,29.8,51.3438,7.0657,GW-Messstelle,"bebaut, besiedelt"
+20103074,III/7           LGD,Harsewinkel,Detmold,2015-07-14,29.7,51.9572,8.2215,GW-Messstelle,"bebaut, besiedelt"
+99580093,Quelle Bestwig,Bestwig,Arnsberg,2015-02-27,29.7,51.349,8.3753,gefasste Quelle,Wald
+218673917,Brachelen,Hückelhoven,Köln,2015-10-15,29.7,51.0098,6.2244,GW-Messstelle,Acker
+73774200,WLV REMLINGRADE EB,Radevormwald,Köln,2015-04-02,29.7,51.235,7.3384,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+60230265,BO/26 -SPORK-,Bocholt,Münster,2015-12-08,29.6,51.8603,6.5505,GW-Messstelle,Grünland
+24180026,QU Gellinghausen,Borchen,Detmold,2016-01-28,29.6,51.6384,8.7427,ungefasste Quelle,Acker
+73774182,WLV OENKFELD EB,Radevormwald,Köln,2015-04-02,29.4,51.2287,7.3589,gefasste Quelle,Grünland
+289194910,Anstel   3,Rommerskirchen,Düsseldorf,2015-05-18,29.3,51.0616,6.7206,GW-Messstelle,Acker
+76402710,KWR MP 1 Alte Waage,Rheinbach,Köln,2015-11-17,29.3,50.661,6.9914,GW-Messstelle,Sonstiges
+24180166,Qu Maspern-Pader,Paderborn,Detmold,2016-02-17,29.2,51.7222,8.7517,gefasste Quelle,Acker
+10203266,VLATTEN TIEF,Heimbach,Köln,2015-05-11,29.1,50.6475,6.5361,GW-Messstelle,Acker
+106505166,LEENT TB ENTRUP LEM,Lemgo,Detmold,2015-04-08,29.0,52.0509,8.8901,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+26504870,BR Peckelsheim,Willebadessen,Detmold,2015-03-24,29.0,51.6074,9.11,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+129660279,Niederhelden II,Attendorn,Arnsberg,2015-07-21,29.0,51.1169,7.9641,GW-Messstelle,Acker
+106502475,ALMEN BR ALMENA,Extertal,Detmold,2015-09-28,29.0,52.1036,9.0755,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106505178,LEMAT BR PIEPENBORN,Lemgo,Detmold,2015-04-30,29.0,52.0152,8.8987,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+20751011,KAPEBHORI,Höxter,Detmold,2015-03-10,28.8,51.7875,9.4079,Horizontalfilterbrunnen,Acker
+73756714,RGW Köln HÖ 036,Köln,Köln,2015-10-22,28.8,50.9857,7.0266,GW-Messstelle,"bebaut, besiedelt"
+73564217,GEW KOELN 702,Köln,Köln,2015-07-03,28.3,50.9946,6.8793,GW-Messstelle,Grünland
+86591459,E St.Hubert Br.1,Kempen,Düsseldorf,2015-11-16,28.2,51.3801,6.4778,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+60240386,AH/38 -HEVEN-,Schöppingen,Münster,2015-09-15,28.1,52.0586,7.2187,GW-Messstelle,Acker
+106505439,SZ 1 BR  SCHULZ EHR,Bad Salzuflen,Detmold,2015-05-11,28.0,52.0771,8.7679,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106501100,ROTHB QU ROTHENBORN,Blomberg,Detmold,2015-03-30,28.0,51.9423,9.0698,gefasste Quelle,Acker
+20753019,BRUEBII,Höxter,Detmold,2015-03-10,27.9,51.7686,9.4093,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+91135000,Sundern-Stockum,Sundern (Sauerland),Arnsberg,2015-11-09,27.9,51.2965,7.979,GW-Messstelle,Acker
+20752349,SCHEB004,Höxter,Detmold,2015-09-01,27.8,51.7914,9.3672,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+70197714,LGD Uckendf. KSWerk,Niederkassel,Köln,2015-01-12,27.8,50.8139,7.0845,GW-Messstelle,Acker
+129660188,Heggen,Finnentrop,Arnsberg,2015-08-17,27.8,51.1523,7.9532,GW-Messstelle,"bebaut, besiedelt"
+10421373,Mariaschacht P1a,Stolberg (Rhld.),Köln,2015-06-10,27.7,50.7181,6.2171,GW-Messstelle,Grünland
+10202201,FZJ Nr. 25,Jülich,Köln,2015-05-20,27.7,50.8981,6.394,GW-Messstelle,Acker
+59110168,B3 Paul Müller Str,Bochum,Arnsberg,2015-06-17,27.7,51.5137,7.2666,GW-Messstelle,"bebaut, besiedelt"
+100730024,PS 12ABR EISBERGEN,Porta Westfalica,Detmold,2015-10-20,27.4,52.2105,8.9957,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+21175706,OL 125  Sande,Paderborn,Detmold,2015-10-08,27.4,51.7547,8.6621,GW-Messstelle,Acker
+73746710,BAD HONNEF AG 3,Bad Honnef,Köln,2015-07-31,27.3,50.6287,7.2192,GW-Messstelle,"bebaut, besiedelt"
+110200445,TE/44 Wallenbrock,Westerkappeln,Münster,2015-12-01,27.3,52.3372,7.8488,GW-Messstelle,Grünland
+10409348,Quelle Mühlbachtal,Nideggen,Köln,2015-03-16,27.2,50.6695,6.4846,gefasste Quelle,Wald
+60081429,HS 130,Marl,Münster,2015-12-03,27.1,51.6269,7.0549,GW-Messstelle,"bebaut, besiedelt"
+80303614,DORMAGEN-ZONS PR-P1,Dormagen,Düsseldorf,2015-09-23,27.1,51.1192,6.8525,GW-Messstelle,Acker
+73770802,WBV THOMASBERG EB 4,Königswinter,Köln,2015-05-19,27.0,50.7144,7.2277,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+20780369,BR 6A Tatenhausen,Halle (Westf.),Detmold,2015-03-05,27.0,52.0441,8.3445,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+26504820,BR Loewen,Willebadessen,Detmold,2015-03-24,27.0,51.5843,9.1084,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+80301551,GRUNEWALD       303,Goch,Düsseldorf,2016-01-28,27.0,51.7222,6.0416,GW-Messstelle,Wald
+80303353,VIERSEN KÖRNER  398,Viersen,Düsseldorf,2015-10-14,26.9,51.2509,6.3874,GW-Messstelle,Acker
+100135020,PH1002   PAEPINGHSN,Minden,Detmold,2015-06-24,26.9,52.3201,8.9803,GW-Messstelle,Acker
+20791318,LUETBARTES,Höxter,Detmold,2015-03-04,26.7,51.7861,9.3224,gefasste Quelle,Wald
+80301484,MEHR            296,Kranenburg,Düsseldorf,2015-09-28,26.7,51.8092,6.0559,GW-Messstelle,Grünland
+218219210,Katzem,Titz,Köln,2015-07-30,26.6,51.022,6.3732,GW-Messstelle,Acker
+91161356,Grasweg Eikeloh,Erwitte,Arnsberg,2015-05-28,26.5,51.6208,8.3932,GW-Messstelle,Acker
+10410041,Klosterquelle,Dahlem,Köln,2016-01-25,26.5,50.3933,6.5176,ungefasste Quelle,Wald
+80302660,ELTEN,Emmerich,Düsseldorf,2015-09-02,26.2,51.8731,6.1629,GW-Messstelle,"bebaut, besiedelt"
+24180063,BR Boeddeken Bueren,Büren,Detmold,2015-10-05,26.1,51.5956,8.6794,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+30302079,Rem-Erdelenstraße,Remscheid,Düsseldorf,2015-12-16,26.1,51.1925,7.1928,GW-Messstelle,"bebaut, besiedelt"
+26502185,BR Schmechten,Brakel,Detmold,2015-11-03,26.0,51.6875,9.0805,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+23160949,HFB 4 Boker Heide,Delbrück,Detmold,2015-05-20,26.0,51.7207,8.5366,Horizontalfilterbrunnen,Acker
+106500041,HIL42 QU DOERENTRUP,Dörentrup,Detmold,2015-05-26,26.0,52.0516,8.9982,gefasste Quelle,Acker
+40061383,DUISSERN NR 53,Duisburg,Düsseldorf,2015-12-02,25.9,51.4397,6.7872,GW-Messstelle,"bebaut, besiedelt"
+80303559,MILLINGEN HAUPTSTR,Rees,Düsseldorf,2015-09-30,25.9,51.8098,6.3963,GW-Messstelle,"bebaut, besiedelt"
+110200366,TE/36 LEEDEN MagStr,Tecklenburg,Münster,2015-03-24,25.8,52.2067,7.8736,GW-Messstelle,Acker
+94180120,Que Helminghausen,Marsberg,Arnsberg,2015-04-14,25.8,51.3908,8.7229,gefasste Quelle,Wald
+73774303,WG KORMANNSHSN. EB,Hückeswagen,Köln,2015-04-02,25.7,51.1704,7.342,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+10301574,Eschwlr. Ringofen1,Eschweiler,Köln,2015-03-23,25.5,50.8067,6.2583,GW-Messstelle,"bebaut, besiedelt"
+70196515,LGD OBERKASSEL,Bonn,Köln,2015-04-23,25.5,50.7096,7.17,GW-Messstelle,"bebaut, besiedelt"
+76990280,VVS Siebengeb. QF,Königswinter,Köln,2015-03-25,25.5,50.6743,7.2497,gefasste Quelle,Wald
+10421427,Mariaschacht P6,Stolberg (Rhld.),Köln,2015-08-26,25.4,50.7608,6.2879,GW-Messstelle,Grünland
+70201810,LGD HANGEL.FRIEDHOF,Sankt Augustin,Köln,2015-04-28,25.3,50.7638,7.1653,GW-Messstelle,"bebaut, besiedelt"
+10421439,Mariaschacht P7,Stolberg (Rhld.),Köln,2015-06-10,25.3,50.7478,6.2599,GW-Messstelle,"bebaut, besiedelt"
+23063075,178 ML          W 2,Bielefeld,Detmold,2015-09-29,25.3,51.9372,8.5303,GW-Messstelle,Acker
+59621072,Felsenmeer,Hemer,Arnsberg,2015-09-08,25.3,51.3786,7.7846,GW-Messstelle,Acker
+94170332,Br Alme 2,Brilon,Arnsberg,2015-11-04,25.0,51.4485,8.6523,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+26504339,QU Erwitzen,Nieheim,Detmold,2015-05-11,25.0,51.7767,9.1002,gefasste Quelle,Wald
+26501417,BR Ossendorf,Warburg,Detmold,2015-05-20,25.0,51.5055,9.0771,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+24170148,BR 3    Salzkotten,Salzkotten,Detmold,2015-04-15,25.0,51.6811,8.6305,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+24180403,BR Marx -TN2-Dr-Mer,Paderborn,Detmold,2015-08-10,25.0,51.7412,8.7669,Vertikalfilterbrunnen (Bohrbrunnen),keine Angabe
+59621291,Ahm,Iserlohn,Arnsberg,2015-08-31,24.9,51.3558,7.5975,GW-Messstelle,Grünland
+40100091,LANDWEHR,Oberhausen,Düsseldorf,2015-04-29,24.9,51.4595,6.8483,GW-Messstelle,"bebaut, besiedelt"
+21184306,PB2T    Paderborn,Paderborn,Detmold,2015-10-27,24.7,51.7261,8.7744,GW-Messstelle,"bebaut, besiedelt"
+94180027,Quelle Am Hagen,Marsberg,Arnsberg,2015-04-14,24.5,51.4055,8.7593,gefasste Quelle,Grünland
+47200066,Haus Aap Br.15,Wesel,Düsseldorf,2015-09-08,24.4,51.6476,6.6563,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+91135102,Sundern-Seidfeld,Sundern (Sauerland),Arnsberg,2015-10-19,24.4,51.3046,7.9825,GW-Messstelle,Grünland
+91143100,Oberröhre B1/92,Sundern (Sauerland),Arnsberg,2015-11-09,24.4,51.3139,8.0188,GW-Messstelle,"bebaut, besiedelt"
+218643615,Tgb. Inden,Eschweiler,Köln,2015-10-14,24.2,50.843,6.3088,GW-Messstelle,Acker
+32032110,UWB-Ddorf 00865,Düsseldorf,Düsseldorf,2015-08-28,24.2,51.2168,6.7689,GW-Messstelle,"bebaut, besiedelt"
+10421397,Mariaschacht P3,Stolberg (Rhld.),Köln,2015-06-10,24.2,50.7351,6.2404,GW-Messstelle,Grünland
+59620201,HALIG010,Menden (Sauerland),Arnsberg,2015-09-09,24.1,51.4681,7.7592,GW-Messstelle,Acker
+106505154,LUERD QU LUERDISSEN,Lemgo,Detmold,2015-06-01,24.0,52.0624,8.9279,gefasste Quelle,Acker
+73770607,WBV THOMASBERG EB 2,Königswinter,Köln,2015-05-19,24.0,50.72,7.2257,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+16003998,AC GOLF-CLUB BR/Peg,"Aachen, Stadt",Köln,2015-02-11,23.9,50.7834,6.0301,GW-Messstelle,Grünland
+10406402,Overhuesallee P 10,Düren,Köln,2016-04-04,23.8,50.789,6.4707,GW-Messstelle,"bebaut, besiedelt"
+80301654,KELLEN          313,Kleve,Düsseldorf,2015-01-07,23.8,51.8026,6.1749,GW-Messstelle,"bebaut, besiedelt"
+76819310,RBK ALTABL.B2/1,Bergisch Gladbach,Köln,2015-07-23,23.7,50.9678,7.1115,GW-Messstelle,Wald
+80301540,KARTENSP.WEG    302,Kranenburg,Düsseldorf,2015-09-03,23.7,51.7332,6.0267,GW-Messstelle,Wald
+24180919,Jordanquelle,Bad Lippspringe,Detmold,2015-03-19,23.7,51.7846,8.826,ungefasste Quelle,Acker
+289194611,Langwaden,Grevenbroich,Düsseldorf,2015-05-21,23.4,51.1121,6.6387,GW-Messstelle,Acker
+106530320,"BS 1 ML  -15,50 NOR",Bad Salzuflen,Detmold,2015-10-05,23.4,52.0247,8.7578,GW-Messstelle,Acker
+42063607,LINEG_2562H,Duisburg,Düsseldorf,2015-03-11,23.3,51.4573,6.6994,GW-Messstelle,"bebaut, besiedelt"
+30302640,Düss-Mühlenweg,Düsseldorf,Düsseldorf,2015-09-29,23.3,51.3104,6.7457,GW-Messstelle,"bebaut, besiedelt"
+99580044,TB Enkhausen_1,Sundern (Sauerland),Arnsberg,2015-07-29,23.0,51.3737,7.9546,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+106505312,ASEM1 BR ASEMISSEN,Leopoldshöhe,Detmold,2015-04-15,23.0,51.9754,8.6671,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+80301873,FORSTWALD STOFF.335,Tönisvorst,Düsseldorf,2015-10-13,23.0,51.3011,6.4834,GW-Messstelle,Acker
+106505853,LUWOE BR WOERDERFEL,Lügde,Detmold,2015-04-21,23.0,51.8979,9.3209,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+70187915,LGD TROISDORF RP 12,Troisdorf,Köln,2015-01-13,22.9,50.8203,7.1257,GW-Messstelle,"bebaut, besiedelt"
+70205218,LGD Beuel Kreuz BAB,Bonn,Köln,2015-06-10,22.9,50.7546,7.1413,GW-Messstelle,"bebaut, besiedelt"
+73775381,WG WASSERFUHR,Gummersbach,Köln,2015-03-30,22.8,51.0402,7.5366,gefasste Quelle,Wald
+10407467,Alendorf-Quelle,Blankenheim,Köln,2015-09-17,22.8,50.3704,6.6373,gefasste Quelle,Grünland
+86568371,E In der Elt VHB 2,Krefeld,Düsseldorf,2015-05-21,22.7,51.3307,6.6567,Horizontalfilterbrunnen,Acker
+110060234,VI/23 -BEELEN-,Beelen,Münster,2015-11-17,22.6,51.9474,8.1108,GW-Messstelle,Acker
+129700071,Herrenwiese,Bad Berleburg,Arnsberg,2015-04-13,22.6,51.0669,8.4063,Sammelschacht,Grünland
+70148715,LGD KOENIGSDF.NEU,Frechen,Köln,2015-07-14,22.6,50.9432,6.7636,GW-Messstelle,Wald
+70204410,LGD Siegb. Berl.Pl.,Siegburg,Köln,2015-04-28,22.5,50.7952,7.2004,GW-Messstelle,"bebaut, besiedelt"
+76781010,GANSER LEV PII,Leverkusen,Köln,2015-07-21,22.5,51.0287,6.9878,GW-Messstelle,"bebaut, besiedelt"
+34709010,Dep. Diehl GWM 1,Remscheid,Düsseldorf,2015-09-17,22.5,51.2191,7.2454,GW-Messstelle,"bebaut, besiedelt"
+91175008,Steinbruch Weiken,Brilon,Arnsberg,2015-11-10,22.4,51.3768,8.5322,GW-Messstelle,Grünland
+73510919,WEISS  510,Köln,Köln,2015-10-05,22.4,50.88,7.0432,GW-Messstelle,Acker
+70276110,LGD BN-MEHLEM,Bonn,Köln,2015-07-08,22.4,50.6603,7.1966,GW-Messstelle,"bebaut, besiedelt"
+60240155,AH/15-AVERBECK-,Heek,Münster,2015-06-09,22.3,52.1172,7.1169,GW-Messstelle,Grünland
+73553815,BRAUNSFELD 156 A,Köln,Köln,2015-06-11,22.3,50.9358,6.8853,GW-Messstelle,"bebaut, besiedelt"
+219974317,Enzen    2,Zülpich,Köln,2015-11-23,22.2,50.6518,6.6899,GW-Messstelle,Acker
+288066613,Hoppers,Jüchen,Düsseldorf,2015-05-04,22.1,51.1325,6.5085,GW-Messstelle,Acker
+24180920,Lippe-Quelle,Bad Lippspringe,Detmold,2016-02-17,22.1,51.7817,8.8226,ungefasste Quelle,Acker
+70157110,LGD K-NIEHL IND.STR,Köln,Köln,2015-07-07,22.1,51.0105,6.9476,GW-Messstelle,"bebaut, besiedelt"
+10409695,Gouleyquelle,Würselen,Köln,2015-02-09,22.1,50.8334,6.1073,gefasste Quelle,Wald
+59620183,MEDICE_B,Iserlohn,Arnsberg,2015-03-16,22.0,51.3779,7.6556,gefasste Quelle,Acker
+20781246,BR 4 Patthorst,Steinhagen,Detmold,2015-06-18,22.0,52.0141,8.3881,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+70283813,LGD BN VENNE,Bonn,Köln,2015-06-03,21.9,50.6735,7.0973,GW-Messstelle,Wald
+26531045,"101-14,0m ML OL",Hövelhof,Detmold,2015-08-11,21.8,51.8272,8.7082,GW-Messstelle,Wald
+218677315,Frenz,Eschweiler,Köln,2015-10-14,21.8,50.8426,6.3174,GW-Messstelle,"bebaut, besiedelt"
+80100946,FRAGENHÜTTE   Nr024,Korschenbroich,Düsseldorf,2015-02-27,21.7,51.1984,6.5058,GW-Messstelle,"bebaut, besiedelt"
+76956805,Westermann Lev EB 9,Leverkusen,Köln,2015-04-01,21.5,51.0601,7.0275,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+110210207,ST.GEB/20 Börnste,Dülmen,Münster,2015-11-16,21.4,51.8521,7.2537,GW-Messstelle,Grünland
+26541180,"770- 8,0m ML",Versmold,Detmold,2015-07-21,21.4,52.0602,8.2384,GW-Messstelle,Acker
+73903206,WG EGEN TB,Wipperfürth,Köln,2015-10-13,21.3,51.1683,7.4078,Vertikalfilterbrunnen (Bohrbrunnen),keine Angabe
+73774686,WG SCHOENEBORN QU,Marienheide,Köln,2015-04-10,21.2,51.0642,7.547,gefasste Quelle,Grünland
+80200801,NIEVENHEIM      167,Dormagen,Düsseldorf,2016-01-06,21.2,51.1184,6.7771,GW-Messstelle,"bebaut, besiedelt"
+110240145,AH/14 COE.M.GAUPEL,Coesfeld,Münster,2015-09-16,21.1,51.9769,7.1929,GW-Messstelle,Acker
+106501926,KLUE4 BR KLUET DETM,Detmold,Detmold,2015-07-01,21.0,51.9699,8.9063,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+100761161,BH 7  BR HABIGHORST,Bünde,Detmold,2015-04-14,21.0,52.2208,8.5544,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+94180118,Steinbornquelle,Brilon,Arnsberg,2015-10-07,21.0,51.4125,8.706,gefasste Quelle,Wald
+118731026,WW.KINDERH.ALT-VK02,Münster,Münster,2015-10-07,21.0,52.0037,7.6133,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+26501429,BR Germete,Warburg,Detmold,2015-05-20,21.0,51.4877,9.108,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+129660050,Repetalquellen 1-5,Attendorn,Arnsberg,2015-05-08,21.0,51.1282,7.9809,gefasste Quelle,Wald
+94170101,Quelle Altenbüren,Brilon,Arnsberg,2015-11-04,21.0,51.3993,8.4971,gefasste Quelle,Wald
+30302055,Soli-Ketzberger Str,Solingen,Düsseldorf,2015-09-17,20.8,51.1928,7.0777,GW-Messstelle,"bebaut, besiedelt"
+10409087,Urfey Römerqu. 2,Mechernich,Köln,2015-11-12,20.8,50.5399,6.6316,gefasste Quelle,Wald
+70200210,LGD HERSEL RP 5n,Bornheim,Köln,2015-06-01,20.7,50.7672,7.0621,GW-Messstelle,Acker
+10201026,LENDERSDORF NR 5,Düren,Köln,2015-05-06,20.6,50.7728,6.4955,GW-Messstelle,Wald
+94160740,Quelle Kallenhardt,Rüthen,Arnsberg,2016-03-07,20.4,51.4527,8.4375,gefasste Quelle,Acker
+23062861,66F    - 97/23  W 2,Bielefeld,Detmold,2015-07-29,20.4,51.9454,8.5675,GW-Messstelle,Wald
+16001813,DALLI-WERKE BR.III,Stolberg (Rhld.),Köln,2015-11-23,20.4,50.7628,6.2288,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+60092233,HS/70 -STRUENKEDE-,Haltern,Münster,2015-12-01,20.3,51.7858,7.1673,GW-Messstelle,Acker
+10409154,WESPELQUELLE,Nettersheim,Köln,2015-03-05,20.3,50.5212,6.6908,gefasste Quelle,Wald
+40200061,BISLICH NR 28,Wesel,Düsseldorf,2015-10-20,20.3,51.6776,6.4883,GW-Messstelle,"bebaut, besiedelt"
+10410053,Brumbachquelle,Nettersheim,Köln,2015-03-05,20.2,50.5013,6.6981,gefasste Quelle,Acker
+10403528,TEVEREN NATO P1A,Gangelt,Köln,2015-03-09,20.2,50.968,6.0405,GW-Messstelle,"bebaut, besiedelt"
+99580172,TB Struth,Hallenberg,Arnsberg,2015-09-24,20.2,51.097,8.6415,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+80301356,HORREM   BAHN   283,Dormagen,Düsseldorf,2015-03-17,20.1,51.1065,6.8051,GW-Messstelle,Acker
+59130714,Martener Hellweg,Dortmund,Arnsberg,2015-10-26,20.1,51.5017,7.3865,GW-Messstelle,Acker
+71100805,ADENDORF ZBR 457,Wachtberg,Köln,2015-10-14,20.1,50.6204,7.0656,Schachtbrunnen,Wald
+60240295,AH/29 -HOLTHAUSEN-,Velen,Münster,2015-09-16,20.1,51.9275,6.9142,GW-Messstelle,Acker
+80301344,UEDESHEIM       282,Neuss,Düsseldorf,2015-07-03,20.1,51.1619,6.7802,GW-Messstelle,"bebaut, besiedelt"
+100706680,HE 10 BR HEDEM,Preußisch Oldendorf,Detmold,2015-11-10,20.0,52.3174,8.5039,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+100707543,WR 4  BR ROTHENUFFN,Hille,Detmold,2015-10-16,20.0,52.3024,8.7694,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+129660176,Silbecke,Attendorn,Arnsberg,2015-08-05,20.0,51.1465,7.983,GW-Messstelle,Grünland
+106502402,GÖSTR BR GÖSTRUP EX,Extertal,Detmold,2015-05-21,20.0,52.0945,9.0359,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106505129,EICHE BR EICHEN LEM,Lemgo,Detmold,2015-01-30,20.0,52.0485,8.9106,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+70424019,WTV 303 Nb004,Hennef (Sieg),Köln,2015-04-14,20.0,50.7908,7.2728,GW-Messstelle,Acker
+70466117,WTV HENNEF Mc007,Hennef (Sieg),Köln,2015-04-14,20.0,50.7853,7.2567,GW-Messstelle,keine Angabe
+70284118,LGD BN WALDAU,Bonn,Köln,2015-06-03,19.7,50.6911,7.0943,GW-Messstelle,Wald
+100135560,PH 7N    ROEHDEN,Petershagen,Detmold,2015-04-08,19.7,52.4793,9.06,GW-Messstelle,Grünland
+20161517,W 9     Werth Barnh,Borgholzhausen,Detmold,2015-06-30,19.6,52.0973,8.3452,GW-Messstelle,Wald
+26541154,"769-9,0m ML Pavenst",Gütersloh,Detmold,2015-09-29,19.6,51.9061,8.339,GW-Messstelle,"bebaut, besiedelt"
+26495028,Qu Brandsmuehle,Oerlinghausen,Detmold,2015-03-19,19.5,51.9527,8.6411,ungefasste Quelle,Wald
+70197817,LGD STOCKEM,Niederkassel,Köln,2015-04-24,19.5,50.8307,7.0794,GW-Messstelle,Acker
+42013800,LINEG_1523,Duisburg,Düsseldorf,2015-01-15,19.5,51.4948,6.6553,GW-Messstelle,Wald
+73774480,WBV OHL QUELLE II,Wipperfürth,Köln,2015-04-10,19.4,51.1045,7.4856,gefasste Quelle,Wald
+60081430,HS 131,Marl,Münster,2015-04-28,19.4,51.6345,7.1103,GW-Messstelle,Acker
+73756817,RGW Köln Hö 044,Köln,Köln,2015-06-24,19.3,50.9871,7.0322,GW-Messstelle,"bebaut, besiedelt"
+70200816,LGD Widdig GEW 115,Bornheim,Köln,2016-03-15,19.2,50.7977,7.0226,GW-Messstelle,"bebaut, besiedelt"
+40200905,BERGEN 177,Wesel,Düsseldorf,2015-10-21,19.1,51.7154,6.515,GW-Messstelle,Wald
+26500115,Q11A Ottbergen,Höxter,Detmold,2015-02-12,19.1,51.7175,9.2678,ungefasste Quelle,Acker
+73757512,RGW Köln WE 101,Köln,Köln,2015-03-19,19.1,50.9096,7.0136,GW-Messstelle,"bebaut, besiedelt"
+76744218,BASF K-Mülh. 1,Köln,Köln,2015-10-22,19.1,50.9846,7.02,GW-Messstelle,"bebaut, besiedelt"
+73726382,HUWIL-WERKE,Ruppichteroth,Köln,2016-03-08,19.0,50.846,7.4876,Sickerstollen,"bebaut, besiedelt"
+26501454,QU Scherfede,Warburg,Detmold,2015-05-20,19.0,51.5654,8.9989,gefasste Quelle,Wald
+26500139,Q 23 NEUENH NETHE,Bad Driburg,Detmold,2016-01-28,19.0,51.6759,8.9978,ungefasste Quelle,"bebaut, besiedelt"
+21190707,OL744 Licht Hakenb,Lichtenau,Detmold,2015-10-07,19.0,51.629,8.9493,GW-Messstelle,Acker
+106503730,BLAS3 QU BLASHEI1-5,Lübbecke,Detmold,2015-04-21,19.0,52.2775,8.5826,gefasste Quelle,Wald
+70201419,LGD NPLEIS Hauptstr,Sankt Augustin,Köln,2016-04-05,19.0,50.7704,7.2033,GW-Messstelle,"bebaut, besiedelt"
+26540502,"I/8C-1,8m ML    LGD",Verl,Detmold,2015-08-06,19.0,51.8417,8.5361,GW-Messstelle,Acker
+106506080,KBROS BR BROSEN,Kalletal,Detmold,2015-10-15,19.0,52.0921,8.9547,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+26504352,T1 Holzhsn-Schule,Nieheim,Detmold,2015-05-11,19.0,51.7925,9.1297,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+26504388,TB Entrup,Nieheim,Detmold,2015-05-11,19.0,51.8288,9.137,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+106502463,ROTT  BR ROTT EXTER,Extertal,Detmold,2015-02-25,19.0,52.1255,9.1266,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+26504868,TB Helmern,Willebadessen,Detmold,2015-10-07,19.0,51.6092,9.0772,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+70203910,LGD Bornh. Sportpl.,Bornheim,Köln,2015-04-20,18.9,50.7634,6.9983,GW-Messstelle,"bebaut, besiedelt"
+10407297,Engelbertus-Brunnen,Bad Münstereifel,Köln,2015-07-01,18.9,50.5899,6.7849,Horizontalfilterbrunnen,Grünland
+60071606,HS 9,Dorsten,Münster,2015-12-07,18.9,51.6946,6.9278,GW-Messstelle,Wald
+10409014,Ahrquelle,Blankenheim,Köln,2015-06-18,18.8,50.4381,6.6495,gefasste Quelle,"bebaut, besiedelt"
+10307229,Arloff P 5.2 neu,Bad Münstereifel,Köln,2015-04-15,18.8,50.597,6.7988,GW-Messstelle,Acker
+129660190,Ennest,Attendorn,Arnsberg,2015-07-20,18.7,51.1415,7.9245,GW-Messstelle,"bebaut, besiedelt"
+110220808,HS/80 COE.FLAMSCHEN,Coesfeld,Münster,2015-12-07,18.4,51.924,7.1492,GW-Messstelle,Grünland
+73512515,GEW KOELN 525,Köln,Köln,2015-10-05,18.4,50.8877,7.0407,GW-Messstelle,Wald
+32032250,UWB-Ddorf 13243,Düsseldorf,Düsseldorf,2015-09-14,18.4,51.2482,6.7768,GW-Messstelle,"bebaut, besiedelt"
+26525094,575.2 W1 Sennestadt,Bielefeld,Detmold,2015-09-09,18.3,51.9473,8.5962,GW-Messstelle,"bebaut, besiedelt"
+10409646,Römerquelle,Nettersheim,Köln,2015-04-16,18.2,50.5123,6.6061,gefasste Quelle,Wald
+16003706,"SIG Combiblock,Br.I",Linnich,Köln,2015-03-26,18.2,50.9794,6.2768,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+21000610,657LGD Neuenkirchen,Rietberg,Detmold,2015-10-28,18.2,51.8286,8.4357,GW-Messstelle,"bebaut, besiedelt"
+76806420,K ALTABL. A 15b,Köln,Köln,2015-08-06,18.2,50.9007,7.1,GW-Messstelle,Wald
+100120015,BS 1     KNETTERHDE,Bad Salzuflen,Detmold,2015-10-22,18.1,52.0623,8.7472,GW-Messstelle,"bebaut, besiedelt"
+110200287,TE/28 NIEDERSEESTE,Westerkappeln,Münster,2015-03-24,18.1,52.3568,7.9057,GW-Messstelle,Grünland
+99580123,Que In den Steinen,Winterberg,Arnsberg,2015-09-21,18.1,51.2488,8.5628,gefasste Quelle,Grünland
+110200391,TE/39 LEEDEN GUTST,Lengerich,Münster,2015-03-20,18.1,52.2065,7.8667,GW-Messstelle,Wald
+94160090,Lörmecke-Quelle,Rüthen,Arnsberg,2015-01-14,18.0,51.4459,8.3964,Sickerstollen,Wald
+100750059,RE 5  BR REHME OEYN,Bad Oeynhausen,Detmold,2015-04-20,18.0,52.2139,8.8386,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+24190123,"SM Herbram Br1,2,4",Lichtenau,Detmold,2015-05-27,18.0,51.6689,8.9203,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+106505233,TB Glockenpohl,Schieder-Schwalenberg,Detmold,2015-10-08,18.0,51.9324,9.1744,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+106506020,KLUED BR LUEDENHAUS,Kalletal,Detmold,2015-04-09,18.0,52.0784,9.0259,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106502025,HELP9 BR HELPUP,Oerlinghausen,Detmold,2015-10-06,18.0,51.9738,8.6882,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+94170083,Que Kneblinghausen,Rüthen,Arnsberg,2015-04-23,17.9,51.4892,8.5201,gefasste Quelle,Wald
+86452010,E Br.7 20-107-03,Dormagen,Düsseldorf,2015-10-07,17.8,51.0819,6.7957,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+70199814,LGD K-NEUBRUECK2/92,Köln,Köln,2015-08-20,17.8,50.9349,7.0626,GW-Messstelle,Acker
+30302821,Hild-Stadtwald-Süd,Hilden,Düsseldorf,2015-01-09,17.7,51.1753,6.9534,GW-Messstelle,Wald
+99780112,TB Baumschule Kay,Schwerte,Arnsberg,2015-04-13,17.7,51.4571,7.6049,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+73726680,GIESSELBACH QF,Ruppichteroth,Köln,2016-03-23,17.7,50.8593,7.4616,gefasste Quelle,Wald
+42065100,LINEG_2704,Alpen,Düsseldorf,2015-12-09,17.6,51.5676,6.5332,GW-Messstelle,Grünland
+80301289,EICKEN          276,Mönchengladbach,Düsseldorf,2015-09-24,17.5,51.2128,6.449,GW-Messstelle,"bebaut, besiedelt"
+80200357,MEERERBUSCH   Nr 88,Meerbusch,Düsseldorf,2015-10-15,17.5,51.2649,6.6794,GW-Messstelle,Acker
+129700034,Pützhorn,Siegen,Arnsberg,2015-04-14,17.5,50.8543,8.0087,Sickerstollen,Wald
+73725780,GEM.WINDECK,Windeck,Köln,2015-03-23,17.5,50.7868,7.6112,gefasste Quelle,"bebaut, besiedelt"
+42065124,LINEG_2706,Alpen,Düsseldorf,2015-12-07,17.5,51.6213,6.5331,GW-Messstelle,"bebaut, besiedelt"
+219976417,Euenheim 1,Euskirchen,Köln,2015-12-08,17.4,50.654,6.7659,GW-Messstelle,Acker
+94150448,Stollen  Wehrstapel,Meschede,Arnsberg,2015-12-15,17.4,51.3452,8.3417,Sickerstollen,Wald
+100135596,PH 28N   HAEVERN,Petershagen,Detmold,2015-04-09,17.4,52.4241,9.0188,GW-Messstelle,Acker
+91167504,Kallenhardt DEKRA,Rüthen,Arnsberg,2015-09-29,17.4,51.4453,8.4236,GW-Messstelle,Acker
+10410132,Brommersbach-Quelle,Simmerath,Köln,2015-02-18,17.3,50.5803,6.3091,gefasste Quelle,"bebaut, besiedelt"
+70283011,LGD Troisdf. NH 6,Troisdorf,Köln,2015-01-13,17.2,50.8158,7.131,GW-Messstelle,"bebaut, besiedelt"
+76849211,DN SCHLEBUSCH 1,Leverkusen,Köln,2015-12-18,17.2,51.0248,7.0227,GW-Messstelle,"bebaut, besiedelt"
+26500012,Q 25 Antonius Neuh,Bad Driburg,Detmold,2015-02-25,17.1,51.6859,9.0157,ungefasste Quelle,Grünland
+129660024,Müllen,Finnentrop,Arnsberg,2015-11-25,17.0,51.176,7.9952,gefasste Quelle,Wald
+70284015,LGD BN KOTTENF. 4,Bonn,Köln,2015-05-18,17.0,50.6623,7.0448,GW-Messstelle,Wald
+70443208,WTV HB2 Mb008,Hennef (Sieg),Köln,2015-04-13,17.0,50.7901,7.2557,Horizontalfilterbrunnen,Acker
+86452216,E DRIESCH D904,Kaarst,Düsseldorf,2015-09-22,17.0,51.2118,6.598,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+94160107,Bullerteichquelle,Warstein,Arnsberg,2015-01-22,17.0,51.4482,8.3565,Sammelschacht,"bebaut, besiedelt"
+106502335,VELDR QU VELDROM,Horn-Bad Meinberg,Detmold,2015-04-20,17.0,51.8266,8.9412,gefasste Quelle,Grünland
+76632015,BN Altabl. BP 72,Bonn,Köln,2015-05-21,17.0,50.6585,7.1563,GW-Messstelle,"bebaut, besiedelt"
+26501302,BR 1   Warburg-Kern,Warburg,Detmold,2015-05-20,17.0,51.4824,9.1293,Schachtbrunnen,Grünland
+26501405,BR Bonenburg,Warburg,Detmold,2015-10-21,17.0,51.5538,9.0674,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10407418,SCHMITHOF Brunnen,"Aachen, Stadt",Köln,2015-04-15,16.9,50.6967,6.1585,Schachtbrunnen,Grünland
+80000113,UEDEMERFELD   Nr 05,Uedem,Düsseldorf,2015-09-01,16.9,51.6661,6.2964,GW-Messstelle,Grünland
+129660577,Herpel,Drolshagen,Arnsberg,2015-10-14,16.9,51.069,7.7885,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+94110219,Br Freibad Schöne,Holzwickede,Arnsberg,2015-04-13,16.9,51.5057,7.6415,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+59540837,Spedition Schulte,Schwelm,Arnsberg,2015-05-06,16.8,51.2927,7.2963,GW-Messstelle,"bebaut, besiedelt"
+118262099,WW.LETTE-HUMB.-VK09,Coesfeld,Münster,2015-04-22,16.8,51.8665,7.1731,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10409142,Siebenquellen Nord,"Aachen, Stadt",Köln,2015-02-09,16.7,50.7877,6.04,gefasste Quelle,keine Angabe
+218129415,Wildenrath,Wegberg,Köln,2015-10-15,16.7,51.1182,6.1954,GW-Messstelle,"bebaut, besiedelt"
+76866713,RBK ALTABL.STELLA 1,Bergisch Gladbach,Köln,2015-07-22,16.7,50.9792,7.1377,GW-Messstelle,"bebaut, besiedelt"
+73510312,KOELN  503,Köln,Köln,2015-06-11,16.6,50.918,6.9691,GW-Messstelle,"bebaut, besiedelt"
+70282810,LGD Troisdf. NH 4,Troisdorf,Köln,2015-01-12,16.6,50.8154,7.1354,GW-Messstelle,"bebaut, besiedelt"
+73725500,WBV WILBERHOFEN EB,Windeck,Köln,2015-03-23,16.6,50.8051,7.5363,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+24180968,PB10 BadL Steinbeke,Altenbeken,Detmold,2015-12-03,16.5,51.7859,8.8881,GW-Messstelle,Wald
+20791215,BOSSBBOSSE,Höxter,Detmold,2015-09-01,16.5,51.7569,9.2884,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+21161501,OL 31 Westenholz,Delbrück,Detmold,2015-11-03,16.5,51.7363,8.441,GW-Messstelle,"bebaut, besiedelt"
+59620109,Friedrichstal Br.II,Neuenrade,Arnsberg,2015-03-30,16.4,51.2892,7.8027,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+73767610,SW TROISD ESCH 24,Troisdorf,Köln,2015-08-03,16.3,50.7944,7.1183,GW-Messstelle,"bebaut, besiedelt"
+60240118,AH/11 SCHOEPPINGEN,Schöppingen,Münster,2015-04-16,16.2,52.1102,7.1883,GW-Messstelle,Acker
+94170435,Que Am Plattenberg,Brilon,Arnsberg,2015-04-10,16.1,51.3887,8.6516,ungefasste Quelle,Grünland
+70465915,WTV HENNEF Mb007,Hennef (Sieg),Köln,2015-04-14,16.0,50.79,7.2547,GW-Messstelle,keine Angabe
+100700550,WE 5A BR WEHE RAHDN,Rahden,Detmold,2015-10-19,16.0,52.4582,8.6857,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+23002785,W02 12A Sennest-Wes,Bielefeld,Detmold,2015-09-09,16.0,51.9473,8.5645,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+94180106,Quelle Giershagen,Marsberg,Arnsberg,2015-04-14,15.9,51.4075,8.7963,Sammelschacht,Wald
+59620134,LANGLOTZ,Halver,Arnsberg,2015-03-30,15.9,51.1907,7.4928,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+110200482,TE/48 Lienen Bad,Lienen,Münster,2015-11-24,15.8,52.1548,7.9718,GW-Messstelle,Wald
+80303328,ISSUM           395,Issum,Düsseldorf,2015-03-27,15.8,51.5367,6.4017,GW-Messstelle,Grünland
+86600643,SWK P 462,Krefeld,Düsseldorf,2015-11-30,15.7,51.3644,6.6175,GW-Messstelle,"bebaut, besiedelt"
+70202310,LGD MONDORF RP 7n,Niederkassel,Köln,2015-07-20,15.7,50.7744,7.0697,GW-Messstelle,"bebaut, besiedelt"
+10409270,Sülchesbachquelle,Nettersheim,Köln,2015-08-31,15.6,50.4853,6.7382,gefasste Quelle,Grünland
+76929310,ZANDERS BGL 5/98,Kürten,Köln,2015-07-28,15.6,51.0112,7.2148,GW-Messstelle,Grünland
+10410193,Vellerhofquelle,Blankenheim,Köln,2016-01-25,15.5,50.3934,6.6984,gefasste Quelle,Acker
+42011358,LINEG_1276H,Rheinberg,Düsseldorf,2015-01-16,15.4,51.5308,6.6459,GW-Messstelle,"bebaut, besiedelt"
+94170320,Br Scharfenberg,Brilon,Arnsberg,2015-04-10,15.4,51.4148,8.5232,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+76929218,ZANDERS BGL 4/98,Bergisch Gladbach,Köln,2015-07-28,15.4,51.0044,7.1827,GW-Messstelle,"bebaut, besiedelt"
+59621280,Kreishaus,Iserlohn,Arnsberg,2015-10-14,15.4,51.3723,7.7077,GW-Messstelle,"bebaut, besiedelt"
+10409610,Leukersbergquelle,Blankenheim,Köln,2015-12-10,15.2,50.4534,6.7404,gefasste Quelle,Grünland
+10201531,LENTHOLT,Erkelenz,Köln,2015-03-16,15.2,51.0925,6.2764,GW-Messstelle,Acker
+76988491,Wintermühlenhof QF,Königswinter,Köln,2015-03-26,15.2,50.6787,7.2098,gefasste Quelle,Wald
+42064697,LINEG_2663H,Moers,Düsseldorf,2015-12-14,15.2,51.4788,6.617,GW-Messstelle,"bebaut, besiedelt"
+100140324,WG 34    FROTHEIM,Espelkamp,Detmold,2015-06-02,15.1,52.3601,8.6654,GW-Messstelle,Acker
+106502219,MAI 1 BR MAIBOLTE,Lemgo,Detmold,2015-08-27,15.0,52.0432,8.965,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+24190032,QU Altenautal-Blind,Lichtenau,Detmold,2015-10-20,15.0,51.5732,8.8821,gefasste Quelle,Wald
+24190068,QU Apuhl-Quelle,Altenbeken,Detmold,2015-05-28,15.0,51.7559,8.954,gefasste Quelle,Wald
+106502130,BR 6 OeS Oehr.Senne,Oerlinghausen,Detmold,2015-04-13,15.0,51.9343,8.6608,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+23163495,TB 12   Diebesweg,Paderborn,Detmold,2015-10-27,15.0,51.7628,8.7646,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10408216,"WW Kall, Br. 1",Kall,Köln,2015-06-18,15.0,50.5476,6.5462,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+59620870,Iser.Krug von Nidda,Iserlohn,Arnsberg,2015-02-02,15.0,51.3738,7.7302,Schachtbrunnen,"bebaut, besiedelt"
+76988399,Forsths.Servat.hof,Bad Honnef,Köln,2015-03-26,14.9,50.6424,7.2856,gefasste Quelle,Wald
+20103037,III/3LGD Ordelheide,Steinhagen,Detmold,2015-07-15,14.9,52.0049,8.3754,GW-Messstelle,Wald
+113710185,ST OCHTRUP 019,Neuenkirchen,Münster,2015-06-29,14.8,52.2452,7.3374,GW-Messstelle,Acker
+94130656,Quelle Hüttebrüchen,Sundern (Sauerland),Arnsberg,2015-05-04,14.7,51.2688,7.9314,gefasste Quelle,Grünland
+26541191,"770-11,0m ML",Versmold,Detmold,2015-07-21,14.7,52.0602,8.2384,GW-Messstelle,Acker
+81150040,WEISSEN STEIN 877,Brüggen,Düsseldorf,2015-09-04,14.7,51.2758,6.1298,GW-Messstelle,Wald
+106500053,PIV33 QU PIVITSHEID,Detmold,Detmold,2015-02-25,14.6,51.9317,8.7663,ungefasste Quelle,Wald
+26531124,"103- 9,0m ML OL",Delbrück,Detmold,2015-08-04,14.6,51.7549,8.6159,GW-Messstelle,Acker
+129700125,Siegthalerfabrik,Siegen,Arnsberg,2015-04-15,14.5,50.8343,7.9823,Schachtbrunnen,"bebaut, besiedelt"
+59621321,Pater und Nonne,Iserlohn,Arnsberg,2015-09-30,14.3,51.3625,7.6336,GW-Messstelle,Grünland
+10407339,NachtigFetisschacht,Stolberg (Rhld.),Köln,2015-01-12,14.3,50.7466,6.2546,Schachtbrunnen,Wald
+73727301,HOMMERICHER HOF EB,Hennef (Sieg),Köln,2015-03-25,14.3,50.7421,7.2926,Schachtbrunnen,Acker
+129700812,Heisbergquelle,Freudenberg,Arnsberg,2015-04-15,14.2,50.8846,7.9278,gefasste Quelle,Wald
+80301307,LANK LATUM,Meerbusch,Düsseldorf,2015-07-03,14.2,51.294,6.6675,GW-Messstelle,Wald
+73775885,WG HAHNBUCHE QU.,Reichshof,Köln,2015-04-07,14.1,51.0011,7.7083,gefasste Quelle,Grünland
+106502165,BR 10 Wistinghausen,Oerlinghausen,Detmold,2015-10-06,14.0,51.9262,8.6629,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+24190251,Br Kleinenbg-Lichte,Lichtenau,Detmold,2015-05-27,14.0,51.5751,8.977,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+219671813,Birgel,Düren,Köln,2015-08-17,13.9,50.7786,6.435,GW-Messstelle,Acker
+73756507,WBV BECHEN EB I,Kürten,Köln,2015-04-09,13.8,51.0485,7.2111,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+73775289,WG REMERSCHEID,Engelskirchen,Köln,2015-03-31,13.8,51.013,7.453,gefasste Quelle,Wald
+10409051,Siebenquellen Süd,"Aachen, Stadt",Köln,2016-01-20,13.7,50.7874,6.0395,gefasste Quelle,Grünland
+31040020,Haan-Gruiten P38,Haan,Düsseldorf,2015-09-07,13.6,51.2277,7.0111,GW-Messstelle,"bebaut, besiedelt"
+10409865,Hermann-Josef-Quell,Kall,Köln,2015-04-16,13.6,50.5078,6.5616,gefasste Quelle,Wald
+26490997,BR10a    Spexard,Gütersloh,Detmold,2015-05-20,13.6,51.8692,8.406,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+80201714,KORSCHENBR.SPORTPL.,Korschenbroich,Düsseldorf,2015-09-23,13.6,51.1852,6.514,GW-Messstelle,Wald
+59620213,BINOLEN,Balve,Arnsberg,2015-03-24,13.5,51.3673,7.8602,gefasste Quelle,Wald
+68011210,WW.HALTERNHAARD-B21,Oer-Erkenschwick,Münster,2015-09-16,13.5,51.7024,7.2456,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+32032006,UWB-Ddorf 00572,Düsseldorf,Düsseldorf,2015-12-11,13.5,51.2586,6.8045,GW-Messstelle,"bebaut, besiedelt"
+94140170,Qu Meinkenbracht,Sundern (Sauerland),Arnsberg,2015-04-08,13.4,51.2641,8.0958,gefasste Quelle,Wald
+36462408,Stadtw.Haan BQ 9,Haan,Düsseldorf,2015-09-18,13.3,51.2196,7.0229,GW-Messstelle,Grünland
+70204214,LGD Beuel Bergweg,Bonn,Köln,2015-06-02,13.2,50.7331,7.1194,GW-Messstelle,"bebaut, besiedelt"
+129660206,Schönholthausen I,Finnentrop,Arnsberg,2015-07-15,13.2,51.1891,8.0283,GW-Messstelle,Acker
+70197313,LGD TROISD.-BERGHM.,Troisdorf,Köln,2015-04-30,13.2,50.7768,7.097,GW-Messstelle,"bebaut, besiedelt"
+21000440,640             LGD,Schloß Holte-Stukenbrock,Detmold,2015-10-22,13.2,51.8844,8.6504,GW-Messstelle,Acker
+73757433,RGW Köln WE 061 UW,Köln,Köln,2015-06-24,13.2,50.9117,7.0207,GW-Messstelle,"bebaut, besiedelt"
+59620754,Orle,Balve,Arnsberg,2015-09-30,13.1,51.3234,7.9024,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+73726000,IFANG EB,Ruppichteroth,Köln,2015-03-24,13.1,50.8394,7.496,Schachtbrunnen,Grünland
+76811311,RSK ALTABL. 124/B1,Troisdorf,Köln,2015-07-30,13.1,50.7773,7.1129,GW-Messstelle,Grünland
+10406396,Overhuesallee P 9,Düren,Köln,2016-04-04,13.1,50.7881,6.4745,GW-Messstelle,"bebaut, besiedelt"
+288193416,Wevelinghoven,Grevenbroich,Düsseldorf,2015-10-16,13.1,51.1075,6.6042,GW-Messstelle,Wald
+42013987,LINEG_1541,Rheinberg,Düsseldorf,2015-06-01,13.1,51.5437,6.6551,GW-Messstelle,Grünland
+100730050,VE3-10BR VE-KLINKE,Porta Westfalica,Detmold,2015-04-24,13.0,52.2055,8.9702,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+106506031,KVARE BR VARENHOLZ,Kalletal,Detmold,2015-04-09,13.0,52.1693,8.9836,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+31040100,Wül-Dornap P15,Wülfrath,Düsseldorf,2015-09-15,13.0,51.2581,7.0587,GW-Messstelle,Grünland
+10407212,MARMAGEN QUELLE,Nettersheim,Köln,2015-06-18,13.0,50.475,6.5672,Sammelschacht,Wald
+26502902,QU Katzohl-Quelle,Bad Driburg,Detmold,2015-06-09,13.0,51.7429,9.0,gefasste Quelle,Wald
+106505520,HARZB QU HARZBERG,Lügde,Detmold,2015-04-21,13.0,51.9174,9.207,gefasste Quelle,Wald
+47077062,Xanten-Wardt Br. G,Xanten,Düsseldorf,2015-05-13,12.9,51.678,6.4375,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106503649,PNAM2 TB NAMMEN,Porta Westfalica,Detmold,2015-04-22,12.8,52.2447,8.9979,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+129660220,Niederhelden I,Attendorn,Arnsberg,2015-08-17,12.8,51.1174,7.9716,GW-Messstelle,Grünland
+73774789,MARIENHEIDE QUELLE,Marienheide,Köln,2015-04-10,12.8,51.0983,7.5297,gefasste Quelle,Wald
+10407388,EICHER STOLLEN,"Aachen, Stadt",Köln,2015-04-15,12.8,50.7463,6.1347,Sickerstollen,Grünland
+91130906,Osttünnen ML46,Hamm,Arnsberg,2015-06-23,12.6,51.6437,7.8753,GW-Messstelle,Acker
+26531021,"101- 5,0m ML OL",Hövelhof,Detmold,2015-08-11,12.5,51.8272,8.7082,GW-Messstelle,Grünland
+10409622,Ursprungsquelle,Dahlem,Köln,2015-12-10,12.5,50.3889,6.542,gefasste Quelle,"bebaut, besiedelt"
+10410090,Gertrudenquelle,Dahlem,Köln,2016-01-25,12.4,50.4062,6.5425,gefasste Quelle,Acker
+42063670,LINEG_2569H,Duisburg,Düsseldorf,2015-03-12,12.3,51.5099,6.6682,GW-Messstelle,Grünland
+100135067,PH 3n    VORB KANAL,Petershagen,Detmold,2015-04-08,12.3,52.4836,9.0566,GW-Messstelle,Acker
+20104546,TB 5            W55,Augustdorf,Detmold,2015-03-09,12.3,51.8909,8.7203,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+86625123,OMOEB006,Kalkar,Düsseldorf,2015-04-27,12.3,51.7341,6.39,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+70284416,LGD ST.AUGUSTIN JZ,Sankt Augustin,Köln,2015-05-22,12.2,50.7807,7.1941,GW-Messstelle,"bebaut, besiedelt"
+73727088,DICKERSBACH QF,Eitorf,Köln,2015-03-23,12.1,50.7464,7.4974,gefasste Quelle,Wald
+59620079,URBECKE,Hemer,Arnsberg,2015-03-30,12.1,51.3909,7.7818,Sickerstollen,Wald
+129660231,Laubhagen,Kirchhundem,Arnsberg,2015-05-11,12.1,51.0468,8.1389,gefasste Quelle,Wald
+59620092,Springer Quelle,Altena,Arnsberg,2015-04-08,12.1,51.3042,7.7353,gefasste Quelle,Wald
+40200929,WESTERHEIDE 179,Wesel,Düsseldorf,2015-10-22,12.1,51.6749,6.5165,GW-Messstelle,Acker
+26502884,QU Poembsen,Bad Driburg,Detmold,2015-06-09,12.0,51.7782,9.0796,gefasste Quelle,Grünland
+23160925,HFB 2 Boker Heide,Delbrück,Detmold,2015-10-20,12.0,51.7457,8.6051,Horizontalfilterbrunnen,Acker
+26503153,BR Rotingdorfer Str,Werther (Westf.),Detmold,2015-09-07,12.0,52.0824,8.3927,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10409397,Embken Quelle 6,Nideggen,Köln,2015-06-08,12.0,50.681,6.5788,Schachtbrunnen,Grünland
+106505877,LUKOE BR KOETERBERG,Lügde,Detmold,2015-04-21,12.0,51.8548,9.3304,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+106502062,HELL3 BR HELLE,Oerlinghausen,Detmold,2015-04-13,12.0,51.9614,8.6546,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+20781052,BR 5 Harsewinkel,Harsewinkel,Detmold,2015-04-21,12.0,51.9404,8.2358,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+16000614,IPO P 2 Nord,Heinsberg (Rhld.),Köln,2015-05-07,12.0,51.068,6.1332,GW-Messstelle,"bebaut, besiedelt"
+100703331,SU 13A BR SUEDHEMM,Hille,Detmold,2015-10-27,12.0,52.3288,8.7516,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+42065367,LINEG_2729-1,Neukirchen-Vluyn,Düsseldorf,2015-11-11,12.0,51.4432,6.5315,GW-Messstelle,"bebaut, besiedelt"
+70282717,LGD Troisdf. NH 3,Troisdorf,Köln,2015-01-12,12.0,50.8165,7.1338,GW-Messstelle,"bebaut, besiedelt"
+76815717,HUELS TROISD 01.1,Troisdorf,Köln,2015-07-17,11.7,50.8295,7.134,GW-Messstelle,Wald
+22520156,He1     Herste,Brakel,Detmold,2015-07-16,11.7,51.7276,9.1199,GW-Messstelle,Wald
+59140331,Hünenpforte,Hagen,Arnsberg,2015-06-24,11.7,51.3509,7.5375,GW-Messstelle,Wald
+36411607,VWW LANGENFELD P25,Langenfeld (Rhld.),Düsseldorf,2015-06-30,11.7,51.0847,6.9383,GW-Messstelle,Acker
+10406347,Overhuesallee P 4,Düren,Köln,2016-04-04,11.7,50.7923,6.4743,GW-Messstelle,Grünland
+30302584,Lang-Heinenbusch,Langenfeld (Rhld.),Düsseldorf,2015-01-05,11.6,51.1285,6.9627,GW-Messstelle,"bebaut, besiedelt"
+59620869,Iserl.Wermingsertal,Iserlohn,Arnsberg,2015-02-03,11.5,51.3642,7.7153,Horizontalfilterbrunnen,Grünland
+73509310,WEISS  483,Köln,Köln,2015-10-01,11.3,50.8902,7.0295,GW-Messstelle,Wald
+73779118,WBV THOMASBERG P 8,Königswinter,Köln,2015-05-20,11.3,50.7069,7.2372,GW-Messstelle,Wald
+110151057,WA/5 DIESTEDDE,Wadersloh,Münster,2015-11-12,11.3,51.7433,8.1525,GW-Messstelle,Acker
+73774807,WVG Schmitzhöhe EB,Lindlar,Köln,2015-03-31,11.2,50.9868,7.2907,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+76809500,ITT AUTOM.BERGNEUST,Bergneustadt,Köln,2015-03-30,11.2,51.0179,7.6499,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+59620936,Hönnequelle,Neuenrade,Arnsberg,2015-03-16,11.2,51.2849,7.7578,gefasste Quelle,Wald
+129661004,Elspetal,Lennestadt,Arnsberg,2015-07-08,11.2,51.1512,8.0731,Schachtbrunnen,Grünland
+10409580,Wolfhäuschenquelle,Blankenheim,Köln,2015-11-17,11.2,50.419,6.7372,gefasste Quelle,Wald
+10409993,Krausquelle,Bad Münstereifel,Köln,2015-06-18,11.1,50.5043,6.7597,ungefasste Quelle,Grünland
+100120258,BS 1 ML  NORDHEIDE,Bad Salzuflen,Detmold,2015-10-05,11.1,52.0247,8.7578,GW-Messstelle,Acker
+219971912,Elsig,Euskirchen,Köln,2015-11-26,11.1,50.6657,6.7402,GW-Messstelle,"bebaut, besiedelt"
+10410247,Kranzbruch-Quelle,Monschau,Köln,2015-10-28,11.0,50.5989,6.2688,gefasste Quelle,Grünland
+106506110,HOHN BR  WBV HOHENH,Kalletal,Detmold,2015-07-27,11.0,52.1272,8.9782,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+106506043,KSTEM BR STEMMEN,Kalletal,Detmold,2015-04-09,11.0,52.1561,9.0011,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+24180439,Teich PH TN3-WestfK,Paderborn,Detmold,2015-10-01,11.0,51.7266,8.7442,Vertikalfilterbrunnen (Bohrbrunnen),keine Angabe
+10204003,Niederzier,Niederzier,Köln,2015-05-11,11.0,50.89,6.4505,GW-Messstelle,Acker
+42065604,LINEG_2748-1H,Kamp-Lintfort,Düsseldorf,2015-12-14,11.0,51.4984,6.5312,GW-Messstelle,"bebaut, besiedelt"
+106502300,LUT36 QU LUTTERN,Minden,Detmold,2015-05-11,11.0,52.2625,8.8066,gefasste Quelle,Wald
+10410004,Lachbachquelle,Bad Münstereifel,Köln,2015-12-10,10.9,50.5117,6.8838,ungefasste Quelle,Wald
+73775708,WG ODENSPIEL,Reichshof,Köln,2015-04-07,10.8,50.9247,7.7222,Schachtbrunnen,Acker
+10407431,EB Hammerhütte Che,Dahlem,Köln,2015-10-13,10.8,50.3671,6.5075,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+91167309,Kallenhardt Ost,Rüthen,Arnsberg,2015-10-21,10.8,51.4511,8.4322,GW-Messstelle,Grünland
+10410211,Kradenbachquelle,Schleiden,Köln,2015-11-17,10.8,50.5273,6.4862,gefasste Quelle,Wald
+289193515,Huelchrath,Grevenbroich,Düsseldorf,2015-05-21,10.7,51.1234,6.6651,GW-Messstelle,"bebaut, besiedelt"
+70282511,LGD Troisdf. NH 1,Troisdorf,Köln,2015-01-12,10.7,50.8171,7.1379,GW-Messstelle,"bebaut, besiedelt"
+10407340,WGA Mariaschacht,Stolberg (Rhld.),Köln,2015-03-16,10.6,50.7411,6.2439,Schachtbrunnen,"bebaut, besiedelt"
+47202063,Vinkel Schw. Br.26,Hünxe,Düsseldorf,2015-04-22,10.6,51.6504,6.7095,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10408230,WASSERDELL BRUNNEN,Dahlem,Köln,2015-10-13,10.6,50.3868,6.5744,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+59620997,Lauenscheid,Schalksmühle,Arnsberg,2015-08-19,10.5,51.2494,7.5777,GW-Messstelle,Grünland
+129660590,Heimicke,Drolshagen,Arnsberg,2015-04-21,10.5,51.0663,7.7648,gefasste Quelle,Wald
+129700514,Niedernetphen,Netphen,Arnsberg,2015-08-26,10.4,50.9137,8.0934,GW-Messstelle,Grünland
+73737380,WG GROSSFRENKHSN QF,Wermelskirchen,Köln,2015-04-08,10.4,51.0914,7.2269,gefasste Quelle,Wald
+60240374,AH/37 -WEHR-,Legden,Münster,2015-06-09,10.3,52.0723,7.1142,GW-Messstelle,Acker
+86625081,MARIB002,Kalkar,Düsseldorf,2015-10-20,10.3,51.6918,6.3669,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+73785015,RGW KOELN WA 032,Köln,Köln,2015-06-17,10.3,50.8581,7.0898,GW-Messstelle,"bebaut, besiedelt"
+219603017,Tueddern,Selfkant,Köln,2015-06-02,10.2,51.0076,5.9114,GW-Messstelle,Wald
+23062850,66     - 97/23  W 2,Bielefeld,Detmold,2015-07-29,10.0,51.9454,8.5676,GW-Messstelle,Wald
+20782317,BR 1A   Fuechtorf,Sassenberg,Münster,2015-04-13,10.0,52.0334,8.074,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+26501818,BR Willebadessen,Willebadessen,Detmold,2015-10-07,10.0,51.6118,9.0137,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10410235,Breiterscheid Qu.,Monschau,Köln,2015-02-18,10.0,50.5421,6.2196,gefasste Quelle,Grünland
+86530550,E WW EMMERICH EI,Emmerich,Düsseldorf,2015-11-18,9.9,51.8557,6.2451,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10407777,WGA Pleushütte,Simmerath,Köln,2015-11-26,9.9,50.577,6.3722,gefasste Quelle,Wald
+99580111,Quelle Im Kämpen,Olsberg,Arnsberg,2015-06-11,9.8,51.3129,8.4815,gefasste Quelle,Wald
+219482410,Bubenheim,Nörvenich,Köln,2015-08-19,9.8,50.7751,6.545,GW-Messstelle,Acker
+100742427,LH 2  BR HARDISSEN,Lage,Detmold,2015-11-05,9.8,52.0167,8.8091,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+73757421,RGW Köln WE 061 MW,Köln,Köln,2015-03-12,9.8,50.9116,7.0207,GW-Messstelle,"bebaut, besiedelt"
+129700290,Ilsequelle,Bad Laasphe,Arnsberg,2015-03-31,9.8,50.8867,8.286,gefasste Quelle,Wald
+60090340,RWI 106,Castrop-Rauxel,Münster,2015-11-03,9.8,51.5284,7.3294,GW-Messstelle,"bebaut, besiedelt"
+59110340,Hermannshöhe,Bochum,Arnsberg,2015-08-04,9.7,51.4767,7.2205,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+129700230,Siegquelle,Netphen,Arnsberg,2015-03-31,9.6,50.918,8.2464,gefasste Quelle,Wald
+36487491,SW Duisburg 2M303a,Düsseldorf,Düsseldorf,2015-03-02,9.6,51.3269,6.7481,GW-Messstelle,Acker
+10406426,Overhuesallee P 12,Düren,Köln,2015-05-06,9.5,50.7849,6.4665,GW-Messstelle,"bebaut, besiedelt"
+129660553,Silberg,Kirchhundem,Arnsberg,2015-10-13,9.5,51.0243,8.0371,gefasste Quelle,Wald
+73727283,WLV QUIRRENBACH QF,Königswinter,Köln,2015-10-08,9.5,50.6834,7.3239,gefasste Quelle,Grünland
+76965612,K ALTABL. A 1652,Köln,Köln,2015-04-08,9.4,50.9214,6.9945,GW-Messstelle,keine Angabe
+10406359,Overhuesallee P 5,Düren,Köln,2016-04-04,9.4,50.7909,6.4781,GW-Messstelle,"bebaut, besiedelt"
+129700733,Gambach,Burbach,Arnsberg,2015-04-14,9.4,50.7305,8.0795,Sammelschacht,Wald
+129700289,Gosenbachquelle,Siegen,Arnsberg,2015-04-15,9.4,50.8641,7.9662,gefasste Quelle,Wald
+21001777,768F            LGD,Steinhagen,Detmold,2015-07-15,9.3,51.9859,8.3874,GW-Messstelle,Wald
+59130465,DO-Eving RWI 5,Dortmund,Arnsberg,2015-10-26,9.2,51.5584,7.4641,GW-Messstelle,Wald
+40507014,Kölner Str.,Mülheim a.d. Ruhr,Düsseldorf,2015-11-13,9.2,51.4042,6.8822,GW-Messstelle,"bebaut, besiedelt"
+129660103,Liemscheid,Kirchhundem,Arnsberg,2015-05-11,9.2,51.0467,8.159,gefasste Quelle,Wald
+94160661,Quellen Westernah,Schmallenberg,Arnsberg,2015-05-06,9.1,51.201,8.3534,gefasste Quelle,Wald
+118054831,W.BROCHTERBECK-HO03,Lengerich,Münster,2015-04-21,9.1,52.1936,7.7565,Horizontalfilterbrunnen,Wald
+110040107,IV/10 EMSDETTEN,Emsdetten,Münster,2015-12-02,9.1,52.1472,7.5698,GW-Messstelle,Acker
+70202515,LGD KALDAUEN MUEHLE,Siegburg,Köln,2015-04-21,9.1,50.7988,7.2403,GW-Messstelle,Wald
+76809407,CONTEX EB,Meinerzhagen,Arnsberg,2015-04-22,9.0,51.0839,7.6924,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+76988594,Kloster Heisterb.QF,Königswinter,Köln,2015-03-25,9.0,50.6949,7.2153,gefasste Quelle,Wald
+100790318,HEID1 BR HEIDENTAL,Detmold,Detmold,2015-11-10,9.0,51.9162,8.8281,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+106506079,KWEST BR WESTORF,Kalletal,Detmold,2015-04-09,9.0,52.1111,8.9213,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+94170319,Quelle Butterkopf,Brilon,Arnsberg,2015-10-07,9.0,51.3799,8.5666,Sammelschacht,Wald
+99580184,Ludwigsquellen,Schmallenberg,Arnsberg,2015-05-06,8.9,51.2079,8.368,gefasste Quelle,Wald
+100140350,WG 16    WESTERHOF,Hille,Detmold,2015-03-17,8.9,52.3375,8.7915,GW-Messstelle,Acker
+80301903,VORST           338,Tönisvorst,Düsseldorf,2015-09-24,8.9,51.2962,6.4266,GW-Messstelle,"bebaut, besiedelt"
+94140236,Que Kl Schmalenau,Arnsberg,Arnsberg,2015-04-08,8.9,51.4099,8.1273,gefasste Quelle,Wald
+10409385,Embken Quelle 5,Nideggen,Köln,2015-11-03,8.8,50.6817,6.5765,Schachtbrunnen,Grünland
+20104327,VI/8 LGD BHH Casum,Borgholzhausen,Detmold,2015-06-30,8.8,52.0725,8.2668,GW-Messstelle,Acker
+59620985,Kierspe Rathaus,Kierspe,Arnsberg,2015-09-07,8.8,51.1275,7.6016,GW-Messstelle,"bebaut, besiedelt"
+23061881,575.3  - 98/2   W 1,Bielefeld,Detmold,2015-09-09,8.8,51.9473,8.5962,GW-Messstelle,"bebaut, besiedelt"
+10408241,WASSERDELL MISCHW.,Dahlem,Köln,2015-12-17,8.8,50.3889,6.5653,Sammelschacht,Wald
+21001352,729             LGD,Schloß Holte-Stukenbrock,Detmold,2015-10-22,8.8,51.892,8.6043,GW-Messstelle,Wald
+10410030,Zehnbachquelle,Blankenheim,Köln,2015-09-17,8.7,50.4257,6.5867,gefasste Quelle,Grünland
+94160594,Jacobsquellen,Schmallenberg,Arnsberg,2015-12-15,8.7,51.2011,8.4052,gefasste Quelle,Wald
+16000651,IPO P 2 Ost,Heinsberg (Rhld.),Köln,2015-05-07,8.6,51.0578,6.158,GW-Messstelle,"bebaut, besiedelt"
+110060210,VI/21 -DACKMAR-,Sassenberg,Münster,2015-11-09,8.6,51.973,8.1074,GW-Messstelle,Acker
+80302166,AUWEL HOLT,Straelen,Düsseldorf,2015-03-20,8.5,51.4635,6.2447,GW-Messstelle,Acker
+73775484,WG ROELEFELD,Waldbröl,Köln,2015-04-07,8.5,50.9229,7.6259,gefasste Quelle,Wald
+106525165,I/3T Augustdorf,Augustdorf,Detmold,2015-10-22,8.5,51.8882,8.735,GW-Messstelle,Wald
+70200518,LGD MONDORF 1/93,Niederkassel,Köln,2015-08-10,8.5,50.7881,7.0723,GW-Messstelle,Acker
+11006936,Breitenbenden Zus,Mechernich,Köln,2015-11-19,8.5,50.5766,6.6743,Schachtbrunnen,Grünland
+94170344,Quelle Mertensborn,Hallenberg,Arnsberg,2015-04-28,8.4,51.1477,8.6005,gefasste Quelle,Wald
+59620249,HERVEL,Herscheid,Arnsberg,2015-10-06,8.4,51.1452,7.7175,gefasste Quelle,Wald
+129700710,Einheitsstraße,Siegen,Arnsberg,2015-08-26,8.3,50.9083,8.0366,Schachtbrunnen,"bebaut, besiedelt"
+60090248,HS 128,Recklinghausen,Münster,2015-11-06,8.3,51.6475,7.1981,GW-Messstelle,Acker
+129660255,Wolbecke,Kirchhundem,Arnsberg,2015-05-11,8.2,51.0256,8.1448,gefasste Quelle,Wald
+10203588,Gangelt-Niederbusch,Gangelt,Köln,2015-06-10,8.2,50.9659,6.0212,GW-Messstelle,Acker
+76987218,RSK ALTABL.8630-043,Siegburg,Köln,2015-08-17,8.1,50.809,7.2252,GW-Messstelle,"bebaut, besiedelt"
+26502264,BR Loewendorf Neu,Marienmünster,Detmold,2015-10-13,8.0,51.8335,9.2921,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+26501491,TB Noerde,Warburg,Detmold,2015-05-20,8.0,51.5364,9.0978,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10403814,Brunnen Seidenbach,Blankenheim,Köln,2015-09-17,8.0,50.4258,6.615,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+59620821,Volmequelle,Meinerzhagen,Arnsberg,2015-03-16,8.0,51.0995,7.664,gefasste Quelle,Wald
+94170253,Que Kuckucksloch,Medebach,Arnsberg,2015-04-28,7.8,51.1614,8.652,gefasste Quelle,Acker
+99580251,Quelle Schanze,Schmallenberg,Arnsberg,2015-05-06,7.7,51.1344,8.3629,gefasste Quelle,Wald
+26525112,58.2 Haustenbeck,Schlangen,Detmold,2015-08-20,7.7,51.8549,8.7619,GW-Messstelle,Wald
+129660048,Vogelrute,Attendorn,Arnsberg,2015-04-27,7.6,51.135,7.8765,gefasste Quelle,Wald
+129700757,Girkhausen,Bad Berleburg,Arnsberg,2015-04-13,7.5,51.1342,8.4592,Sammelschacht,Wald
+10406360,Overhuesallee P 6,Düren,Köln,2016-04-04,7.4,50.791,6.4789,GW-Messstelle,"bebaut, besiedelt"
+86612025,E WW GELDERN Br.IV,Geldern,Düsseldorf,2015-03-09,7.4,51.5098,6.378,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+10406335,Overhuesallee P 3,Düren,Köln,2016-04-04,7.4,50.7918,6.4777,GW-Messstelle,"bebaut, besiedelt"
+32032201,UWB-Ddorf 01285,Düsseldorf,Düsseldorf,2015-09-29,7.4,51.2319,6.7521,GW-Messstelle,"bebaut, besiedelt"
+36411589,VWW LANGENFELD P41,Monheim,Düsseldorf,2015-01-06,7.4,51.0908,6.8972,Schachtbrunnen,"bebaut, besiedelt"
+26541245,"252- 7,0m ML    W18",Schloß Holte-Stukenbrock,Detmold,2015-08-11,7.4,51.9203,8.6476,GW-Messstelle,Wald
+118052020,W.BROCHTERBECK-VK02,Tecklenburg,Münster,2015-09-30,7.2,52.2088,7.7508,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+288194317,Minkel,Neuss,Düsseldorf,2015-06-22,7.2,51.1487,6.6666,GW-Messstelle,Acker
+279375610,Stommbusch II,Pulheim,Köln,2015-06-19,7.2,51.0307,6.7797,GW-Messstelle,Acker
+10421361,Mariaschacht P1,Stolberg (Rhld.),Köln,2015-06-10,7.2,50.7168,6.2202,GW-Messstelle,Grünland
+10407194,SEEBRICHT QUELLE,Schleiden,Köln,2015-10-13,7.1,50.5777,6.5191,gefasste Quelle,Wald
+60220478,HS/47 -OESTRICH-,Raesfeld,Münster,2015-12-17,7.1,51.762,6.8984,GW-Messstelle,Acker
+26490742,HO 2    Quenhorn,Herzebrock-Clarholz,Detmold,2015-02-02,7.1,51.9131,8.2658,Horizontalfilterbrunnen,Acker
+76839217,BN ALTABL. BP 78,Bonn,Köln,2015-05-13,7.1,50.7433,7.1682,GW-Messstelle,"bebaut, besiedelt"
+24180452,Padulus-Quelle,Paderborn,Detmold,2015-09-24,7.0,51.7464,8.715,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+26531033,"101- 9,0m ML OL",Hövelhof,Detmold,2015-08-11,7.0,51.8272,8.7082,GW-Messstelle,Wald
+26502926,B3 Weissenborn,Bad Driburg,Detmold,2015-06-09,7.0,51.7237,9.0489,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+10303650,Rüst Bundesbahn3/9,Stolberg (Rhld.),Köln,2015-06-01,7.0,50.7525,6.2426,GW-Messstelle,"bebaut, besiedelt"
+129660097,Lechtmecke,Kirchhundem,Arnsberg,2015-05-04,7.0,51.0341,8.0883,gefasste Quelle,Grünland
+100760156,BA 13ABR AHLE,Bünde,Detmold,2015-10-05,7.0,52.1933,8.5449,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+129700198,Bruchstollen,Kreuztal,Arnsberg,2015-07-08,6.9,50.9787,7.9945,Sickerstollen,Wald
+59540515,WITTEN BEO 3,Witten,Arnsberg,2015-06-16,6.9,51.4288,7.3109,GW-Messstelle,Sonstiges
+110070288,VII/28 HOLLICH.FELD,Steinfurt,Münster,2015-07-22,6.9,52.1784,7.4267,GW-Messstelle,Acker
+110250140,BERGB 14-WALSTEDDE-,Drensteinfurt,Münster,2015-11-24,6.9,51.7541,7.8071,GW-Messstelle,Acker
+129660073,Dornbusch,Olpe,Arnsberg,2015-04-21,6.9,51.0705,7.9407,gefasste Quelle,Wald
+60102123,RWI 112,Castrop-Rauxel,Münster,2015-11-24,6.9,51.574,7.3383,GW-Messstelle,Wald
+10300570,AACHEN KLINIKUM 7,"Aachen, Stadt",Köln,2015-03-23,6.8,50.7806,6.0394,GW-Messstelle,Acker
+42001006,LINEG_131,Rheinberg,Düsseldorf,2015-12-02,6.7,51.55,6.5987,GW-Messstelle,"bebaut, besiedelt"
+26541294,252 ML  W18,Schloß Holte-Stukenbrock,Detmold,2015-08-11,6.7,51.9203,8.6476,GW-Messstelle,Wald
+110200469,TE/46 Laggenbeck,Ibbenbüren,Münster,2015-11-24,6.7,52.2642,7.7693,GW-Messstelle,"bebaut, besiedelt"
+73726280,WLV VELKEN QF,Ruppichteroth,Köln,2016-03-08,6.6,50.8423,7.5203,gefasste Quelle,Wald
+110070227,VII/22 SANKT-ARNOLD,Neuenkirchen,Münster,2015-06-26,6.5,52.2182,7.3871,GW-Messstelle,Acker
+10407479,QUELLE WALDORF,Dahlem,Köln,2015-09-17,6.4,50.3863,6.5898,gefasste Quelle,Wald
+129700782,Niederlaasphe,Bad Laasphe,Arnsberg,2015-10-13,6.4,50.9227,8.4422,GW-Messstelle,Grünland
+94150175,SBr Latroptal,Schmallenberg,Arnsberg,2015-10-27,6.3,51.1241,8.279,Sickerleitung,Grünland
+110340024,ST/2-HALTERNER MARK,Horstmar,Münster,2015-04-14,6.2,52.1273,7.2657,GW-Messstelle,Acker
+94160739,Quelle Altenrüthen,Rüthen,Arnsberg,2016-03-07,6.2,51.4922,8.4088,ungefasste Quelle,Acker
+100741010,HF RMW Brunnenstr,Herford,Detmold,2015-03-31,6.0,52.0992,8.6954,Sammelschacht,"bebaut, besiedelt"
+73761308,WBV THOMASBERG EB 6,Königswinter,Köln,2015-05-19,6.0,50.7259,7.2309,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+10200411,SCHMIDTHEIM NR.65,Dahlem,Köln,2015-03-19,5.9,50.4141,6.5532,Schachtbrunnen,"bebaut, besiedelt"
+94180052,Que Im Ruthen,Schmallenberg,Arnsberg,2015-05-06,5.9,51.1607,8.1634,gefasste Quelle,Acker
+10403048,Kirchhoven  PB 13,Heinsberg (Rhld.),Köln,2015-10-15,5.8,51.0551,6.0606,GW-Messstelle,Acker
+21172810,OL 270N,Delbrück,Detmold,2015-10-08,5.8,51.7584,8.6172,GW-Messstelle,Acker
+80301150,ELMPTER BRUCH   263,Niederkrüchten,Düsseldorf,2015-08-31,5.7,51.2221,6.1024,GW-Messstelle,Wald
+129700319,Sombornquelle,Bad Berleburg,Arnsberg,2015-04-28,5.7,51.1019,8.2402,gefasste Quelle,Wald
+94150461,Que 2129 Plackweg,Meschede,Arnsberg,2015-12-14,5.6,51.4049,8.2278,ungefasste Quelle,Wald
+76769306,MAYER ODENTHAL EB,Odenthal,Köln,2015-04-08,5.6,51.0601,7.1325,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10409403,Klausbachquelle,Blankenheim,Köln,2015-09-17,5.5,50.362,6.7549,ungefasste Quelle,Grünland
+21000153,613 LGD Ummeln,Bielefeld,Detmold,2015-10-15,5.5,51.9613,8.4217,GW-Messstelle,Acker
+129700770,Truftetal,Bad Berleburg,Arnsberg,2015-04-13,5.5,51.062,8.3658,Schachtbrunnen,Wald
+73775605,WG NEUENOTHE,Bergneustadt,Köln,2015-04-07,5.4,51.0138,7.716,Schachtbrunnen,Wald
+11006985,Kall Zus,Kall,Köln,2016-01-26,5.3,50.5453,6.5643,Schachtbrunnen,"bebaut, besiedelt"
+20781878,WIEDG023F,Rheda-Wiedenbrück,Detmold,2015-03-23,5.3,51.8528,8.3355,GW-Messstelle,Acker
+59110363,Dahlhausen92_03,Bochum,Arnsberg,2015-06-17,5.3,51.4175,7.1514,GW-Messstelle,"bebaut, besiedelt"
+100140920,BN 1     BASTAUNIED,Minden,Detmold,2015-06-24,5.3,52.2886,8.8518,GW-Messstelle,Acker
+10407200,Dropestollen,Kall,Köln,2015-10-13,5.3,50.4688,6.4981,Sickerstollen,Wald
+73736806,WBV BECHEN EB V,Kürten,Köln,2015-04-09,5.3,51.0511,7.2188,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+10410089,Singelsbendenquelle,Blankenheim,Köln,2015-11-17,5.2,50.4504,6.6274,Sammelschacht,Grünland
+86454328,E Chorbusch Br.1,Dormagen,Düsseldorf,2015-10-27,5.0,51.0523,6.8037,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+73738517,RGW ZD 505,Köln,Köln,2015-01-20,5.0,50.8351,7.0951,GW-Messstelle,"bebaut, besiedelt"
+26502896,QU Langeland,Bad Driburg,Detmold,2015-06-09,5.0,51.7781,8.9833,gefasste Quelle,Wald
+106506547,OBERS BR OBERSCHHGN,Detmold,Detmold,2015-05-05,5.0,51.9241,8.9688,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+59621199,Homert SGV alt,Lüdenscheid,Arnsberg,2015-10-06,5.0,51.1775,7.6456,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+32032225,UWB-Ddorf 01290,Düsseldorf,Düsseldorf,2015-08-28,5.0,51.2714,6.7366,GW-Messstelle,Grünland
+106501987,BERL1 QU BERLEBECK,Detmold,Detmold,2015-05-18,5.0,51.8925,8.8766,gefasste Quelle,"bebaut, besiedelt"
+129700083,Im Grund,Bad Laasphe,Arnsberg,2015-03-31,5.0,50.967,8.3092,gefasste Quelle,Wald
+60091101,HS 84,Oer-Erkenschwick,Münster,2015-11-05,4.9,51.6548,7.2008,GW-Messstelle,Acker
+219606614,Flossd. 10,,,2015-07-08,4.9,50.9498,6.3071,GW-Messstelle,Wald
+94150450,Quelle Am Saukopf,Warstein,Arnsberg,2015-09-04,4.8,51.4585,8.2246,ungefasste Quelle,Wald
+10409920,Lorenzsiefen-Quelle,Hellenthal,Köln,2015-04-16,4.8,50.4598,6.4113,ungefasste Quelle,Grünland
+80301290,DICKERHEIDE     277,Willich,Düsseldorf,2015-12-03,4.8,51.2481,6.5651,GW-Messstelle,Acker
+26541269,"252-13,0m ML    W18",Schloß Holte-Stukenbrock,Detmold,2015-08-11,4.7,51.9203,8.6476,GW-Messstelle,Wald
+23007114,W18 11A Furlbach,Schloß Holte-Stukenbrock,Detmold,2015-09-15,4.7,51.9197,8.6448,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+26541233,"252- 4,5m ML    W18",Schloß Holte-Stukenbrock,Detmold,2015-08-11,4.7,51.9203,8.6476,GW-Messstelle,Wald
+10421403,Mariaschacht P4,Stolberg (Rhld.),Köln,2015-08-26,4.7,50.7417,6.251,GW-Messstelle,Wald
+59620262,VOSSECKE,Neuenrade,Arnsberg,2015-04-08,4.7,51.2756,7.7403,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+110200238,TE/23 - RECKE -,Recke,Münster,2015-04-01,4.7,52.3752,7.7035,GW-Messstelle,Grünland
+26540228,"607- 3,0m ML",Versmold,Detmold,2015-07-21,4.6,52.014,8.1316,GW-Messstelle,"bebaut, besiedelt"
+100744412,LEA 1 BR EHR_ARMKMP,Lage,Detmold,2015-05-06,4.6,51.9798,8.7995,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+100135602,PH 34N   JOESSEN,Petershagen,Detmold,2015-04-09,4.6,52.3975,8.9985,GW-Messstelle,Acker
+94170356,Quelle Hude,Hallenberg,Arnsberg,2015-09-24,4.5,51.1442,8.6045,gefasste Quelle,Wald
+30302857,Hild-Auf dem Sand,Hilden,Düsseldorf,2016-01-19,4.4,51.1746,6.9159,GW-Messstelle,"bebaut, besiedelt"
+129700058,Zinse,Erndtebrück,Arnsberg,2015-04-28,4.3,51.0174,8.1987,gefasste Quelle,Wald
+23061870,575.1  - 98/2   W 1,Bielefeld,Detmold,2015-05-20,4.3,51.9474,8.5962,GW-Messstelle,"bebaut, besiedelt"
+59160184,THYSSEN GE BR 7/II,Herne,Arnsberg,2015-06-09,4.3,51.5078,7.1413,GW-Messstelle,Sonstiges
+10408782,WENAU BR. 3 Rohw.,Langerwehe,Köln,2015-05-04,4.2,50.7938,6.3407,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+10409609,Schalkseifenquelle,Blankenheim,Köln,2015-11-17,4.1,50.4534,6.7437,ungefasste Quelle,Grünland
+11050020,Burg Veynau Zus 347,Euskirchen,Köln,2016-01-27,4.1,50.64,6.7207,Schachtbrunnen,Wald
+59540643,Hasenkehr,Breckerfeld,Arnsberg,2015-03-23,4.0,51.2841,7.4392,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+100702533,MP 11B BR PORTASTRS,Minden,Detmold,2015-10-08,4.0,52.2778,8.912,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+23163239,TB Habichtssee,Paderborn,Detmold,2015-09-24,4.0,51.7633,8.7307,GW-Messstelle,Wald
+21000268,622.2M Avenwedde,Gütersloh,Detmold,2015-10-28,4.0,51.9257,8.4626,GW-Messstelle,"bebaut, besiedelt"
+10409671,Großquelle,Roetgen,Köln,2015-11-24,4.0,50.6961,6.2422,gefasste Quelle,Wald
+106502578,SPRA2 BR SPRADOW,Kirchlengern,Detmold,2015-04-14,4.0,52.2226,8.6333,Sickerleitung,Acker
+99580202,TB Olsberger Hütte,Olsberg,Arnsberg,2015-06-11,3.9,51.3546,8.4979,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+26525057,622.3 T Avenwedde,Gütersloh,Detmold,2015-10-28,3.9,51.9257,8.4626,GW-Messstelle,"bebaut, besiedelt"
+110040181,IV/18-FLUGH.MS-OS.N,Greven,Münster,2015-12-02,3.9,52.1377,7.68,GW-Messstelle,"bebaut, besiedelt"
+129700022,Gräbener,Netphen,Arnsberg,2015-05-04,3.8,50.8635,8.2064,gefasste Quelle,Wald
+70100214,LGD N'KASSEL DEA 3,Niederkassel,Köln,2015-04-27,3.8,50.794,7.0335,GW-Messstelle,Wald
+94150084,Br Firma Mehling,Lippstadt,Arnsberg,2015-05-07,3.8,51.6825,8.3107,Schachtbrunnen,"bebaut, besiedelt"
+110070537,VII/53 LETTE,Oelde,Münster,2015-11-12,3.8,51.8851,8.1314,GW-Messstelle,Acker
+32032018,UWB-Ddorf 00582,Düsseldorf,Düsseldorf,2015-09-18,3.8,51.1853,6.8299,GW-Messstelle,"bebaut, besiedelt"
+129700320,Weidetalquelle,Bad Berleburg,Arnsberg,2015-04-07,3.7,51.0795,8.3945,gefasste Quelle,Wald
+94160466,Quelle Elftert,Winterberg,Arnsberg,2015-09-21,3.7,51.2412,8.4533,gefasste Quelle,Wald
+10404338,Düttling Br. 3,Mechernich,Köln,2015-10-27,3.6,50.5996,6.5447,Schachtbrunnen,Wald
+21150011,OL101ML Staumuehle,Hövelhof,Detmold,2015-08-11,3.6,51.8272,8.7082,GW-Messstelle,Grünland
+100120180,BS 17    RETZEN,Bad Salzuflen,Detmold,2015-09-23,3.6,52.0448,8.8071,GW-Messstelle,Acker
+100151140,AU 512   SATLAGE,Stemwede,Detmold,2015-05-21,3.6,52.4386,8.5221,GW-Messstelle,Acker
+23006456,W13 05  Suedfassung,Hövelhof,Detmold,2015-09-10,3.5,51.8229,8.7298,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+110220924,HS/92 EVERSUM,Olfen,Münster,2015-10-27,3.5,51.7094,7.3151,GW-Messstelle,Wald
+60240398,AH/39 -HAVERBECK-,Schöppingen,Münster,2015-04-23,3.3,52.1046,7.2057,GW-Messstelle,Wald
+110060064,VI/6 -DACKMAR-,Sassenberg,Münster,2015-12-08,3.3,51.9886,8.1017,GW-Messstelle,Acker
+100140774,WG 71    MAASLINGEN,Petershagen,Detmold,2015-04-16,3.3,52.3906,8.9085,GW-Messstelle,Acker
+59620950,Flachbr.Umspannwerk,Kierspe,Arnsberg,2015-09-07,3.2,51.1253,7.5962,GW-Messstelle,Grünland
+91131005,Ostwennemar ML41,Hamm,Arnsberg,2015-06-23,3.2,51.6688,7.8754,GW-Messstelle,Grünland
+91165908,Mönninghausen OL730,Geseke,Arnsberg,2015-10-20,3.1,51.6737,8.4797,GW-Messstelle,Acker
+21176103,OL 130  Bentfeld,Paderborn,Detmold,2015-10-08,3.1,51.7306,8.6501,GW-Messstelle,Acker
+59621187,Homert SGV neu,Lüdenscheid,Arnsberg,2015-10-06,3.1,51.1774,7.6455,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+23163227,TB 45   Paderborn,Bad Lippspringe,Detmold,2015-03-09,3.0,51.7802,8.7855,GW-Messstelle,"bebaut, besiedelt"
+118021047,WW.IBBENBLEHEN-VK04,Ibbenbüren,Münster,2015-04-21,3.0,52.2515,7.7039,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+118021035,WW.IBBENBLEHEN-VK03,Ibbenbüren,Münster,2015-04-21,3.0,52.2521,7.705,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+86532649,E WW VRASSELT EIII,Emmerich,Düsseldorf,2015-11-19,3.0,51.8325,6.3251,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+129700186,Gonderbach,Bad Laasphe,Arnsberg,2015-10-27,2.9,50.8764,8.3195,Sickerstollen,Wald
+26525045,622.1 F Avenwedde,Gütersloh,Detmold,2015-10-28,2.9,51.9257,8.4626,GW-Messstelle,Grünland
+10407406,BRANDENBURG_Brunnen,"Aachen, Stadt",Köln,2015-04-14,2.9,50.7045,6.1467,Schachtbrunnen,Grünland
+60102135,RWI 113,Castrop-Rauxel,Münster,2015-11-25,2.9,51.5616,7.3499,GW-Messstelle,"bebaut, besiedelt"
+110250035,BERGB.3-D.BAUERSCHT,Drensteinfurt,Münster,2015-11-20,2.8,51.7815,7.7633,GW-Messstelle,Grünland
+129700307,Sangquelle,Siegen,Arnsberg,2015-04-14,2.8,50.8799,8.0012,gefasste Quelle,Wald
+106520027,PH1003T Im TIMPEN,Petershagen,Detmold,2015-04-13,2.8,52.3541,9.0111,GW-Messstelle,Acker
+26492064,MUEHB006,Verl,Detmold,2015-10-28,2.7,51.8944,8.5601,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10404491,Hastenrath  Br. 6,Eschweiler,Köln,2015-09-14,2.7,50.7957,6.2986,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+20102082,II/11 A  Gütersloh,Gütersloh,Detmold,2015-10-15,2.6,51.8772,8.3593,GW-Messstelle,Grünland
+218086015,Golkrath,Erkelenz,Köln,2015-04-08,2.5,51.0808,6.2394,GW-Messstelle,Acker
+110050071,V/7 WETTRINGEN,Steinfurt,Münster,2015-04-13,2.5,52.1879,7.3263,GW-Messstelle,Grünland
+59621230,Griesenbrauck P5,Iserlohn,Arnsberg,2015-09-09,2.4,51.3961,7.7085,GW-Messstelle,Wald
+26540186,"178-11,5m ML",Bielefeld,Detmold,2015-09-29,2.4,51.9373,8.5306,GW-Messstelle,Acker
+219674310,Flamersheim,Euskirchen,Köln,2015-12-21,2.4,50.63,6.8402,GW-Messstelle,Acker
+91130803,Allen ML58,Hamm,Arnsberg,2015-06-23,2.4,51.6225,7.8845,GW-Messstelle,Grünland
+110310317,COE./31 -COESFELD-,Coesfeld,Münster,2015-09-23,2.3,51.9441,7.1617,GW-Messstelle,"bebaut, besiedelt"
+80303377,KEMPEN  BADEZENTRUM,Kempen,Düsseldorf,2015-11-19,2.3,51.3672,6.4083,GW-Messstelle,"bebaut, besiedelt"
+76809304,Fischbach Ründer.B,Engelskirchen,Köln,2015-03-31,2.3,50.9864,7.4463,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+278540910,Kippe Berrenrath,Hürth,Köln,2015-10-12,2.3,50.8759,6.7898,GW-Messstelle,Wald
+76934019,K ALTABL. A 520,Köln,Köln,2015-08-11,2.2,50.9873,7.051,GW-Messstelle,Wald
+26531070,"OL102- 8,0mMLOstenl",Delbrück,Detmold,2015-08-04,2.2,51.7816,8.6351,GW-Messstelle,Acker
+100150287,AU 212   HARTLAGE,Rahden,Detmold,2015-05-12,2.2,52.4963,8.6208,GW-Messstelle,Acker
+110200100,TE/10 -KATTENVENNE-,Lienen,Münster,2015-10-30,2.2,52.0924,7.8779,GW-Messstelle,Grünland
+100701255,HA 4  BR HARLINGHSN,Preußisch Oldendorf,Detmold,2015-03-02,2.0,52.3206,8.4876,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106502633,WITT BR  DIA WITTE,Bad Oeynhausen,Detmold,2015-07-03,2.0,52.26,8.7937,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+20780370,BR 7 Bokel,Halle (Westf.),Detmold,2015-09-01,2.0,52.0292,8.3101,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+10407390,REICHSWALD BR. 1,"Aachen, Stadt",Köln,2015-04-15,2.0,50.7955,6.1777,Horizontalfilterbrunnen,Wald
+26531057,"OL102-2,5m MLOstenl",Delbrück,Detmold,2015-08-04,2.0,51.7816,8.6351,GW-Messstelle,Acker
+20781532,WIEDB014,Rheda-Wiedenbrück,Detmold,2015-10-27,2.0,51.8534,8.3292,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106503984,HI 1A BR HIDDENHAUS,Hiddenhausen,Detmold,2015-04-14,2.0,52.139,8.6429,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+24190147,B2 Blankenrode,Lichtenau,Detmold,2015-05-27,2.0,51.5397,8.91,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+106503959,HI 6 BR  HIDDENHAUS,Enger,Detmold,2015-04-14,2.0,52.1499,8.5948,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+100705121,ES 2  BR ESPELKAMP,Espelkamp,Detmold,2015-04-15,2.0,52.388,8.6436,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+42063632,LINEG_2565H,Duisburg,Düsseldorf,2015-03-10,1.9,51.4728,6.674,GW-Messstelle,Wald
+21150023,OL 102 ML Ostenland,Delbrück,Detmold,2015-08-04,1.9,51.7816,8.6351,GW-Messstelle,Grünland
+70156116,LGD PINGSDORF NEU,Brühl,Köln,2015-06-09,1.9,50.8243,6.8961,GW-Messstelle,"bebaut, besiedelt"
+59621175,Balver Weg TB IIa,Hemer,Arnsberg,2015-04-08,1.9,51.3665,7.8221,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+94170368,Quelle Große Heide,Winterberg,Arnsberg,2015-09-21,1.8,51.2615,8.5737,gefasste Quelle,Wald
+106520040,AU103M   STROEHEN,Rahden,Detmold,2015-05-12,1.8,52.5178,8.6692,GW-Messstelle,Grünland
+60080280,RWI 101,Gelsenkirchen,Münster,2015-10-28,1.7,51.5037,7.1181,GW-Messstelle,"bebaut, besiedelt"
+76840116,BN Altabl. BP 87,Bonn,Köln,2015-05-13,1.7,50.719,7.1866,GW-Messstelle,Acker
+278766511,Nördl. Esch,Elsdorf,Köln,2015-10-13,1.7,50.9518,6.5399,GW-Messstelle,Acker
+76809201,TUFFI SUELZ-EB,Kürten,Köln,2016-03-02,1.6,51.0075,7.2818,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+110040284,IV/28 Hornbrock,Altenberge,Münster,2015-05-12,1.6,52.0378,7.4464,GW-Messstelle,Acker
+60240120,AH/12 -HELMERT-,Heek,Münster,2015-04-16,1.6,52.1187,7.0732,GW-Messstelle,Grünland
+73725687,WBV GeilshsnStollen,Windeck,Köln,2016-03-14,1.6,50.7723,7.6326,Sickerstollen,Grünland
+42062329,LINEG_2442,Neukirchen-Vluyn,Düsseldorf,2015-03-19,1.4,51.4279,6.5828,GW-Messstelle,Grünland
+80302981,ANRATH          375,Willich,Düsseldorf,2015-02-27,1.4,51.2705,6.4679,GW-Messstelle,"bebaut, besiedelt"
+110240169,AH/16 Osterwick,Rosendahl,Münster,2015-11-17,1.3,52.0218,7.2288,GW-Messstelle,Acker
+110240194,AH/19 -HEGERORT-,Rosendahl,Münster,2015-06-08,1.3,52.0069,7.0712,GW-Messstelle,Wald
+110250060,BERGB 6-NORDICK-,Ascheberg,Münster,2015-11-18,1.3,51.7383,7.7318,GW-Messstelle,Grünland
+110240133,AH/13 BILLERBECK,Billerbeck,Münster,2015-05-13,1.3,51.9859,7.2729,GW-Messstelle,Acker
+110250114,BERGB 11-FORSTHOEV-,Ascheberg,Münster,2015-11-25,1.3,51.7598,7.6999,GW-Messstelle,Grünland
+110240121,AH/12 BILLERBECK,Billerbeck,Münster,2015-09-14,1.3,51.9767,7.2661,GW-Messstelle,Acker
+110240029,Ah/2 Ochtrup,Ochtrup,Münster,2015-06-16,1.3,52.2336,7.1508,GW-Messstelle,Grünland
+110250126,BERGB.12-MERSCH-,Drensteinfurt,Münster,2015-11-26,1.3,51.7538,7.7236,GW-Messstelle,Acker
+110220092,HS/9-MERFELD-,Dülmen,Münster,2015-11-05,1.3,51.8561,7.201,GW-Messstelle,Acker
+20104224,49              LGD,Langenberg,Detmold,2015-11-03,1.3,51.7491,8.3563,GW-Messstelle,Acker
+110220882,HS/88 HAUSDUELMEN,Dülmen,Münster,2015-11-06,1.3,51.8228,7.2292,GW-Messstelle,Wald
+110220365,HS/36 LETTER BRUCH,Coesfeld,Münster,2015-11-06,1.3,51.8579,7.1323,GW-Messstelle,Wald
+40061334,RAYMANNSGRUND 171,Dinslaken,Düsseldorf,2015-12-03,1.3,51.5642,6.7596,GW-Messstelle,"bebaut, besiedelt"
+110210219,ST.GEB.21 EMPTE,Dülmen,Münster,2015-09-30,1.3,51.888,7.2773,GW-Messstelle,Acker
+40607010,Mühlenbergheide,Mülheim a.d. Ruhr,Düsseldorf,2015-11-12,1.3,51.3851,6.8371,GW-Messstelle,Wald
+110210189,ST.GEB/18 Sülsen,Olfen,Münster,2015-05-08,1.3,51.6867,7.3883,GW-Messstelle,Acker
+110260314,EMS/31 Hembergen 1,Emsdetten,Münster,2015-08-27,1.3,52.1601,7.6129,GW-Messstelle,Acker
+110200470,TE/47 SCHOLLBRUCH,Lengerich,Münster,2015-05-05,1.3,52.1922,7.9026,GW-Messstelle,Grünland
+110210130,ST.GEB/13-LUEDINGHS,Lüdinghausen,Münster,2015-11-02,1.3,51.763,7.4716,GW-Messstelle,Grünland
+110210086,St.G/8 SENDEN,Senden,Münster,2015-09-29,1.3,51.8787,7.453,GW-Messstelle,Acker
+110210050,St.G/5 ALTENDORF,Nordkirchen,Münster,2015-05-06,1.3,51.7244,7.5754,GW-Messstelle,Acker
+10200710,DALHEIM 6 EICHEN 4,Wegberg,Köln,2015-05-13,1.3,51.1584,6.1779,GW-Messstelle,Wald
+110210074,ST.GEB/7 VENNE,Senden,Münster,2015-09-17,1.3,51.832,7.5501,GW-Messstelle,Acker
+110210062,ST.GEB/6Nordkirchen,Nordkirchen,Münster,2015-09-29,1.3,51.7644,7.5358,GW-Messstelle,Grünland
+20104030,IB/3A LGD Bokel,Rietberg,Detmold,2015-10-15,1.3,51.8021,8.3837,GW-Messstelle,Acker
+110340036,ST/3-V.PARK METELEN,Metelen,Münster,2015-06-25,1.3,52.1458,7.2516,GW-Messstelle,Wald
+110260340,EMS/34 SAERBECK 4,Saerbeck,Münster,2015-08-26,1.3,52.1745,7.5886,GW-Messstelle,Wald
+278534910,Ki.Gotteshuelfe,Hürth,Köln,2015-10-15,1.3,50.884,6.8225,GW-Messstelle,Acker
+59130015,HOESCH DO BR.T4,Dortmund,Arnsberg,2015-10-20,1.3,51.5495,7.4923,GW-Messstelle,Wald
+129660139,Muhr I,Wenden,Arnsberg,2015-04-27,1.3,50.9665,7.8964,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+129700216,Rütting II,Kreuztal,Arnsberg,2015-10-12,1.3,50.9895,7.9486,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+129700241,Leisebach,Bad Berleburg,Arnsberg,2015-04-07,1.3,51.0062,8.4795,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+21175809,OL 127 Sande Niggen,Paderborn,Detmold,2015-10-08,1.3,51.7718,8.6588,GW-Messstelle,Grünland
+21175603,OL 123  Sande,Paderborn,Detmold,2015-10-08,1.3,51.7856,8.6685,GW-Messstelle,Acker
+26531069,"OL102- 5,0mMLOstenl",Delbrück,Detmold,2015-08-04,1.3,51.7816,8.6351,GW-Messstelle,Grünland
+119011049,Stadt MS T 18 F,Münster,Münster,2015-12-09,1.3,51.9668,7.6276,GW-Messstelle,"bebaut, besiedelt"
+26531082,"OL102-12,0mMLOstenl",Delbrück,Detmold,2015-08-04,1.3,51.7816,8.6351,GW-Messstelle,Acker
+21173709,OL 361,Salzkotten,Detmold,2015-11-03,1.3,51.6859,8.5102,GW-Messstelle,"bebaut, besiedelt"
+26540216,"607- 2,0m ML",Versmold,Detmold,2015-07-21,1.3,52.014,8.1316,GW-Messstelle,"bebaut, besiedelt"
+26540230,"607- 4,0m ML",Versmold,Detmold,2015-07-21,1.3,52.014,8.1316,GW-Messstelle,"bebaut, besiedelt"
+26540241,"607- 5,5m ML",Versmold,Detmold,2015-07-21,1.3,52.014,8.1316,GW-Messstelle,"bebaut, besiedelt"
+278536610,Gotteshuelfe,Hürth,Köln,2015-10-15,1.3,50.8737,6.8243,GW-Messstelle,Wald
+278506616,Kippe Benzelrath,Frechen,Köln,2015-10-15,1.3,50.9032,6.7827,GW-Messstelle,"bebaut, besiedelt"
+21000086,607 T ML Peckeloh,Versmold,Detmold,2015-07-21,1.3,52.014,8.1316,GW-Messstelle,"bebaut, besiedelt"
+21150035,103 ML  OL Leste,Delbrück,Detmold,2015-08-04,1.3,51.7549,8.6158,GW-Messstelle,"bebaut, besiedelt"
+30302742,Rati-Lintorf-Süd,Ratingen,Düsseldorf,2015-09-16,1.3,51.3292,6.8376,GW-Messstelle,"bebaut, besiedelt"
+113014016,WW WARENDORF Br 6,Warendorf,Münster,2015-11-17,1.3,51.9418,8.0252,GW-Messstelle,Wald
+129660589,Tuckerschlade,Wenden,Arnsberg,2015-04-21,1.3,50.9664,7.8096,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+30302778,Düss-Kikweg 1,Düsseldorf,Düsseldorf,2015-03-13,1.3,51.207,6.8826,GW-Messstelle,"bebaut, besiedelt"
+110320104,Me/2 METELEN,Steinfurt,Münster,2015-06-25,1.3,52.1464,7.2793,GW-Messstelle,Acker
+110320062,LEER,Horstmar,Münster,2015-06-24,1.3,52.1207,7.3034,GW-Messstelle,Acker
+21001789,769 ML Pavenstaedt,Gütersloh,Detmold,2015-09-29,1.3,51.9061,8.339,GW-Messstelle,"bebaut, besiedelt"
+21001728,602 A LGD Bockhorst,Versmold,Detmold,2015-07-02,1.3,52.0678,8.1908,GW-Messstelle,"bebaut, besiedelt"
+21001698,763             LGD,Versmold,Detmold,2015-07-14,1.3,52.0341,8.2304,GW-Messstelle,Acker
+21000426,638             SwG,Gütersloh,Detmold,2015-10-28,1.3,51.8846,8.4163,GW-Messstelle,"bebaut, besiedelt"
+110290021,RH/2 LANDERSUM,Neuenkirchen,Münster,2015-07-14,1.3,52.2753,7.3664,GW-Messstelle,Acker
+20103165,III/4AT Brockhagen,Steinhagen,Detmold,2015-07-15,1.3,51.9895,8.3358,GW-Messstelle,Acker
+20103177,III/4AF Brockhagen,Steinhagen,Detmold,2015-07-15,1.3,51.9894,8.336,GW-Messstelle,"bebaut, besiedelt"
+26525033,VI/5 T Versmold,Versmold,Detmold,2015-07-14,1.3,52.0065,8.1708,GW-Messstelle,Acker
+110200329,TE/32 WESTERKAPPELN,Westerkappeln,Münster,2015-03-18,1.3,52.3417,7.9042,GW-Messstelle,Acker
+59130179,DO-Nordost P02/I,Dortmund,Arnsberg,2015-06-23,1.3,51.5684,7.5403,GW-Messstelle,Grünland
+94150096,Br 1 Firma Lange,Lippstadt,Arnsberg,2015-05-07,1.3,51.6452,8.2629,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+60240430,AH/43 Quantwick,Ahaus,Münster,2015-09-09,1.3,52.0327,7.0171,GW-Messstelle,Wald
+100150329,AU 214T  LEDEBUR,Rahden,Detmold,2015-05-12,1.3,52.4872,8.6302,GW-Messstelle,Acker
+100150032,AU 103T  STROEHEN,Rahden,Detmold,2015-05-12,1.3,52.5178,8.6692,GW-Messstelle,Acker
+100150020,AU 401   OPPENWEHE,Stemwede,Detmold,2015-05-19,1.3,52.495,8.5337,GW-Messstelle,Acker
+100141377,WF 3    ESPELKAMP,Espelkamp,Detmold,2015-06-02,1.3,52.3653,8.6052,GW-Messstelle,Acker
+60240416,AH/41-AMMELOE-,Vreden,Münster,2015-06-15,1.3,52.0806,6.7749,GW-Messstelle,Acker
+106520052,AU214F LEDEBUR neu,Rahden,Detmold,2015-05-12,1.3,52.4872,8.6302,GW-Messstelle,Grünland
+60240404,AH/40-WENNEWICK-,Vreden,Münster,2015-06-15,1.3,52.1162,6.7938,GW-Messstelle,Grünland
+60240313,AH/31 -SABSTAETTE-,Ahaus,Münster,2015-04-21,1.3,52.0355,6.9619,GW-Messstelle,Acker
+60240260,AH/26 -SUEDLOHN-,Südlohn,Münster,2015-04-21,1.3,51.9415,6.8396,GW-Messstelle,Acker
+60240246,AH/24 -VREDEN-,Vreden,Münster,2015-06-18,1.3,52.0498,6.8363,GW-Messstelle,Acker
+94150242,Br Lattenberg,Arnsberg,Arnsberg,2015-12-14,1.3,51.4083,8.1908,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+60240131,AH/13 -WICHUM-,Heek,Münster,2015-05-18,1.3,52.1426,7.0629,GW-Messstelle,Acker
+60240052,AH/5 -ALSTAETTE-,Ahaus,Münster,2015-06-12,1.3,52.1282,6.8923,GW-Messstelle,Grünland
+60240027,AH/2 - FUECHTE -,Gronau (Westf.),Münster,2015-04-15,1.3,52.1802,7.0944,GW-Messstelle,Grünland
+60100904,RWI 59,Waltrop,Münster,2015-11-30,1.3,51.6045,7.411,GW-Messstelle,Grünland
+60100308,RWI 51,Waltrop,Münster,2015-11-19,1.3,51.6374,7.3676,GW-Messstelle,Acker
+110040132,IV/13 -RECKENFELD-,Nordwalde,Münster,2015-08-25,1.3,52.1169,7.5308,GW-Messstelle,Acker
+110040144,IV/14 -RECKENFELD-,Greven,Münster,2015-09-02,1.3,52.1275,7.5425,GW-Messstelle,Acker
+60080139,HS 125,Gelsenkirchen,Münster,2015-04-22,1.3,51.6081,7.041,GW-Messstelle,"bebaut, besiedelt"
+60070298,RWI 22,Gladbeck,Münster,2015-08-28,1.3,51.5861,6.9506,GW-Messstelle,Acker
+98120414,Dep. Kamen-H-W GWT1,Kamen,Arnsberg,2015-06-24,1.3,51.5744,7.7435,GW-Messstelle,Acker
+100135158,PH 12    HEIMSEN,Petershagen,Detmold,2015-04-08,1.3,52.4663,9.0476,GW-Messstelle,Acker
+110040223,IV/22 SAERBECK,Saerbeck,Münster,2015-09-02,1.3,52.1882,7.6556,GW-Messstelle,Acker
+110040247,IV/24 WALTRUP,Altenberge,Münster,2015-12-10,1.3,52.0024,7.4886,GW-Messstelle,Acker
+100150640,AU 324   SIELHORST,Rahden,Detmold,2015-05-19,1.3,52.474,8.5804,GW-Messstelle,Acker
+94140042,Br Firma Pfingsten,Soest,Arnsberg,2015-04-09,1.3,51.5881,8.0993,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+110040259,IV/25 LAER Parkpl.,Laer,Münster,2015-04-30,1.3,52.0551,7.3876,GW-Messstelle,Acker
+100151085,AU 507 Stellerdamm,Rahden,Detmold,2015-07-01,1.3,52.4238,8.6366,GW-Messstelle,"bebaut, besiedelt"
+91120202,Hamm Lerche ML 21,Hamm,Arnsberg,2015-06-17,1.3,51.6345,7.6886,GW-Messstelle,Acker
+91130608,Rhynern ML44,Hamm,Arnsberg,2015-06-17,1.3,51.631,7.8595,GW-Messstelle,"bebaut, besiedelt"
+91130700,Hamm-Mark ML4,Hamm,Arnsberg,2015-06-17,1.3,51.6869,7.865,GW-Messstelle,"bebaut, besiedelt"
+91131406,Süddinker ML57,Hamm,Arnsberg,2015-10-12,1.3,51.6332,7.9059,GW-Messstelle,Acker
+91132204,Norddinker ML70,Hamm,Arnsberg,2015-10-12,1.3,51.6607,7.9415,GW-Messstelle,Acker
+91133002,Klotingen ML75,Welver,Arnsberg,2015-12-03,1.3,51.6073,7.9915,GW-Messstelle,Acker
+80301496,RINDERN SCHULE  297,Kleve,Düsseldorf,2015-08-14,1.3,51.8022,6.1275,GW-Messstelle,"bebaut, besiedelt"
+91133300,Vellinghausen ML72,Welver,Arnsberg,2015-10-14,1.3,51.6695,7.9965,GW-Messstelle,Grünland
+91140900,Lippb Frölich ML102,Lippetal,Arnsberg,2015-09-03,1.3,51.6932,8.0598,GW-Messstelle,Wald
+91162002,Rebbeke OL 52,Lippstadt,Arnsberg,2015-05-28,1.3,51.7131,8.461,GW-Messstelle,Grünland
+91164916,Bönninghausen neu,Geseke,Arnsberg,2015-06-22,1.3,51.662,8.4791,GW-Messstelle,Acker
+94110013,Schulze-Froning,Werne,Arnsberg,2015-09-22,1.3,51.6873,7.6266,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+94120365,Quelle Halloh-Park,Hamm,Arnsberg,2015-04-16,1.3,51.6988,7.7666,gefasste Quelle,"bebaut, besiedelt"
+76981113,RSK Wahner H. WH11,Köln,Köln,2015-08-14,1.3,50.8508,7.1458,GW-Messstelle,Wald
+76929012,ZANDERS BGL 2/98,Bergisch Gladbach,Köln,2015-07-28,1.3,50.9963,7.178,GW-Messstelle,Wald
+76839916,BN Altabl. BP 85,Bonn,Köln,2015-05-13,1.3,50.729,7.1762,GW-Messstelle,Wald
+76727609,KRONENBG. LEICHL EB,Leichlingen (Rhld.),Köln,2016-03-24,1.3,51.1098,7.0027,Schachtbrunnen,"bebaut, besiedelt"
+94120377,Bockum-Höv HA-IC-14,Hamm,Arnsberg,2015-10-13,1.3,51.6969,7.7515,GW-Messstelle,"bebaut, besiedelt"
+76544710,Deponie Ville 11,Hürth,Köln,2015-07-29,1.3,50.8461,6.8567,GW-Messstelle,Wald
+73725900,GUT OMMEROTH EB,Windeck,Köln,2016-03-23,1.3,50.8337,7.561,Schachtbrunnen,Wald
+94140017,Br Neuhaus,Möhnesee,Arnsberg,2015-05-07,1.3,51.4552,8.1551,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+91112000,Westick ML 6,Kamen,Arnsberg,2015-06-24,1.3,51.5796,7.6258,GW-Messstelle,Grünland
+100135559,PH 40A   BIERD FELD,Petershagen,Detmold,2015-04-09,1.3,52.3779,9.026,GW-Messstelle,Acker
+100135640,WF 1T   OVENSTAEDT,Petershagen,Detmold,2015-04-16,1.3,52.4241,8.9666,GW-Messstelle,Acker
+110151094,WA/9  LIESBORN,Wadersloh,Münster,2015-11-03,1.3,51.6932,8.2509,GW-Messstelle,Acker
+100140312,WG 24A   GEESTMOORD,Hille,Detmold,2015-03-26,1.3,52.3258,8.7138,GW-Messstelle,Grünland
+59540564,HATTINGEN 17,Hattingen,Arnsberg,2015-10-19,1.3,51.3978,7.1677,GW-Messstelle,"bebaut, besiedelt"
+59540187,Gut Schede,Herdecke,Arnsberg,2015-03-24,1.3,51.3964,7.3839,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+59160147,Herne 206,Herne,Arnsberg,2015-06-09,1.3,51.5594,7.2578,GW-Messstelle,Grünland
+59160123,Herne 198,Herne,Arnsberg,2015-10-19,1.3,51.546,7.2213,GW-Messstelle,"bebaut, besiedelt"
+100140750,WG 69    FRIEDEWALD,Petershagen,Detmold,2015-04-16,1.3,52.3863,8.8514,GW-Messstelle,Acker
+100140865,WG 80    SUEDFRIEDH,Minden,Detmold,2015-07-01,1.3,52.2793,8.895,GW-Messstelle,"bebaut, besiedelt"
+110200159,TE/15 -HOERSTEL-,Hörstel,Münster,2015-03-11,1.3,52.3108,7.5864,GW-Messstelle,Acker
+59160093,Herne 157,Herne,Arnsberg,2015-06-15,1.3,51.5436,7.1949,GW-Messstelle,"bebaut, besiedelt"
+59160068,Herne G1/21,Herne,Arnsberg,2015-06-15,1.3,51.5461,7.1623,GW-Messstelle,"bebaut, besiedelt"
+59130726,Buschmühle,Dortmund,Arnsberg,2015-07-07,1.3,51.4906,7.4748,GW-Messstelle,Sonstiges
+110200196,TE/19 -HOPSTEN-,Hopsten,Münster,2015-04-01,1.3,52.3618,7.5993,GW-Messstelle,Acker
+59130660,TIERGARTEN DO,Dortmund,Arnsberg,2015-03-24,1.3,51.471,7.4738,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+59130600,Huckarde 3II,Dortmund,Arnsberg,2015-06-22,1.3,51.5517,7.4191,GW-Messstelle,Acker
+59130581,DO-Wickede RWI 1,Dortmund,Arnsberg,2015-10-21,1.3,51.5434,7.6063,GW-Messstelle,Acker
+59130570,DO-Kurl RWI 2,Dortmund,Arnsberg,2015-07-07,1.3,51.5612,7.5798,GW-Messstelle,Wald
+110200305,TE/30 DREIERWALDE,Hörstel,Münster,2015-03-12,1.3,52.3357,7.4829,GW-Messstelle,Acker
+59130556,DO-Grevel RWI 80,Dortmund,Arnsberg,2015-06-22,1.3,51.5624,7.5495,GW-Messstelle,"bebaut, besiedelt"
+110200342,TE/34 Habichtswald,Tecklenburg,Münster,2015-03-19,1.3,52.243,7.8836,GW-Messstelle,Wald
+110200354,TE/35 Leeden-Butke,Tecklenburg,Münster,2015-03-23,1.3,52.2218,7.9036,GW-Messstelle,Grünland
+59130430,DO-Schwiergh. RWI25,Dortmund,Arnsberg,2015-06-08,1.3,51.5822,7.4212,GW-Messstelle,Acker
+110200378,TE/37 WERSEN,Lotte,Münster,2015-03-19,1.3,52.2992,7.9134,GW-Messstelle,Acker
+100141328,WG 51N   IM STRANGE,Espelkamp,Detmold,2015-05-21,1.3,52.3664,8.5274,GW-Messstelle,Grünland
+110200020,TE/2 -HOHNE-,Lengerich,Münster,2015-10-28,1.3,52.1409,7.8684,GW-Messstelle,Grünland
+110200056,TE/5 HORSTMERSCH,Tecklenburg,Münster,2015-10-29,1.3,52.2142,7.7277,GW-Messstelle,Grünland
+59540576,BAERWINKEL,Hattingen,Arnsberg,2015-05-06,1.3,51.3292,7.1733,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+110070173,VII/17 -RECKENFELD-,Nordwalde,Münster,2015-08-24,1.3,52.129,7.5119,GW-Messstelle,Wald
+110040260,IV/26 AULENDORF,Billerbeck,Münster,2015-11-09,1.3,52.0118,7.3416,GW-Messstelle,Acker
+100141365,WF 2    FROTHEIM,Espelkamp,Detmold,2015-06-02,1.3,52.3734,8.699,GW-Messstelle,Wald
+110050010,V/1 -BEVERGERN-,Hörstel,Münster,2015-03-13,1.3,52.2755,7.5667,GW-Messstelle,"bebaut, besiedelt"
+110050095,V/9 BHF METELEN,Metelen,Münster,2015-04-13,1.3,52.1621,7.2547,GW-Messstelle,Wald
+110050113,V/11 -MESUM-,Neuenkirchen,Münster,2015-09-08,1.3,52.1995,7.4412,GW-Messstelle,Grünland
+59621278,BUSCHHOEH,Meinerzhagen,Arnsberg,2015-10-27,1.3,51.1449,7.7001,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+110050137,V/13 -SELLEN-,Steinfurt,Münster,2015-04-14,1.3,52.1745,7.2857,GW-Messstelle,Acker
+110050149,V/14 BORGHORST NORD,Steinfurt,Münster,2015-09-07,1.3,52.1458,7.4217,GW-Messstelle,Acker
+110050150,V/15  STEINF. BAGNO,Steinfurt,Münster,2015-09-28,1.3,52.1425,7.3568,GW-Messstelle,Wald
+110060155,VI/15 MS - WERSE,Münster,Münster,2015-11-13,1.3,51.9705,7.6913,GW-Messstelle,Acker
+110070549,VII/54 OELDE,Oelde,Münster,2015-11-12,1.3,51.8168,8.0949,GW-Messstelle,Acker
+110070045,VII/4-SENDH.-HARDT-,Sendenhorst,Münster,2015-11-12,1.3,51.8317,7.8788,GW-Messstelle,Acker
+110070525,VII/52 HOLTRUP,Warendorf,Münster,2015-11-17,1.3,51.9162,8.007,GW-Messstelle,Grünland
+110070409,VII/40-VORHELM-,Ahlen,Münster,2015-11-11,1.3,51.8058,7.9512,GW-Messstelle,Acker
+110070513,VII/51 BEESENBERG,Ennigerloh,Münster,2015-11-24,1.3,51.8521,7.9836,GW-Messstelle,Wald
+110070422,VII/42 WETTENDORF,Everswinkel,Münster,2015-11-18,1.3,51.9192,7.7783,GW-Messstelle,Grünland
+91120100,Kamener Kreuz ML 22,Kamen,Arnsberg,2015-06-24,1.3,51.6076,7.6811,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+59540606,FREIB. WETTER,Wetter (Ruhr),Arnsberg,2015-04-20,1.3,51.3833,7.3991,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+42063437,LINEG_2549H,Duisburg,Düsseldorf,2015-04-22,1.2,51.4094,6.6776,GW-Messstelle,"bebaut, besiedelt"
+36462068,WW Baumberg Pegel11,Düsseldorf,Düsseldorf,2015-06-30,1.1,51.1414,6.8947,GW-Messstelle,"bebaut, besiedelt"
+106503960,HI 8 BR  HIDDENHAUS,Hiddenhausen,Detmold,2015-04-14,1.0,52.1528,8.6086,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106503613,OV 2 BR  OVENSTAEDT,Petershagen,Detmold,2015-09-24,1.0,52.4127,8.9605,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106502517,ASM 4 BR ASMISS EXT,Extertal,Detmold,2015-05-21,1.0,52.0677,9.1004,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106506195,HB 2 BR  HAEVER EWB,Kirchlengern,Detmold,2015-10-05,1.0,52.2167,8.6459,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+26502392,T1 Hamlingdorf,Borgholzhausen,Detmold,2015-03-23,1.0,52.0904,8.2964,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+118841038,WW.TELGTE-VK03,Telgte,Münster,2015-10-27,1.0,51.9981,7.7815,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+100706940,HE 6A BR HEDEM,Preußisch Oldendorf,Detmold,2015-05-19,1.0,52.3272,8.5158,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+100721217,MM HORI  MEISSEN,Minden,Detmold,2015-11-13,1.0,52.2727,8.9432,Horizontalfilterbrunnen,Acker
+100742208,HB 4 BR  AM HOCHBEH,Herford,Detmold,2015-03-31,1.0,52.1235,8.7182,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+10406372,Overhuesallee P 7,Düren,Köln,2016-04-04,1.0,50.7895,6.478,GW-Messstelle,"bebaut, besiedelt"
+113409102,COESFELD 10,Coesfeld,Münster,2015-04-16,1.0,51.937,7.179,GW-Messstelle,"bebaut, besiedelt"
+113409096,COESFELD 09,Coesfeld,Münster,2015-04-20,1.0,51.9349,7.1927,GW-Messstelle,Acker
+36462615,Broichhofstr.-Br. 2,Ratingen,Düsseldorf,2015-09-09,1.0,51.2954,6.8106,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+100760168,BA 5A BR AHLE,Bünde,Detmold,2015-10-05,1.0,52.1891,8.5459,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+100761410,CONLE BR ENGER CONL,Enger,Detmold,2015-11-04,1.0,52.138,8.5697,Vertikalfilterbrunnen (Bohrbrunnen),"bebaut, besiedelt"
+10202330,FZJ Nr. 39,Niederzier,Köln,2015-10-05,1.0,50.8877,6.4411,GW-Messstelle,Acker
+106502372,LEOP2 BR SILBERMUEH,Horn-Bad Meinberg,Detmold,2015-10-13,1.0,51.849,8.9458,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+100706617,HE 3  BR HEDEM,Lübbecke,Detmold,2015-11-10,1.0,52.316,8.5386,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+106502359,MASSB BR MASSBRUCH,Detmold,Detmold,2015-10-13,1.0,51.9081,8.9496,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+100701541,LG 3  BR GEHLENBECK,Lübbecke,Detmold,2015-10-22,1.0,52.3237,8.6512,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+80301277,CLOERATH        275,Viersen,Düsseldorf,2016-01-26,1.0,51.278,6.4184,GW-Messstelle,Grünland
+100705170,ES 7  BR ESPELKAMP,Espelkamp,Detmold,2015-10-13,1.0,52.4087,8.6423,Vertikalfilterbrunnen (Bohrbrunnen),Grünland
+26490766,VB 4    Quenhorn,Herzebrock-Clarholz,Detmold,2015-02-02,1.0,51.9321,8.2479,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+26491448,BR 2 Sudheide,Rheda-Wiedenbrück,Detmold,2015-03-11,1.0,51.8792,8.3228,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+63451025,WW.HUNDEWICK VM-05,Stadtlohn,Münster,2015-10-13,1.0,51.9816,6.9015,Sonstige Messstellenarten,Acker
+26501480,B3 Schwarzbachtal,Warburg,Detmold,2015-05-20,1.0,51.5394,8.9932,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+219602610,Hilfarth,Hückelhoven,Köln,2015-06-25,0.9,51.0378,6.2068,GW-Messstelle,"bebaut, besiedelt"
+288067411,Rheindahlen,Mönchengladbach,Düsseldorf,2015-01-26,0.9,51.1478,6.3736,GW-Messstelle,"bebaut, besiedelt"
+219602918,Isenbruch,Selfkant,Köln,2015-06-10,0.9,51.0509,5.8864,GW-Messstelle,Grünland
+219972310,Ginnick  2,Vettweiß,Köln,2015-09-01,0.9,50.7001,6.5709,GW-Messstelle,Acker
+289195019,Neurath 2,Grevenbroich,Düsseldorf,2015-07-06,0.9,51.0397,6.5827,GW-Messstelle,"bebaut, besiedelt"
+219675119,Wildnis,,,2015-12-15,0.9,50.8895,6.0974,GW-Messstelle,"bebaut, besiedelt"
+289196413,Gnadental,Neuss,Düsseldorf,2015-05-18,0.9,51.1777,6.723,GW-Messstelle,"bebaut, besiedelt"
+219602013,Pier 13,Inden,Köln,2015-10-19,0.9,50.871,6.4207,GW-Messstelle,Wald
+10424120,Kirchhoven B10Rohw,Heinsberg (Rhld.),Köln,2015-03-18,0.9,51.0655,6.0688,Vertikalfilterbrunnen (Bohrbrunnen),keine Angabe
+216000051,Br. ZF Juelich,Jülich,Köln,2015-08-31,0.9,50.9139,6.3693,GW-Messstelle,"bebaut, besiedelt"
+10424210,Kirchhoven Br5 Rohw,Heinsberg (Rhld.),Köln,2015-03-18,0.9,51.0716,6.063,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+10424167,Kirchhoven Br11Rohw,Heinsberg (Rhld.),Köln,2015-03-18,0.9,51.067,6.0678,Vertikalfilterbrunnen (Bohrbrunnen),keine Angabe
+218209319,Müntz,Titz,Köln,2015-11-09,0.9,50.9825,6.3721,GW-Messstelle,Acker
+219278519,Jülich Ii,Jülich,Köln,2015-11-09,0.9,50.9184,6.3806,GW-Messstelle,Acker
+219282018,Pickartzhof,Linnich,Köln,2015-07-09,0.9,50.9578,6.3105,GW-Messstelle,Acker
+36462780,SW Rati Homberg H32,Ratingen,Düsseldorf,2015-10-15,0.8,51.2952,6.9142,GW-Messstelle,Acker
+278346613,Oberaußem,Bergheim,Köln,2015-04-01,0.8,50.9669,6.6844,GW-Messstelle,Wald
+80300285,BÜTTGEN-SPORTPL.190,Kaarst,Düsseldorf,2015-02-23,0.6,51.2262,6.585,GW-Messstelle,"bebaut, besiedelt"
+278345323,Tgb. Fortuna,Bergheim,Köln,2015-10-27,0.5,50.9976,6.6401,GW-Messstelle,Acker
+76672815,WW Sindorf Br V 277,Kerpen,Köln,2015-04-14,0.5,50.9162,6.6606,Vertikalfilterbrunnen (Bohrbrunnen),Acker
+278543418,Weiler Berrenr.,Kerpen,Köln,2015-10-13,0.5,50.856,6.7703,GW-Messstelle,Acker
+278541010,Kippe Berrenrath,Kerpen,Köln,2015-10-12,0.5,50.8578,6.803,GW-Messstelle,Acker
+218149517,Baal,Hückelhoven,Köln,2015-04-08,0.5,51.0392,6.2947,GW-Messstelle,Wald
+218676414,Effeld,Wassenberg,Köln,2015-10-15,0.5,51.1323,6.1397,GW-Messstelle,Wald
+218218618,Kirchtroisdorf,Titz,Köln,2015-10-14,0.5,50.9774,6.4881,GW-Messstelle,Acker
+278331427,Kippe Fischbach,Bergheim,Köln,2015-10-13,0.5,50.943,6.7172,GW-Messstelle,Acker
+218175917,Scherresbruch,Hückelhoven,Köln,2015-10-16,0.5,51.0398,6.2969,GW-Messstelle,Wald
+80301861,WALL SCHULE     334,Kempen,Düsseldorf,2015-10-13,0.5,51.3785,6.3869,GW-Messstelle,Acker
+80302208,SECKELSHEIDE,Issum,Düsseldorf,2015-08-26,0.4,51.5186,6.4071,GW-Messstelle,Wald
+10205561,"ARSBECK PE 7  4""",Wegberg,Köln,2015-03-16,0.4,51.1608,6.1883,GW-Messstelle,Wald
+10410077,Heilsteinquelle,Schleiden,Köln,2016-01-21,0.4,50.574,6.4078,Vertikalfilterbrunnen (Bohrbrunnen),Wald
+30000075,Düss-Schloß Garath,Düsseldorf,Düsseldorf,2015-01-06,0.2,51.1403,6.9124,GW-Messstelle,Wald
+42063917,LINEG_2593,Rheinberg,Düsseldorf,2015-01-15,0.1,51.55,6.6668,GW-Messstelle,Acker
+36485779,SW DUISBURG P419a,Düsseldorf,Düsseldorf,2016-01-21,0.1,51.3218,6.8019,GW-Messstelle,Wald
+36462767,SW Rati. Homberg H9,Heiligenhaus,Düsseldorf,2015-09-16,0.1,51.3105,6.9395,GW-Messstelle,Acker
+80303638,SCHWANENMARKT KREF.,Krefeld,Düsseldorf,2015-09-10,0.1,51.331,6.5622,GW-Messstelle,"bebaut, besiedelt"
+32032080,UWB-Ddorf 00814,Düsseldorf,Düsseldorf,2015-08-28,0.1,51.2136,6.8236,GW-Messstelle,"bebaut, besiedelt"
+80303389,ST.HUBERT    SCHULE,Kempen,Düsseldorf,2015-10-13,0.1,51.3845,6.4481,GW-Messstelle,"bebaut, besiedelt"
+30302699,Hild-Stadtwald-West,Hilden,Düsseldorf,2015-09-07,0.1,51.1838,6.9541,GW-Messstelle,Wald
+30302626,Hild-Verw.schule,Hilden,Düsseldorf,2015-09-07,0.1,51.1841,6.9393,GW-Messstelle,Grünland
+30100458,Erkr-Morper Allee,Erkrath,Düsseldorf,2015-09-18,0.1,51.2231,6.8992,GW-Messstelle,"bebaut, besiedelt"
+80303080,WEISSENBERG     377,Neuss,Düsseldorf,2015-09-23,0.1,51.212,6.6787,GW-Messstelle,"bebaut, besiedelt"
+80300935,SCHILBERGSHOF   241,Weeze,Düsseldorf,2015-09-01,0.1,51.6331,6.2446,GW-Messstelle,Grünland
+80301034,KLEINKEVELAER   251,Kevelaer,Düsseldorf,2015-06-17,0.1,51.5535,6.2315,GW-Messstelle,"bebaut, besiedelt"
+80301423,SCHLOSSHOF      290,Emmerich,Düsseldorf,2015-09-02,0.1,51.8967,6.1272,GW-Messstelle,Grünland
+80301630,AUTOBAHN        311,Emmerich,Düsseldorf,2015-09-30,0.1,51.8475,6.3136,GW-Messstelle,Grünland
+80201556,FLOOTSMÜHLE     198,Straelen,Düsseldorf,2015-10-14,0.1,51.3571,6.2753,GW-Messstelle,Wald
+86600485,SWK P 446F,Krefeld,Düsseldorf,2015-11-23,0.0,51.369,6.5754,GW-Messstelle,"bebaut, besiedelt"
+42063656,LINEG_2567H,Duisburg,Düsseldorf,2015-03-12,0.0,51.4921,6.6745,GW-Messstelle,"bebaut, besiedelt"

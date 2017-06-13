@@ -1,0 +1,28 @@
+.ddjnrw-mst-map__legend {
+  display: block;
+  line-height: 1em;
+  bottom: 0px;
+  left: 10px;
+  right: 10px;
+
+  // FIXME
+  width: 90%;
+  @include bp-sm {
+    width: 300px;
+  }
+
+  &-title {
+    display: block;
+    font-family: $font-neuzeit;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  &-tick {
+    font-size: 12px;
+    display: inline-block;
+    width: 12.5%;
+    background-color: $gray;
+    text-align: center;
+  }
+}

@@ -1,0 +1,737 @@
+name,schulform,stadt,standorttyp,lat,lon,street,plz,data_2014
+Anne-Frank-Gesamtchule,Gesamtschule,Dortmund,5,51.531,7.464,Burgholzstraße 120,44145,0
+Gesamtschule Brünninghausen,Gesamtschule,Dortmund,3,51.48,7.456,Klüsenerskamp 15,44225,0
+Europaschule,Gesamtschule,Dortmund,3,51.511,7.532,Am Gottesacker 64,44143,0
+Gesamtschule Gartenstadt,Gesamtschule,Dortmund,5,51.499,7.503,Hueckstraße 25/26,44141,0
+Geschwister-Scholl-Gesamtschule ,Gesamtschule,Dortmund,3,51.53,7.553,Haferfeldstraße 3-5,44309,0
+Gustav-Heinemann-Gesamtschule,Gesamtschule,Dortmund,5,51.533,7.406,Parsevalstraße 170,44369,0
+Heinrich-Böll-Gesamtschule,Gesamtschule,Dortmund,4,51.503,7.335,Volksgartenstraße 19,44388,0
+Martin-Luther-King-Gesamtschule,Gesamtschule,Dortmund,5,51.502,7.405,Fine Frau 50-58,44149,0
+Gesamtschule Scharnhorst,Gesamtschule,Dortmund,5,51.551,7.545,Mackenrothweg 15,44328,0
+Hauptschule Am Externberg,Hauptschule,Dortmund,5,51.555,7.468,Evinger Parkweg 10,44339,0
+Emscherschule Aplerbeck,Hauptschule,Dortmund,4,51.491,7.559,Schweizer Allee 25,44287,0
+Hauptschule Kley,Hauptschule,Dortmund,3,51.512,7.45,Möllerstraße 3,44137,0
+Konrad-von-der-Mark-Schule (Hauptschule Hörde),Hauptschule,Dortmund,4,51.479,7.492,Stettiner Str. 10,44263,0
+Hauptschule Scharnhorst,Hauptschule,Dortmund,5,51.554,7.531,Meuselwitzstraße 43,44328,0
+Schule am Hafen,Hauptschule,Dortmund,5,51.525,7.449,Lützowstraße 75,44147,0
+Hauptschule Westerfilde,Hauptschule,Dortmund,4,51.545,7.369,Im Odemsloh 107,44357,0
+Bert-Brecht-Gymnasium,Gymnasium,Dortmund,4,51.518,7.361,Sumbecks Holz 5,44379,0
+Goethe-Gymnasium,Gymnasium,Dortmund,3,51.48,7.492,Stettiner Str. 12,44263,0
+Stadtgymnasium (Gymnasium Heiliger Weg),Gymnasium,Dortmund,5,51.511,7.474,Heiliger Weg 25,44135,0
+Heinrich-Heine-Gymnasium,Gymnasium,Dortmund,4,51.558,7.391,Dörwerstraße 34,44359,0
+Heisenberg-Gymnasium,Gymnasium,Dortmund,4,51.553,7.494,Preußische Str. 225,44339,0
+Helene-Lange-Gymnasium,Gymnasium,Dortmund,3,51.475,7.451,Am Hombruchsfeld 55A,44225,0
+Helmholtz-Gymnasium,Gymnasium,Dortmund,5,51.527,7.459,Münsterstraße 122,44145,0
+Immanuel-Kant-Gymnasium,Gymnasium,Dortmund,3,51.532,7.595,Grüningsweg 42-44,44319,0
+Käthe-Kollwitz-Gymnasium,Gymnasium,Dortmund,4,51.511,7.473,Erzbergerstraße 1,44135,0
+Leibniz-Gymnasium,Gymnasium,Dortmund,4,51.501,7.442,Kreuzstraße 163,44137,0
+Mallinckrodt-Gymnasium,Gymnasium,Dortmund,4,51.509,7.467,Südrandweg 2-4,44139,0
+Max-Planck-Gymnasium,Gymnasium,Dortmund,3,51.49,7.46,Ardeystraße 70-72,44139,0
+Phoenix-Gymnasium,Gymnasium,Dortmund,5,51.492,7.5,Seekante 12,44263,0
+Privatgymnasium Stadtkrone,Gymnasium,Dortmund,3,51.499,7.523,Lissaboner Allee 15,44269,0
+Gymnasium Reinoldus und Schiller,Gymnasium,Dortmund,3,51.515,7.411,Hallerey 49,44149,0
+Gymnasium an der Schweizer Allee,Gymnasium,Dortmund,3,51.492,7.564,Schweizer Allee 18-20,44287,0
+"Albert-Einstein-Realschule
+",Realschule,Dortmund,5,51.553,7.532,Gleiwitzstraße 200,44328,0
+Albert-Schweitzer-Realschule,Realschule,Dortmund,4,51.559,7.392,Dörwerstraße 42,44359,0
+Albrecht-Dürer-Realschule,Realschule,Dortmund,3,51.491,7.559,Schweizer Allee 25,44287,0
+Droste-Hülshoff-Realschule,Realschule,Dortmund,4,51.518,7.36,Sumbecks Holz 5,44379,0
+Gertrud-Bäumer-Realschule,Realschule,Dortmund,5,51.529,7.458,Goethestraße 20,44147,0
+Johann-Gutenberg-Realschule,Realschule,Dortmund,3,51.466,7.49,Am Lieberfeld 13,44265,0
+Marie-Reinders-Realschule,Realschule,Dortmund,4,51.487,7.492,Hochofenstraße 38,44263,0
+Max-Born-Realschule,Realschule,Dortmund,4,51.536,7.625,Dollersweg 18,44319,0
+Nikolaus-Kopernikus-Realschule,Realschule,Dortmund,5,51.546,7.369,Im Odemsloh 107,44357,0
+Ricarda-Huch-Realschule,Realschule,Dortmund,5,51.512,7.484,Prinz-Friedrich-Karl-Straße 72-78,44135,0
+Robert-Koch-Realschule,Realschule,Dortmund,4,51.476,7.452,Am Hombruchsfeld 69,44225,0
+Theodor-Heuss-Realschule,Realschule,Dortmund,4,51.552,7.493,In der Großen Heide 15,44339,0
+Wilhelm-Busch-Realschule,Realschule,Dortmund,4,51.517,7.409,Höfkerstraße 7,44149,0
+Wilhelm-Röntgen-Realschule,Realschule,Dortmund,5,51.501,7.443,Kreuzstraße 159,44137,0
+Reinoldi-Sekundarschule,Sekundarschule,Dortmund,5,51.545,7.369,Im Odemsloh 107,44357,0
+Jeannette-Wolff-Schule,Hauptschule,Dortmund,5,51.571,7.382,Mengeder Markt 6-8,44359,0
+Carolinengesamtschule Bochum,Gesamtschule,Bochum,1,51.455,7.209,Springorumallee 1,44795,0
+Erich-Kästner-Gesamtschule,Gesamtschule,Bochum,5,51.45,7.244,Markstraße 189,44799,0
+Freie Schule Bochum,Gesamtschule,Bochum,3,51.458,7.228,Wiemelhauser Str. 270,44799,0
+Heinrich-Böll-Schule,Gesamtschule,Bochum,4,51.496,7.219,Agnesstraße 33,44791,0
+Maria Sibylla Merian-Gesamtschule,Gesamtschule,Bochum,5,51.47,7.15,Lohackerstraße 15,44867,0
+Private Evangelische Gesamtschule (Matthias-Claudius-Schule),Gesamtschule,Bochum,1,51.456,7.188,Weitmarer Str. 115A,44795,0
+Willy-Brandt-Gesamtschule,Gesamtschule,Bochum,4,51.484,7.301,Wittekindstraße 33,44894,0
+Albert-Schweitzer-Schule,Hauptschule,Bochum,5,51.574,7.221,Weißenburgstraße 48,45663,0
+Heinrich-Kämpchen-Schule,Hauptschule,Bochum,4,51.426,7.15,Dr.-C.-Otto-Straße 88,44879,0
+Liselotte-Rauner-Schule,Hauptschule,Bochum,5,51.481,7.14,Voedestraße 46/48,44866,0
+Werner-von-Siemens-Schule,Hauptschule,Bochum,4,51.506,7.267,Haydnstraße 3,44805,0
+Gemeinschaftsschule Bochum Mitte (Gahlensche Straße),Gemeinschaftsschule,Bochum,5,51.493,7.188,Gahlensche Str. 204B,44809,0
+Goethe-Gymnasium,Gymnasium,Bochum,4,51.486,7.22,Goetheplatz 1,Goethestraße,0
+Graf-Engelbert-Schule,Gymnasium,Bochum,3,51.466,7.219,Königsallee 77-79,44789,0
+Heinrich-von-Kleist-Schule,Gymnasium,Bochum,4,51.516,7.274,Heinrichstraße 2,44805,0
+Hellweg-Schule,Gymnasium,Bochum,4,51.472,7.149,Lohackerstraße 13,44867,0
+Hildegardis-Schule,Gymnasium,Bochum,4,51.486,7.227,Klinikstraße 1,44791,0
+Lessing-Schule,Gymnasium,Bochum,3,51.471,7.316,Ottilienstraße 12,44892,0
+Märkische Schule,Gymnasium,Bochum,4,51.478,7.136,Saarlandstraße 40,44866,0
+Neues Gymnasium,Gymnasium,Bochum,3,51.468,7.232,Querenburger Str. 45,44789,0
+Schiller-Schule,Gymnasium,Bochum,2,51.464,7.221,Waldring 71,44789,0
+Theodor-Körner-Schule,Gymnasium,Bochum,2,51.427,7.151,Keilstraße 42-48,44879,0
+Anne-Frank-Schule,Realschule,Bochum,4,51.516,7.274,Heinrichstraße 2,44805,0
+Annette-von-Droste-Hülshoff-Realschule,Realschule,Bochum,4,51.478,7.235,Lohring 22,44789,0
+Franz-Dinnendahl-Schule,Realschule,Bochum,4,51.497,7.245,Lennepl. 21,44807,0
+Hans-Böckler-Realschule,Realschule,Bochum,5,51.468,7.232,Querenburger Str. 35,44789,0
+Realschule Höntrop,Realschule,Bochum,4,51.461,7.163,Höntroper Str. 99,44869,0
+Hugo-Schultz-Schule,Realschule,Bochum,3,51.427,7.151,Dr.-C.-Otto-Straße 88,44879,0
+Pestalozzi-Realschule,Realschule,Bochum,5,51.477,7.15,Graf-Adolf-Straße 40,44866,0
+Sekundarschule Bochum-Südwest,Sekundarschule,Bochum,4,51.426,7.15,Dr.-C.-Otto-Straße 88,44879,0
+Nelson-Mandela-Schule,Sekundarschule,Bochum,5,51.468,7.318,Stiftstraße 25,44892,0
+Erich-Fried-Gesamtschule,Gesamtschule,Herne,4,51.535,7.201,Grabenstraße 14,44625,0
+Mont-Cenis-Gesamtschule ,Gesamtschule,Herne,5,51.538,7.248,Mont-Cenis-Straße 180,44627,0
+Gesamtschule Wanne-Eickel,Gesamtschule,Herne,5,51.53,7.156,Stöckstraße 41,44649,0
+Hans-Tilkowski-Schule,Hauptschule,Herne,5,51.541,7.22,Neustraße 16,44623,0
+Hauptschule Hölkeskampring,Hauptschule,Herne,4,51.529,7.223,Hölkeskampring 2,44625,0
+Melanchthonschule,Hauptschule,Herne,5,51.54,7.155,Melanchthonstraße 15,44649,0
+Gymnasium Eickel,Gymnasium,Herne,4,51.523,7.161,Gabelsbergerstraße 22,44652,0
+Haranni Gymnasium,Gymnasium,Herne,4,51.542,7.226,Hermann-Löns-Straße 58,44623,0
+Otto-Hahn-Gymnasium,Gymnasium,Herne,4,51.539,7.241,Hölkeskampring 168,44625,0
+Pestalozzi-Gymnasium,Gymnasium,Herne,3,51.544,7.213,Harpener Weg 6,44629,0
+Gymnasium Wanne,Gymnasium,Herne,5,51.529,7.158,Gerichtsstraße 9,44649,0
+Realschule An der Burg,Realschule,Herne,5,51.514,7.169,Burgstraße 71,44651,0
+Realschule Crange,Realschule,Herne,5,51.54,7.152,Semlerstraße 4,44649,0
+Realschule Sodingen,Realschule,Herne,4,51.549,7.271,Castroper Str. 251,44627,0
+realschule Strünkede,Realschule,Herne,5,51.546,7.212,Bismarckstraße 41,44629,0
+Fasia-Jansen-Gesamtschule,Gesamtschule,Oberhausen,5,51.474,6.862,Schwartzstraße 87,46045,0
+Heinrich-Böll-Gesamtschule,Gesamtschule,Oberhausen,3,51.551,6.836,Auf der Haardt￼ 3,46147,0
+Gesamtschule Osterfeld,Gesamtschule,Oberhausen,5,51.505,6.889,Lilienthalstraße,46117,0
+Gesamtschule Weierheide,Gesamtschule,Oberhausen,4,51.517,6.829,Egelsfurthstraße 66,46149,0
+Albert-Schweitzer-Hauptschule,Hauptschule,Oberhausen,5,51.525,6.874,Elpenbachstraße 112,46119,0
+Hauptschule Alstaden,Hauptschule,Oberhausen,5,51.462,6.835,Bebelstraße 182,46049,0
+Bertha-von-Suttner-Gymnasium,Gymnasium,Oberhausen,5,51.477,6.87,Bismarckstraße 53,46047,0
+Elsa-Brändström-Gymnasium,Gymnasium,Oberhausen,4,51.472,6.856,Christian-Steger-Straße 11,46045,0
+Freiherr-vom-Stein-Gymnasium,Gymnasium,Oberhausen,3,51.521,6.843,Wilhelmstraße 77,46145,0
+Heinrich-Heine-Gymnasium,Gymnasium,Oberhausen,5,51.472,6.866,Lohstraße 29,46047,0
+Sophie-Scholl-Gymnasium,Gymnasium,Oberhausen,4,51.52,6.848,Tirpitzstraße 41,46145,0
+Hauptschule St. Michael,Katholische Hauptschule,Oberhausen,4,51.479,6.88,Knappenstraße 123,46047,0
+Anne-Frank-Realschule,Realschule,Oberhausen,5,51.466,6.851,Goebenstraße 140,46045,0
+Friedrih-Ebert-Schule,Realschule,Oberhausen,4,51.524,6.839,Potsdamer Str. 2,46145,0
+Theodor-Heuss-Realschule,Realschule,Oberhausen,4,51.526,6.873,Tackenbergstraße 139,46119,0
+Janusz-Korczak-Gesamtschule,Gesamtschule,Bottrop,5,51.528,6.936,Horster Str. 114,46236,0
+Willy-Brandt-Gesamtschule,Gesamtschule,Bottrop,4,51.543,6.929,Brömerstraße 12,46240,0
+Gemeinschaftshauptschule Kirchhellen,Hauptschule,Bottrop,1,51.607,6.919,Kirchhellener Ring 18,46244,0
+Hauptschule Lehmkuhle,Hauptschule,Bottrop,5,51.513,6.93,Alter Südring 20,46236,0
+Hauptschule Welheim,Hauptschule,Bottrop,5,51.527,6.98,Welheimer Str. 80,46238,0
+Heinrich-Heine-Gymnasium,Gymnasium,Bottrop,3,51.525,6.913,Gustav-Ohm-Straße 65,46236,0
+Josef-Albers-Gymnasium,Gymnasium,Bottrop,4,51.518,6.919,Zeppelinstraße 20,46236,0
+Vestisches Gymnasium,Gymnasium,Bottrop,1,51.607,6.919,Schulstraße 25,46244,0
+August-Everding-Realschule,Realschule,Bottrop,3,51.534,6.897,Gorch-Fock-Straße 21,46242,0
+Gustav-Heinemann-Realschule,Realschule,Bottrop,4,51.523,6.932,Paßstraße 12,46236,0
+Marie-Curie-Realschule,Realschule,Bottrop,4,51.521,6.932,Friedrich-Ebert-Straße 120,46236,0
+Gesamtschule Espenstraße,Gesamtschule,Mönchengladbach,5,51.154,6.428,Gesamtschule Espenstraße,Espenstraße,0
+Hans-Jonas-Gesamtschule Neuwerk,Gesamtschule,Mönchengladbach,4,51.22,6.466,Nespelerstraße 75,41066,0
+Gesamtschule Hardt,Gesamtschule,Mönchengladbach,2,51.198,6.351,Vossenbäumchen 50,41169,0
+Gesamtschule Rheydt-Mülfort,Gesamtschule,Mönchengladbach,4,51.153,6.457,Realschulstraße 14,41238,0
+Gesamtschule Stadtmitte,Gesamtschule,Mönchengladbach,4,51.19,6.422,Aachener Str. 179,41061,0
+Gesamtschule Volksgarten,Gesamtschule,Mönchengladbach,5,51.189,6.448,Volksgartenstraße 71-75,41065,0
+Gemeinschaftshauptschule Dohler Straße,Hauptschule,Mönchengladbach,5,51.177,6.463,Dohler Str. 79,41238,0
+Gemeinschaftshauptschule Dohr,Hauptschule,Mönchengladbach,5,51.154,6.464,Altenbroicher Str. 50-52,41238,0
+Heinrich-Lersch-Schule,Hauptschule,Mönchengladbach,5,51.199,6.461,Rohrstraße 43,41065,0
+Gemeinschaftshauptschule Kirschhecke,Hauptschule,Mönchengladbach,5,51.141,6.457,Kirschhecke 10,41199,0
+Gymnasium Am Geroweiher,Gymnasium,Mönchengladbach,4,51.193,6.427,Balderichstraße 8,41061,0
+Gymnasium An der Gartenstraße,Gymnasium,Mönchengladbach,4,51.174,6.447,Gartenstraße 154,41236,0
+Franz-Meyers-Gymnasium,Gymnasium,Mönchengladbach,3,51.157,6.486,Asternweg 1,41238,0
+Hugo-Junkers-Gymnasium,Gymnasium,Mönchengladbach,5,51.171,6.444,Brucknerallee 58,41236,0
+Bischöfliche Marienschule,Gymnasium,Mönchengladbach,3,51.205,6.424,Viersener Str. 209,41063,0
+Mathematisch-Naturwissenschaftliches Gymnasium,Gymnasium,Mönchengladbach,4,51.189,6.438,Rheydter Str. 65,41065,0
+Gymnasium Odenkirchen,Gymnasium,Mönchengladbach,4,51.139,6.456,Mülgaustraße 43,41199,0
+Gymnasium Rheindahlen,Gymnasium,Mönchengladbach,2,51.15,6.367,Geusenstraße 29,41179,0
+Stiftisches Humanistisches Gymnasium,Gymnasium,Mönchengladbach,2,51.193,6.435,Abteistraße 17,41061,0
+Katholische Hauptschule Neuwerk,Katholische Hauptschule,Mönchengladbach,4,51.22,6.467,Nespelerstraße 75,41066,0
+Katholische Hauptschule Rheindahlen,Katholische Hauptschule,Mönchengladbach,2,51.15,6.367,Geusenstraße 29,41179,0
+Katholische Hauptschule Stadtmitte,Katholische Hauptschule,Mönchengladbach,4,51.196,6.428,Aachener Str. 52,41061,0
+Realschule an der Niers,Realschule,Mönchengladbach,5,51.152,6.456,Giesenkirchener Str. 8,41238,0
+Geschwister-Scholl-Realschule,Realschule,Mönchengladbach,4,51.201,6.408,Karl-Fegers-Straße 85,41068,0
+Realschule Volksgarten,Realschule,Mönchengladbach,5,51.189,6.454,Luise-Vollmar-Straße 25,41065,0
+Realschule Wickrath,Realschule,Mönchengladbach,4,51.127,6.407,Kreuzhütte 24,41189,0
+Gustav-Heinemann-Schule,Gesamtschule,Mülheim an der Ruhr,3,51.449,6.903,Boverstraße 150,45473,0
+Gesamtschule Saarn,Gesamtschule,Mülheim an der Ruhr,4,51.401,6.869,Lehnerstraße 65,45481,0
+Willy-Brandt-Gesamtschule,Gesamtschule,Mülheim an der Ruhr,4,51.453,6.86,Willy−Brandt−Schule,Oberhausener,0
+Städtische Gemeinschaftshauptschule Dümpten (Schule am Hexbachtal),Hauptschule,Mülheim an der Ruhr,5,51.462,6.908,Borbecker Str. 86-92,45475,0
+Städtisches Gymnasium Broich,Gymnasium,Mülheim an der Ruhr,3,51.421,6.863,Ritterstraße 21,45479,0
+Städtisches Gymnasium Heißen,Gymnasium,Mülheim an der Ruhr,4,51.427,6.94,Kleiststraße 50,45472,0
+Karl-Ziegler-Schule,Gymnasium,Mülheim an der Ruhr,4,51.423,6.882,Schulstraße 2-6,45468,0
+Luisenschule,Gymnasium,Mülheim an der Ruhr,3,51.423,6.9,An den Buchen 36,45470,0
+Otto-Pankok-Schule,Gymnasium,Mülheim an der Ruhr,3,51.426,6.895,Von-Bock-Straße 81,45468,0
+Realschule Broich,Realschule,Mülheim an der Ruhr,3,51.42,6.863,Holzstraße 80,45479,0
+Realschule Stadtmitte,Realschule,Mülheim an der Ruhr,4,51.425,6.895,Oberstraße 92,45468,0
+Max-Kölges-Schule,Hauptschule,Mülheim an der Ruhr,5,51.436,6.896,Bruchstraße 85,45468,0
+Realschule an der Mellinghofer Straße,Realschule,Mülheim an der Ruhr,4,51.442,6.888,Mellinghofer Str. 56,45473,0
+Janusz-Korczak-Gesamtschule,Gesamtschule,Castrop-Rauxel,3,51.599,7.33,Waldenburger Str. 130,44581,0
+Willy-Brandt-Gesamtschule,Gesamtschule,Castrop-Rauxel,4,51.563,7.311,Bahnhofstraße 160,44575,0
+Franz-Hillebrand-Hauptschule,Hauptschule,Castrop-Rauxel,3,51.593,7.348,Uferstraße 36,44581,0
+Adalbert-Stifter-Gymnasium,Gymnasium,Castrop-Rauxel,3,51.546,7.31,Leonhardstraße 8,44575,0
+Ernst-Barlach-Gymnasium,Gymnasium,Castrop-Rauxel,3,51.56,7.313,Lunastraße 3,44575,0
+Fridtjof-Nansen-Realschule,Realschule,Castrop-Rauxel,3,51.583,7.307,Lange Str. 18,44579,0
+Johannes-Rau-Realschule,Realschule,Castrop-Rauxel,4,51.552,7.303,Kleine Lönsstraße 60,44575,0
+Sekundarschule Süd,Sekundarschule,Castrop-Rauxel,4,51.552,7.303,Kleine Lönsstraße 60,44575,0
+Gemeinschaftshauptschule Hachhausen,Hauptschule,Datteln,4,51.652,7.33,Westring 7,45711,0
+Comenius-Gymnasium,Gymnasium,Datteln,2,51.649,7.335,Südring 150,45711,0
+Realschule Datteln (Wiesenstraße),Realschule,Datteln,3,51.648,7.33,Wiesenstraße 12,45711,0
+Gesamtschule Wulfen,Gesamtschule,Dorsten,3,51.727,7.028,Wulfener Markt 2,46286,0
+Dietrich-Bonhoeffer-Hauptschule,Hauptschule,Dorsten,3,51.676,6.957,Juliusstraße 1,46284,0
+Gymnasium Petrinum,Gymnasium,Dorsten,2,51.665,6.963,Im Werth 17,46282,0
+Gymnasium St. Ursula ,Gymnasium,Dorsten,2,51.662,6.967,Ursulastraße 8-12,46282,0
+Geschwister-Scholl-Hauptschule,Katholische Hauptschule,Dorsten,2,51.652,6.955,Nonnenkamp 22,46282,0
+Erich-Klausener-Realschule,Realschule,Dorsten,2,51.676,6.957,Juliusstraße 1,46284,0
+Gerhart-Hauptmann-Realschule (geschlossen),Realschule,Dorsten,3,51.678,6.974,Bismarckstraße 106,46284,0
+Montessori Reformschule,Realschule,Dorsten,2,51.721,7.018,Kleiner Ring 2,46286,0
+Realschule St. Ursula,Realschule,Dorsten,2,51.653,6.956,Nonnenkamp 14,46282,0
+Ingeborg-Drewitz-Gesamtschule,Gesamtschule,Gladbeck,5,51.583,6.961,Fritz-Erler-Straße 4,45966,0
+Erich-Fried-Hauptschule,Hauptschule,Gladbeck,5,51.544,7.014,Kortenkamp 19-21,45968,0
+Heisenberg-Gymnasium,Gymnasium,Gladbeck,3,51.577,6.98,Konrad-Adenauer-Allee 1,45964,0
+Ratsgymnasium,Gymnasium,Gladbeck,3,51.576,6.987,Mittelstraße 50,45964,0
+Riesener Gymnasium,Gymnasium,Gladbeck,3,51.571,6.987,Schützenstraße 23,45964,0
+Anne-Frank-Realschule,Realschule,Gladbeck,4,51.569,6.983,Kortestraße 13,45964,0
+Erich-Kästner-Realschule,Realschule,Gladbeck,4,51.544,7.013,Kortenkamp 11,45968,0
+Werner-von-Siemens-Realschule,Realschule,Gladbeck,4,51.571,6.983,Kortestraße 10,45964,0
+Joseph-Hennewig-Schule,Hauptschule,Haltern,1,51.742,7.181,Holtwicker Str. 27,45721,0
+Joseph-König-Gymnasium,Gymnasium,Haltern,1,51.739,7.183,Holtwicker Str. 3,45721,0
+Alexander-Lebenstein-Realschule,Realschule,Haltern,1,51.739,7.182,Holtwicker Str. 5,45721,0
+Rosa-Parks-Schule,Gesamtschule,Herten,5,51.609,7.138,Fritz-Erler-Straße 2,45701,0
+Martin-Luther-Schule,Hauptschule,Herten,4,51.609,7.089,Martin-Luther-Straße 3,45701,0
+Theodor-Heuss-Schule,Hauptschule,Herten,5,51.609,7.089,Martin-Luther-Straße 3,45701,0
+Gymnasium Gartenstraße,Gymnasium,Herten,3,51.596,7.139,Gartenstraße 40,45699,0
+Erich-Klausener-Schule,Realschule,Herten,3,51.6,7.129,Ebbelicher Weg 19,45699,0
+Städtische Realschule,Realschule,Herten,4,51.601,7.125,Paschenbergstraße 91,45699,0
+Willy-Brandt-Schule,Realschule,Herten,4,51.6,7.133,45699 Herten,Germany,0
+Martin-Luther-Schule,Sekundarschule,Herten,4,51.609,7.089,Martin-Luther-Straße 3,45701,0
+Martin-Luther-King-Schule,Gesamtschule,Marl,5,51.664,7.146,Georg-Herwegh-Straße 67,45772,0
+Willy-Brandt-Gesamtschule,Gesamtschule,Marl,4,51.649,7.098,Willy-Brandt-Allee 1,45770,0
+Hermann-Claudius-Schule (seit Juli 2016 geschlossen),Hauptschule,Marl,5,51.681,7.139,Merkelheider Weg 196,45772,0
+Albert-Schweitzer/Geschwister Scholl-Gymnasium,Gymnasium,Marl,3,51.662,7.098,Max-Planck-Straße 23,45768,0
+Gymnasium Im Loekamp,Gymnasium,Marl,2,51.661,7.128,Loekampstraße 80,45770,0
+Katholische Hauptschule an der Wiesenstraße,Katholische Hauptschule,Marl,3,51.689,7.125,Merkelheider Weg 21,45772,0
+Ernst-Immel-Realschule,Realschule,Marl,4,51.662,7.137,Droste-Hülshoff-Straße 36,45772,0
+Günther-Eckerland-Realschule,Realschule,Marl,4,51.689,7.125,Merkelheider Weg 21,45772,0
+Paul-Gerhardt-Hauptschule,Hauptschule,Oer-Erkenschwick,4,51.638,7.255,Lortzingstraße 1,45739,0
+Willy-Brandt-Gymnasium,Gymnasium,Oer-Erkenschwick,3,51.638,7.256,Christoph-Stöver-Straße 4,45739,0
+Christoph-Stöver-Schule,Realschule,Oer-Erkenschwick,3,51.639,7.258,Christoph-Stöver-Straße 2,45739,0
+Käthe-Kollwitz-Gesamtschule,Gesamtschule,Recklinghausen,5,51.59,7.522,Dammwiese 8,44532,0
+Gesamtschule Suderwich,Gesamtschule,Recklinghausen,4,51.606,7.278,Markomannenstraße 16,45665,0
+Wolfgang-Borchert-Gesamtschule,Gesamtschule,Recklinghausen,4,51.624,7.189,Beisinger Weg 80,45657,0
+Hauptschule an der Wasserbank,Hauptschule,Recklinghausen,4,51.584,7.225,Wasserbank 20,45663,0
+Paulus-Canisius-Hauptschule,Hauptschule,Recklinghausen,5,51.622,7.225,Canisiusstraße 6,45665,0
+Freiherr-vom-Stein-Gymnasium,Gymnasium,Recklinghausen,3,51.616,7.182,Westerholter Weg 113,45657,0
+Hittorf-Gymnasium,Gymnasium,Recklinghausen,4,51.609,7.191,Kemnastraße 38,45657,0
+Marie-Curie-Gymnasium,Gymnasium,Recklinghausen,3,51.619,7.201,Görresstraße 5,45657,0
+Gymnasium Petrinum,Gymnasium,Recklinghausen,3,51.665,6.963,Im Werth 17,46282,0
+Theodor-Heuss-Gymnasium,Gymnasium,Recklinghausen,4,51.572,7.21,Theodor-Körner-Straße 25,45661,0
+Bernard Overberg Realschule,Realschule,Recklinghausen,4,51.579,7.232,Overbergstraße 99,45663,0
+Dietrich-Bonhoeffer-Schule,Realschule,Recklinghausen,4,51.615,7.208,Hunsrückstraße 15,45665,0
+Maristenschule,Realschule,Recklinghausen,3,51.611,7.187,Hertener Str. 60,45657,0
+Otto-Burrmeister-Realschule,Realschule,Recklinghausen,4,51.594,7.213,Maybachstraße 70,45659,0
+Gesamtschule Waltrop (Brockenscheidter Straße),Gesamtschule,Waltrop,4,51.611,7.404,Brockenscheidter Str. 100,45731,0
+Theodor-Heuss-Gymnasium,Gymnasium,Waltrop,2,51.62,7.399,Theodor-Heuss-Straße 1,45731,0
+Städtische Realschule (Ziegeleistraße),Realschule,Waltrop,2,51.627,7.393,Ziegeleistraße 31,45731,0
+Gesamtschule Berger Feld,Gesamtschule,Gelsenkirchen,5,51.557,7.072,Adenauerallee 110,45891,0
+Gesamtschule Buer-Mitte,Gesamtschule,Gelsenkirchen,4,51.578,7.044,Nollenpad 29,45894,0
+Gesamtschule Erle,Gesamtschule,Gelsenkirchen,5,51.559,7.099,Mühlbachstraße 3,45891,0
+Evangelische Gesamtschule,Gesamtschule,Gelsenkirchen,5,51.53,7.1,Laarstraße 41,45889,0
+Gesamtschule Horst,Gesamtschule,Gelsenkirchen,5,51.535,7.023,Devensstraße 15,45899,0
+Gesamtschule Ückendorf,Gesamtschule,Gelsenkirchen,5,51.494,7.114,Bochumer Straße 190,45886,0
+Hauptschule Am Dahlbusch,Hauptschule,Gelsenkirchen,5,51.492,7.091,Am Dahlbusch 98,45884,0
+Hauptschule an der Emmastraße,Hauptschule,Gelsenkirchen,5,51.519,7.106,Emmastr. 12-16,45888,0
+Hauptschule Eppmannsweg,Hauptschule,Gelsenkirchen,5,51.609,7.057,Eppmannsweg 34,45896,0
+Hauptschule Frankampstraße,Hauptschule,Gelsenkirchen,5,51.56,7.094,Frankampstraße 111,45891,0
+Hauptschule an der Grillostraße,Hauptschule,Gelsenkirchen,5,51.518,7.082,Grillostraße 111,45881,0
+Hauptschule an der Schwalbenstraße,Hauptschule,Gelsenkirchen,5,51.554,7.039,Schwalbenstraße 22,45899,0
+Carl-Friedrich-Gauß-Gymnasium,Gymnasium,Gelsenkirchen,4,51.515,7.111,Hammerschmidtstraße 13,45888,0
+Grillo-Gymnasium,Gymnasium,Gelsenkirchen,5,51.513,7.1,Hauptstraße 60,45879,0
+Leibniz-Gymnasium,Gymnasium,Gelsenkirchen,3,51.576,7.055,Breddestraße 21,45894,0
+Max-Planck-Gymnasium,Gymnasium,Gelsenkirchen,3,51.58,7.066,Goldbergstraße 91,45894,0
+Ricarda-Huch-Gymnasium,Gymnasium,Gelsenkirchen,5,51.513,7.105,Schultestraße 50,45888,0
+Schalker Gymnasium,Gymnasium,Gelsenkirchen,5,51.518,7.099,Liboriusstraße 103,45881,0
+Annette-von-Droste-Hülshoff-Gymnasium,Gymnasium,Gelsenkirchen,3,51.583,7.065,Goldbergstraße 93,45894,0
+Realschule an der St. Michael-Straße,Realschule,Gelsenkirchen,4,51.602,7.057,Sankt-Michael-Straße 1,45896,0
+Gerhart-Hauptmann-Realschule,Realschule,Gelsenkirchen,4,51.559,7.099,Mühlbachstraße 3,45891,0
+Gertrud-Bäumer-Realschule,Realschule,Gelsenkirchen,5,51.507,7.094,Rotthauser Str. 2,45879,0
+Lessing-Realschule,Realschule,Gelsenkirchen,5,51.517,7.088,Grenzstraße 3,45881,0
+Realschule an der Mühlenstraße,Realschule,Gelsenkirchen,5,51.584,7.048,Mühlenstraße 15,45894,0
+Mulvany-Realschule,Realschule,Gelsenkirchen,5,51.534,7.12,Hagemannshof 5,45889,0
+Sekundarschule Hassel,Sekundarschule,Gelsenkirchen,5,51.609,7.057,Eppmannsweg 34,45896,0
+Gesamtschule Kaiserplatz,Gesamtschule,Krefeld,4,51.343,6.591,Kaiserpl. 50,47800,0
+Kurt-Tucholsky-Gesamtschule,Gesamtschule,Krefeld,5,51.322,6.555,Alte Gladbacher Str. 10,47805,0
+Maria-Montessori-Gesamtschule,Gesamtschule,Krefeld,3,51.357,6.568,Minkweg 28,47803,0
+Robert-Jungk-Schule,Gesamtschule,Krefeld,3,51.369,6.496,Reepenweg 40,47839,0
+Gesamtschule Uerdingen,Gesamtschule,Krefeld,4,51.35,6.633,Uerdinger Str. 783,47800,0
+Gartenstadtschule,Hauptschule,Krefeld,4,51.366,6.617,Breslauer Str. 280,47829,0
+Josef-Hafels-Schule,Hauptschule,Krefeld,5,51.308,6.589,Hafelsstraße 41,47807,0
+Hauptschule Prinz-Ferdinand-Straße,Hauptschule,Krefeld,4,51.333,6.551,Prinz-Ferdinand-Straße 155,47798,0
+Gymnasium Am Moltkeplatz,Gymnasium,Krefeld,3,51.339,6.579,Moltkepl. 12,47799,0
+Gymnasium Am Stadtpark,Gymnasium,Krefeld,2,51.362,6.636,Stadtpark Uerdingen,47829,0
+Arndt Gymnasium,Gymnasium,Krefeld,3,51.332,6.556,Dionysiusstraße 51,47798,0
+Fabritianum,Gymnasium,Krefeld,2,51.364,6.637,Am Stadtpark,47829,0
+Fichte-Gymnasium,Gymnasium,Krefeld,5,51.328,6.56,Lindenstraße 52,47798,0
+Horkesgath-Gymnasium,Gymnasium,Krefeld,4,51.337,6.529,Horkesgath 33,47803,0
+Maria-Sibylla-Merian-Gymnasium,Gymnasium,Krefeld,4,51.313,6.584,Johannes-Blum-Straße 101,47807,0
+Marienschule,Gymnasium,Krefeld,3,51.334,6.556,Hubertusstraße 120,47798,0
+Ricarda-Huch-Gymnasium,Gymnasium,Krefeld,4,51.339,6.565,Moerser Str. 36,47798,0
+Stephanusschule,Katholische Hauptschule,Krefeld,4,51.335,6.591,Rote-Kreuz-Straße 25,47800,0
+Von-Ketteler-Schule (geschlossen),Katholische Hauptschule,Krefeld,3,51.355,6.634,Lübecker Weg 56,47829,0
+Albert-Schweitzer-Schule,Realschule,Krefeld,5,51.325,6.556,Lewerentzstraße 162,47798,0
+Edmund-ter-Meer-Schule,Realschule,Krefeld,4,51.35,6.633,Uerdinger Str. 783,47800,0
+Freiherr-vom-Stein-Realschule,Realschule,Krefeld,4,51.313,6.583,Von-Ketteler-Straße 31,47807,0
+Realschule Horkesgath,Realschule,Krefeld,4,51.337,6.529,Horkesgath 33,47803,0
+Realschule Oppum,Realschule,Krefeld,5,51.331,6.606,Schmiedestraße 98,47809,0
+Carl-Fuhlrott-Schule,Hauptschule,Erkrath,4,51.208,6.965,Rankestraße 2,40699,0
+Gymnasium am Neantertal,Gymnasium,Erkrath,2,51.226,6.91,Heinrichstraße 12,40699,0
+Gymnasium Hochdahl,Gymnasium,Erkrath,4,51.209,6.965,Rankestraße 4-6,40699,0
+Realschule Hochdahl,Realschule,Erkrath,4,51.208,6.966,Rankestraße 4,40699,0
+Realschule Erkrath (Karlstraße),Realschule,Erkrath,3,51.208,6.966,Rankestraße 4,40699,0
+Hauptschule Zum Diek,Hauptschule,Haan,4,51.194,7.018,Walder Str. 15,42781,0
+Städtisches Gymnasium Haan (Adlerstraße),Gymnasium,Haan,3,51.196,6.998,Adlerstraße 3,42781,0
+Emil-Barth-Realschule,Realschule,Haan,4,51.193,7.017,Walder Str. 15,42781,0
+Gesamtschule Heiligenhaus (Hülsbecker Straße),Gesamtschule,Heiligenhaus,3,51.322,6.966,Hülsbecker Str. 5,42579,0
+Immanuel-Kant-Gymnasium,Gymnasium,Heiligenhaus,3,51.323,6.972,Herzogstraße 75,42579,0
+"Realschule Heiligenhaus (Nordring, Feldstraße)",Realschule,Heiligenhaus,4,51.331,6.973,Feldstraße 2,42579,0
+Evangelische Gesamtschule Hilden,Gesamtschule,Hilden,3,51.174,6.929,Gerresheimer Str. 74,40721,0
+Theodor-Heuss-Schule (Schule 2016 geschlossen),Hauptschule,Hilden,5,51.184,6.931,Furtwänglerstraße 2,40724,0
+Dietrich-Bonhoeffer-Gymnasium,Gymnasium,Hilden,3,51.173,6.928,Gerresheimer Str. 74,40721,0
+Helmholtz-Gymnasium,Gymnasium,Hilden,3,51.166,6.947,Am Holterhöfchen 30,40724,0
+Theresienschule,Realschule,Hilden,3,51.173,6.928,Gerresheimer Str. 51,40721,0
+Wilhelm-Fabry-Realschule,Realschule,Hilden,5,51.165,6.945,Am Holterhöfchen 26,40724,0
+Marie-Colinet-Sekundarschule Hilden (Am Holterhöfchen),Sekundarschule,Hilden,4,51.165,6.945,Am Holterhöfchen 26,40724,0
+Wilhelmine-Fliedner-Realschule,Realschule,Hilden,3,51.174,6.929,Gerresheimer Str. 74,40721,0
+Bettine-von-Arnim-Gesamtschule,Gesamtschule,Langenfeld,3,51.135,6.948,Hildener Str. 3,40764,0
+Gesamtschule Fahler Weg,Gesamtschule,Langenfeld,4,51.107,6.95,Fröbelstraße 25,40764,0
+Käthe-Kollwitz-Schule,Hauptschule,Langenfeld,4,51.053,6.956,Deichtorstraße 2,51371,0
+Konrad-Adenauer-Gymnasium,Gymnasium,Langenfeld,2,51.112,6.947,Auf dem Sändchen 24,40764,0
+Felix-Metzmacher-Schule,Katholische Hauptschule,Langenfeld,3,51.107,6.95,Metzmacherstraße 9,40764,0
+Johann-Gutenberg-Schule,Realschule,Langenfeld,3,51.106,6.951,Fröbelstraße 19,40764,0
+Kopernikusschule,Realschule,Langenfeld,3,51.12,6.954,Immigrather Str. 61,40764,0
+Anne-Frank-Schule,Hauptschule,Mettmann,4,51.257,6.972,Borner Weg 5,40822,0
+Heinrich-Heine-Gymnasium,Gymnasium,Mettmann,2,51.266,6.964,Hasselbeckstraße 2-4,40822,0
+Konrad-Heresbach-Gymnasium,Gymnasium,Mettmann,2,51.247,6.972,Laubacher Str. 13,40822,0
+Carl-Fuhlrott-Realschule,Realschule,Mettmann,3,51.256,6.969,Goethestraße 33,40822,0
+Peter-Ustinov-Gesamtschule,Gesamtschule,Monheim,4,51.096,6.899,Falkenstraße 8,40789,0
+Anton-Schwarz-Hauptschule (geschlossen),Hauptschule,Monheim,4,51.086,6.897,Erich-Klausener-Straße 3,40789,0
+Otto-Hahn-Gymnasium,Gymnasium,Monheim,4,51.086,6.887,Berliner Ring 7,40789,0
+Lise-Meitner-Schule (geschlossen),Realschule,Monheim,4,51.034,7.0,Am Stadtpark 50,51373,0
+Sekundarschule Monheim (Berliner Ring),Sekundarschule,Monheim,5,51.085,6.888,Berliner Ring 5,40789,0
+Martin-Luther-King-Gesamtschule,Gesamtschule,Ratingen,5,51.292,6.818,Erfurter Str. 36,40880,0
+Elsa-Brandström-Schule,Hauptschule,Ratingen,4,51.343,6.828,Duisburger Str. 112,40885,0
+Carl-Friedrich-von-Weizsäcker-Gymnasium,Gymnasium,Ratingen,2,51.292,6.853,Karl-Mücher-Weg 2,40878,0
+Dietrich-Bonhoeffer-Gymnasium,Gymnasium,Ratingen,4,51.292,6.819,Erfurter Str. 30,40880,0
+Kopernikus-Gymnasium,Gymnasium,Ratingen,2,51.343,6.828,Duisburger Str. 112,40885,0
+Erzbischöfliche Liebfrauen-Realschule,Realschule,Ratingen,2,51.294,6.857,Schwarzbachstraße 17,40878,0
+Friedrich-Ebert-Realschule Ratingen,Realschule,Ratingen,3,51.297,6.842,Philippstraße 30,40878,0
+Käthe-Kollwitz-Schule,Realschule,Ratingen,5,51.293,6.819,Erfurter Str. 40,40880,0
+Christliche Gesamtschule Bleibergquelle,Gesamtschule,Velbert,3,51.34,7.08,Bleibergstraße 133,42551,0
+Gesamtschule Verbert-Mitte,Gesamtschule,Velbert,3,51.334,7.037,Birkenstraße 33A,42549,0
+Hardenbergschule (2016 geschlossen),Hauptschule,Velbert,3,51.305,7.08,Waldschlösschen 37,42553,0
+Martin-Luther-King-Schule,Hauptschule,Velbert,4,51.34,7.052,Grünstraße 35,42551,0
+Geschwister-Scholl-Gymnasium,Gymnasium,Velbert,3,51.342,7.017,Von-Humboldt-Straße 54,42549,0
+Gymnasium Langenberg,Gymnasium,Velbert,1,51.346,7.131,Panner Str. 34,42555,0
+Nikolaus-Ehlen-Gymnasium,Gymnasium,Velbert,2,51.337,7.045,Friedrich-Ebert-Straße 81,42549,0
+Heinrich-Kölver-Schule,Realschule,Velbert,3,51.309,7.075,An der Maikammer 53,42553,0
+Realschule Kastanienallee,Realschule,Velbert,4,51.334,7.044,Kastanienallee 32,42549,0
+Freie Aktive Gesamtschule,Gesamtschule,Wülfrath,3,51.281,7.04,Südstraße 12,42489,0
+Städtisches Gymnasium Wülfrath (Kastanienallee),Gymnasium,Wülfrath,2,51.275,7.029,Kastanienallee 63,42489,0
+Theodor-Heuss-Schule,Realschule,Wülfrath,4,51.285,7.03,Bergstraße 20,42489,0
+Marienschule,Katholische Hauptschule,Essen,4,51.445,7.088,Steeler Bergstraße 8,45276,1
+Hauptschule an der Wächtlererstraße,Hauptschule,Essen,5,51.452,7.025,Wächtlerstraße 37,45139,1
+Hauptschule an der Bischoffstraße,Hauptschule,Essen,5,51.502,7.02,Bischoffstraße 120,45329,1
+Hauptschule Bochold,Hauptschule,Essen,5,51.474,6.966,Jahnstraße 46,45356,1
+Katholische Hauptschule Katernberg,Katholische Hauptschule,Essen,5,51.501,7.048,Termeerhöfe 30A,45327,1
+Helene‐Lange-Realschule,Realschule,Essen,5,51.445,7.073,Joseph-Boismard-Weg 10,45276,1
+Albert‐Einstein-Realschule,Realschule,Essen,3,51.425,7.044,Ardeyplatz,45134,1
+Bertha‐Krupp-Realschule,Realschule,Essen,5,51.452,6.985,Kerckhoffstraße 43,45144,1
+Gertrud‐Bäumer-Realschule,Realschule,Essen,5,51.493,7.007,Grünstraße 54,45326,1
+Bertha‐von‐Suttner-Realschule,Realschule,Essen,5,51.437,7.02,Karolinenstraße 1,45130,1
+Elsa‐Brändström-Realschule,Realschule,Essen,5,51.443,7.039,Bergerhauser Str. 13,45136,1
+Realschule am Stoppenberg,Realschule,Essen,4,51.482,7.035,Im Mühlenbruch 47,45141,1
+Franz‐Dinnendahl‐Realschule,Realschule,Essen,5,51.455,7.068,Schönscheidtstraße 174,45307,1
+Theodor Goldschmidt-Realschule mit Aufbau,Realschule,Essen,5,51.459,7.029,Frillendorfer Str. 42,45139,1
+Realschule am Schloß Borbeck,Realschule,Essen,4,51.469,6.941,Schloßstraße 121,45355,1
+Realschule Essen‐Überruhr,Realschule,Essen,4,51.42,7.083,Überruhrstraße 115,45277,1
+Geschwister‐Scholl-Realschule,Realschule,Essen,5,51.478,6.952,Hülsmannstraße 46,45355,1
+Städtische Realschule (Mülheimer Straße),Realschule,Essen,5,51.444,6.969,Mülheimer Str. 126,45145,1
+Gesamtschule Süd,Gesamtschule,Essen,5,51.424,7.03,Frankenstraße 200,45134,1
+Gesamtschule Bockmühle,Gesamtschule,Essen,5,51.46,6.969,Ohmstraße 32,45143,1
+Gesamtschule Nord,Gesamtschule,Essen,5,51.493,6.986,Förderstraße 60,45356,1
+Gesamtschule Borbeck,Gesamtschule,Essen,3,51.482,6.939,Hansemannstraße 15,45357,1
+Gesamtschule Holsterhausen,Gesamtschule,Essen,3,51.443,6.985,Keplerstraße 58,45147,1
+Gustav‐Heinemann-Gesamtschule,Gesamtschule,Essen,4,51.449,6.903,Boverstraße 150,45473,1
+Frida‐Levy-Gesamtschule,Gesamtschule,Essen,4,51.454,7.018,Varnhorststraße 2,45127,1
+Erich‐Kästner‐Gesamtschule,Gesamtschule,Essen,5,51.452,7.09,Pinxtenweg 6 - 8,45276,1
+Leibniz-Gymnasium,Gymnasium,Essen,5,51.492,7.013,Stankeitstraße 22,45326,1
+B.M.V.-Gymnasium Bardelebenstraße,Gymnasium,Essen,4,51.439,6.996,Bardelebenstraße 9,45147,1
+Goethe-Gymnasium,Gymnasium,Essen,3,51.409,6.99,Ruschenstraße 1,45133,1
+Carl‐Humann-Gymnasium,Gymnasium,Essen,4,51.448,7.071,Laurentiusweg 20,45276,1
+Mariengymnasium Essen-Werden,Gymnasium,Essen,1,51.388,7.009,Brückstraße 108,45239,1
+Gymnasium am Stoppenberg,Gymnasium,Essen,4,51.482,7.034,Im Mühlenbruch 51,45141,1
+Alfred‐Krupp-Gymnasium,Gymnasium,Essen,5,51.45,6.983,Margaretenstraße 40,45144,1
+Gymnasium Essen Werden,Gymnasium,Essen,1,51.388,7.0,Grafenstraße 9,45239,1
+Helmholtz-Gymnasium,Gymnasium,Essen,2,51.437,7.016,Rosastraße 83,45130,1
+Don‐Bosco‐Gymnasium,Gymnasium,Essen,4,51.476,6.961,Theodor-Hartz-Straße 15,45355,1
+Gymnasium Essen-Überruhr,Gymnasium,Essen,3,51.424,7.069,Langenberger Str. 380/394,45277,1
+Viktoria-Gymnasium,Gymnasium,Essen,4,51.451,7.025,Kurfürstenstraße 1,45138,1
+Maria‐Wächtler-Gymnasium,Gymnasium,Essen,2,51.437,7.014,Rosastraße 75,45130,1
+Gymnasium An der Wolfskuhle,Gymnasium,Essen,4,51.451,7.091,Pinxtenweg 6,45276,1
+Grashof-Gymnasium,Gymnasium,Essen,3,51.417,6.988,Grashofstraße 55,45133,1
+UNESCO-Schule Essen/ Aufbaugymnasium,Gymnasium,Essen,5,51.454,7.028,Steinmetzstraße 9,45139,1
+Theodor‐Heuss-Gymnasium,Gymnasium,Essen,1,51.365,6.935,Hauptstraße 148,45219,1
+Mädchengymnasium Borbeck,Gymnasium,Essen,3,51.472,6.946,Fürstäbtissinstraße 52-54,45355,1
+Gymnasium Nord‐Ost,Gymnasium,Essen,5,51.47,7.023,Katzenbruchstraße 79,45141,1
+Burg-Gymnasium,Gymnasium,Essen,5,51.455,7.015,Burgpl. 4,45127,1
+Gymnasium Borbeck (Prinzenstraße),Gymnasium,Essen,4,51.478,6.953,Prinzenstraße 46,45355,1
+Ernst-Eversbusch-Schule,Hauptschule,Hagen,5,51.348,7.429,Berliner Str. 109,58135,1
+Hauptschule Vorhalle (geschlossen),Hauptschule,Hagen,5,51.377,7.425,Vossacker 23,58089,1
+Hauptschule Remberg,Hauptschule,Hagen,5,51.359,7.481,Elbersstiege 10,58095,1
+Hauptschule Geschwister-Scholl,Hauptschule,Hagen,5,51.385,7.469,Kapellenstraße 38,58099,1
+Hauptschule Hohenlimburg,Hauptschule,Hagen,4,51.361,7.565,Wachtelweg 19,58119,1
+Hauptschule Heubing (geschlossen),Hauptschule,Hagen,5,51.352,7.423,Hagen-Heubing,58135,1
+Hauptschule Altenhagen,Hauptschule,Hagen,5,51.361,7.565,Wachtelweg 19,58119,1
+Heinrich-Heine-Schule,Realschule,Hagen,5,51.385,7.469,Kapellenstraße 38,58099,1
+Realschule Halden,Realschule,Hagen,4,51.369,7.494,Lützowstraße 115,58095,1
+Realschule Haspe,Realschule,Hagen,4,51.348,7.431,Kurze Str. 3,58135,1
+"Realschule Emst
+",Realschule,Hagen,5,51.369,7.494,Lützowstraße 115,58095,1
+Luise-Rehling-Realschule,Realschule,Hagen,5,51.368,7.466,Friedensstraße 26,58097,1
+Realschule Hohenlimburg,Realschule,Hagen,3,51.363,7.569,Im Kley 32,58119,1
+Gesamtschule Haspe,Gesamtschule,Hagen,3,51.347,7.418,Kirmespl. 2,58135,1
+Fritz-Steinhoff-Gesamtschule,Gesamtschule,Hagen,5,51.397,7.481,Am Bügel 20,58099,1
+Gesamtschule Eilpe,Gesamtschule,Hagen,3,51.34,7.49,Wörthstraße 30,58091,1
+Theodor-Heuss-Gymnasium,Gymnasium,Hagen,3,51.37,7.478,Humpertstraße 19,58097,1
+Hildegardis-Schule,Gymnasium,Hagen,4,51.364,7.476,Funckestraße 41,58097,1
+Chrstian-Rohlfs-Gymnasium,Gymnasium,Hagen,4,51.352,7.424,Ennepeufer 3,58135,1
+Albrecht-Dürer-Gymnnasium,Gymnasium,Hagen,3,51.367,7.484,Heinitzstraße 73A,58097,1
+Gymnasium Hohenlimburg,Gymnasium,Hagen,2,51.363,7.571,Wiesenstraße 27,58119,1
+Ricarda-Huch-Gymnasium,Gymnasium,Hagen,5,51.361,7.475,Voswinckelstraße 1,58095,1
+Fichte-Gymnasium,Gymnasium,Hagen,4,51.356,7.469,Goldbergstraße 20,58095,1
+Martin-Luther-Schule,Hauptschule,Hamm,5,51.708,7.815,Bockelweg 83,59073,1
+Albert-Schweitzer-Schule,Hauptschule,Hamm,5,51.695,7.746,Stefanstraße 33,59075,1
+Karlschule,Hauptschule,Hamm,5,51.694,7.809,Westberger Weg 17,59065,1
+Anne-Frank-Schule,Hauptschule,Hamm,5,51.67,7.778,Frankenstraße 12,59067,1
+Falkschule,Hauptschule,Hamm,5,51.659,7.745,An der Falkschule 9,59077,1
+Erlenbachschule,Hauptschule,Hamm,3,51.675,7.878,Kirchweg 90,59071,1
+Realschule Heesen,Realschule,Hamm,3,51.706,7.836,Jahnstraße 23,59073,1
+Realschule Bockum-Hövel,Realschule,Hamm,5,51.692,7.765,Wernerstraße 9,59075,1
+Marienschule,Realschule,Hamm,3,51.684,7.822,Franziskanerstraße 1,59065,1
+Friedrich-Ebert-Realschule,Realschule,Hamm,5,51.665,7.793,Auf dem Hilkenhohl 1-3,59067,1
+Realschule Mark,Realschule,Hamm,3,51.683,7.855,Marker Dorfstraße 8,59071,1
+Landschulheim Schloss Heesen,Gymnasium,Hamm,3,51.699,7.848,Schloßstraße 1,59073,1
+Galilei-Gymnasium,Gymnasium,Hamm,4,51.69,7.784,Dr.-Voßhage-Straße 1,59065,1
+Beisenkamp-Gymnasium,Gymnasium,Hamm,3,51.672,7.83,Am Beisenkamp 1,59063,1
+Gymnasium Hammonense,Gymnasium,Hamm,4,51.685,7.819,Adenauerallee 2,59065,1
+Märkisches Gymnasium,Gymnasium,Hamm,4,51.664,7.792,Wilhelm-Liebknecht-Straße 11,59067,1
+Freiherr-vom-Stein-Gymnasium,Gymnasium,Hamm,3,51.685,7.885,Karl-Koßmann-Straße 2,59071,1
+Friedensschule,Gesamtschule,Hamm,4,51.681,7.829,Marker Allee 20,59063,1
+Sophie-Scholl-Gesamtschule,Gesamtschule,Hamm,4,51.696,7.747,Stefanstraße 42,59075,1
+Konrad-Adenauer-Realschule,Realschule,Hamm,2,51.645,7.845,Heideweg 4,59069,1
+Josef-Reding-Hauptschule,Hauptschule,Holzwickede,3,51.497,7.626,Opherdicker Str. 44,59439,1
+"Schule ""Am Windmühlenberg""",Hauptschule,Werne,2,51.665,7.632,59368 Werne,Germany,1
+Erich-Kästner-Schule,Hauptschule,Selm,2,51.663,7.47,Waltroper Str. 19,59379,1
+ProfilSchuleLünen,Hauptschule,Lünen,4,51.597,7.445,Friedhofstraße 4,44536,1
+Eintrachthauptschule,Hauptschule,Schwerte,4,51.444,7.554,Holzener Weg 24,58239,1
+Heinrich-Bußmann-Schule,Hauptschule,Lünen,3,51.602,7.527,Bebelstraße 54,44532,1
+Hauptschule Kamen (Am Koppelteich),Hauptschule,Kamen,4,51.589,7.657,Am Koppelteich 16,59174,1
+Pestalozzischule,Hauptschule,Bönen,3,51.595,7.77,Woortstraße 110,59199,1
+Realschule Lünen-Brambauer,Realschule,Lünen,4,51.589,7.443,Brechtener Str. 63,44536,1
+Hellweg-Realschule ,Realschule,Unna,3,51.542,7.653,Königsborner Str. 12,59427,1
+Anne-Frank-Realschule,Realschule,Unna,3,51.547,7.691,Döbelner Str. 3,59425,1
+Realschule Am Bohlgarten (läuft aus),Realschule,Schwerte,2,51.444,7.554,Holzener Weg 22,58239,1
+Ludwig-Uhland-Realschule,Realschule,Lünen,4,51.598,7.556,Preußenstraße 162,44532,1
+Freiherr-vom-Stein-Realschule,Realschule,Bergkamen,3,51.621,7.649,Hochstraße 54,59192,1
+Realschule Oberaden,Realschule,Bergkamen,3,51.611,7.597,Pantenweg 12,59192,1
+Humboldt-Realschule,Realschule,Bönen,3,51.603,7.765,Billy-Montigny-Platz 5,59199,1
+Realschule Altlünen,Realschule,Lünen,3,51.633,7.521,Rudolph-Nagell-Straße 23,44534,1
+Konrad-Adenauer-Realschule,Realschule,Werne,2,51.665,7.632,Bahnhofstraße 1,59368,1
+Fridtjof-Nansen-Realschule ,Realschule,Kamen,3,51.589,7.676,Gutenbergsstr. 2,59174,1
+Otto-Hahn-Realschule,Realschule,Selm,1,51.7,7.472,Südkirchener Str. 16,59379,1
+Peter-Weiss-Gesamtschule Unna,Gesamtschule,Unna,3,51.533,7.696,Herderstraße 16,59423,1
+Gesamtschule Kamen (Gutenbergstraße),Gesamtschule,Kamen,4,51.588,7.678,Gutenbergstraße 2,59174,1
+Werner-von-Siemens-Gesamtschule Königsborn,Gesamtschule,Unna,4,51.548,7.693,Döbelner Str. 7,59425,1
+Willy-Brandt-Gesamtschule,Gesamtschule,Bergkamen,4,51.623,7.649,Am Friedrichsberg 30,59192,1
+Käthe-Kollwitz-Gesamtschule,Gesamtschule,Lünen,5,51.59,7.522,Dammwiese 8,44532,1
+Städtische Gesamtschule Fröndenberg (Im Wiesengrund),Gesamtschule,Fröndenberg,2,51.478,7.772,Wiesengrund 7,58730,1
+Gesamtschule Schwerte (Gänsewinkel),Gesamtschule,Schwerte,2,51.449,7.593,Grünstraße 70,58239,1
+Geschwister-Scholl-Gesamtschule,Gesamtschule,Lünen,5,51.611,7.52,Holtgrevenstraße 2,44532,1
+Gymnasium St. Christophorus,Gymnasium,Werne,1,51.671,7.619,Kardinal-von-Galen-Straße 1,59368,1
+Städtisches Gymnasium Selm (Kreisstraße),Gymnasium,Selm,1,51.695,7.464,Kreisstraße 4,59379,1
+Geschwister-Scholl-Gymnasium,Gymnasium,Unna,2,51.546,7.693,Palaiseaustraße 2,59425,1
+Ernst-Barlach-Gymnasium,Gymnasium,Unna,2,51.531,7.694,Seminarstraße 4,59423,1
+Städtisches Gymnasium Kamen (Hammer Straße),Gymnasium,Kamen,3,51.595,7.667,Hammer Str. 19,59174,1
+Pestalozzi-Gymnasium,Gymnasium,Unna,2,51.535,7.698,Morgenstraße 47,59423,1
+Clara-Schumann-Gymnasium,Gymnasium,Holzwickede,2,51.496,7.626,Opherdicker Str. 44,59439,1
+Städtisches Gymnasium (Hubert-Biernat-Straße),Gymnasium,Bergkamen,3,51.616,7.622,Hubert-Biernat-Straße 1,59192,1
+Ruhrtal-Gymnasium,Gymnasium,Schwerte,2,51.443,7.571,Wittekindstraße 6,58239,1
+Anne-Frank-Gymnasium,Gymnasium,Werne,2,51.67,7.619,Goetheweg 12,59368,1
+Marie-Curie-Gymnasium,Gymnasium,Bönen,1,51.603,7.765,Billy-Montigny-Platz 5,59199,1
+Friedrich-Bährens-Gymnasium,Gymnasium,Schwerte,1,51.446,7.573,Ostberger Str. 17,58239,1
+Gymnasium Altlünen,Gymnasium,Lünen,2,51.632,7.52,Rudolph-Nagell-Straße 21,44534,1
+Freiherr-vom-Stein-Gymnasium,Gymnasium,Lünen,3,51.611,7.516,Friedenstraße 12,44532,1
+Hauptschule Freiligrath,Hauptschule,Witten,4,51.45,7.375,Hamburgstraße 25,58453,1
+Overbergschule,Hauptschule,Witten,4,51.436,7.348,Rhienscher Berg 12,58452,1
+Hauptschule Breckerfeld (Ostring),Hauptschule,Breckerfeld,1,51.261,7.47,Ostring 14,58339,1
+Hauptschule Friedenshöhe,Hauptschule,Ennepetal,3,51.292,7.359,Friedenshöhe 44,58256,1
+Hauptschule Gevelsberg,Hauptschule,Gevelsberg,4,51.324,7.316,Am Hofe 14,58285,1
+Hauptschule Am Sonnenstein (geschlossen),Hauptschule,Herdecke,4,51.417,7.418,Eicklohweg 9,58313,1
+Gustav-Heinemann-Schule,Hauptschule,Schwelm,4,51.285,7.281,Holthausstraße 15,58332,1
+Gemeinschaftshauptschule Niedersprockhövel,Hauptschule,Spröckhövel,2,51.363,7.249,Dresdener Str. 45,45549,1
+Otto-Schott-Realschule,Realschule,Witten,4,51.438,7.343,Am Viehmarkt 5,58452,1
+Adolf-Reichwein-Realschule,Realschule,Witten,4,51.45,7.338,Almstraße 11,58455,1
+St. Jacobus-Schule,Realschule,Breckerfeld,1,51.26,7.472,Wahnscheider Str. 13,58339,1
+Städtische Realschule Ennepetal (Breslauer Platz),Realschule,Ennepetal,2,51.302,7.372,Breslauer Pl. 1,58256,1
+Realschule Alte Geer,Realschule,Gevelsberg,3,51.325,7.339,Alte Geer 4,58285,1
+Realschule Grünstraße,Realschule,Hattingen,3,51.392,7.185,Grünstraße 27-29,45525,1
+Dietrich-Bonhoeffer-Realschule,Realschule,Schwelm,3,51.285,7.304,Ländchenweg 9,58332,1
+Realschule Am Bleichstein,Realschule,Herdecke,3,51.397,7.438,Hengsteyseestraße 25,58313,1
+Helene-Lohmann-Realschule,Realschule,Witten,3,51.418,7.339,Bommerfelder Ring 111,58452,1
+Holzkamp-Gesamtschule,Gesamtschule,Witten,3,51.438,7.373,Willy-Brandt-Straße 2,58453,1
+Hardenstein-Gesamtschule,Gesamtschule,Witten,3,51.415,7.279,An der Wabeck 4,58456,1
+Wilhelm-Kraft-Gesamtschule des Ennepe-Ruhr-Kreises,Gesamtschule,Spröckhövel,4,51.334,7.285,Geschwister-Scholl-Straße 10,45549,1
+Gesamtschule Hattingen (Marxstraße),Gesamtschule,Hattingen,3,51.409,7.218,Marxstraße 99,45527,1
+Georg-Müller-Gesamtschule Wetter,Gesamtschule,Wetter,2,51.354,7.378,Genossenschaftsweg 1B,58300,1
+Schiller-Gymnasium,Gymnasium,Witten,3,51.44,7.334,Breddestraße 8,58452,1
+ Ruhr-Gymnasium,Gymnasium,Witten,3,51.442,7.331,Synagogenstraße 1,58452,1
+Albert-Martmöller-Gymnasium,Gymnasium,Witten,3,51.439,7.341,Oberdorf 9,58452,1
+Reichenbach-Gymnasium ,Gymnasium,Ennepetal,2,51.301,7.36,Peddinghausstraße 17,58256,1
+Gymnasium Gevelsberg,Gymnasium,Gevelsberg,2,51.324,7.315,Ochsenkamp 100,58285,1
+Gymnasium im Schulzentrum Holthausen,Gymnasium,Hattingen,2,51.397,7.204,Lindstockstraße 2,45527,1
+Gymnasium Waldstraße,Gymnasium,Hattingen,2,51.392,7.19,Waldstraße 58,45525,1
+Friedrich-Harkort-Schule,Gymnasium,Herdecke,3,51.396,7.441,Hengsteyseestraße 40,58313,1
+Märkisches Gymnasium,Gymnasium,Schwelm,2,51.281,7.287,Präsidentenstraße 1,58332,1
+Geschwister-Scholl-Gymnasium,Gymnasium,Wetter,2,51.386,7.376,Hoffmann-von-Fallersleben-Straße 28,58300,1
+Geschwister-Scholl-Schule,Hauptschule,Siegen,4,50.908,7.993,Schießbergstraße 111,57078,0
+Haardter-Berg-Schule (Schule geschlossen),Hauptschule,Siegen,4,50.912,8.024,Hölderlinstraße 35,57076,0
+Achenbacher Schule,Hauptschule,Siegen,4,50.872,8.02,Oranienstraße 27,57072,0
+Gemeinschaftliche Sekundarschule Burbach-Neunkirchen (Hauptschule),Hauptschule,Burbach,3,50.743,8.093,Killingstraße 10,57299,0
+Schulzentrum Eicher Seite (Hauptschule),Hauptschule,Freudenberg,1,50.909,7.885,Hermann-Vomhof-Straße,57258,0
+Hauptschule Eichen,Hauptschule,Kreuztal,3,50.979,7.968,Eichener Str. 127,57223,0
+Kopernikusschule,Hauptschule,Neunkirchen,3,50.789,8.023,Kopernikusring 1,57290,0
+Hauptschule Deuz,Hauptschule,Netphen,2,50.886,8.146,Nauholzer Weg 5,57250,0
+Hauptschule Wilnsdorf (Dillenburger Straße),Hauptschule,Wilnsdorf,1,50.84,8.157,Dillenburger Str. 87,57234,0
+Ludwig-zu-Sayn-Wittgenstein-Schule,Hauptschule,Bad Berleburg,1,51.04,8.377,Hermann-Böttger-Weg 7,57319,0
+Rothaarsteig-Schule (geschlossen),Hauptschule,Erndtebrück,1,50.991,8.251,Hachenbergstraße 19,57339,0
+Freie Christliche Schule ,Evangelische Hauptschule,Siegen,1,50.87,8.059,Augärtenstraße 15,57074,0
+Realschule Am Schiessberg,Realschule,Siegen,4,50.909,7.994,Schießbergstraße 103,57078,0
+Realschule Am Oberen Schloss,Realschule,Siegen,4,50.875,8.029,Burgstraße 10-14,57072,0
+Realschule Am Häusling,Realschule,Siegen,2,50.869,8.019,Dr.-Ernst-Straße 19,57074,0
+Gemeinschaftliche Sekundarschule Burbach-Neunkirchen (Realschule),Realschule,Burbach,2,50.743,8.093,Killingstraße 10,57299,0
+Schulzentrum Eicher Seite (Realschule),Realschule,Freudenberg,1,50.909,7.885,Hermann-Vomhof-Straße,57258,0
+Ernst-Moritz-Arndt-Realschule,Realschule,Kreuztal,2,50.964,7.994,Hessengarten 13,57223,0
+Realschule des Freien Grundes,Realschule,Neunkirchen,2,50.788,8.009,Am Kirchweg 1,57290,0
+Realschule Am Kreuzberg,Realschule,Netphen,1,50.919,8.099,Haardtstraße 35,57250,0
+Städtische Realschule Bad Berleburg (Hermann-Böttger-Weg),Realschule,Bad Berleburg,1,51.04,8.378,Hermann-Böttger-Weg 9,57319,0
+Realschule Schloss Wittgenstein,Realschule,Bad Laasphe,1,50.933,8.394,Schloß Wittgenstein 12,57334,0
+Realschule Erndtebrück (Eberfeldstraße),Realschule,Erndtebrück,1,50.988,8.248,Ederfeldstraße 4,57339,0
+Realschule Wilnsdorf,Realschule,Wilnsdorf,2,50.855,8.091,Augraben 9,57234,0
+Freie Christliche Realschule ,Realschule,Freudenberg,1,50.863,7.904,Zum Giebelwald 16,57258,0
+Carl-Kraemer-Realschule,Realschule,Hilchenbach,1,50.977,8.07,Krackertsberg 13,57271,0
+Bertha-von-Suttner-Schule,Gesamtschule,Siegen,2,50.887,8.039,Kolpingstraße 35,57072,0
+Gesamtschule Eiserfeld,Gesamtschule,Siegen,2,50.834,7.999,Talsbachstraße 33,57080,0
+Clara-Schumann-Gesamtschule,Gesamtschule,Kreuztal,3,50.963,7.994,Hessengarten 9,57223,0
+Gymnasium Stift Keppel,Gymnasium,Hilchenbach,1,50.977,8.087,Stift-Keppel-Weg 37,57271,0
+Gymnasium Auf der Morgenröthe,Gymnasium,Siegen,2,50.848,7.983,Höllenwaldstraße 100,57080,0
+Evangelisches Gymnasium Weidenau,Gymnasium,Siegen,2,50.899,8.022,Im Tiergarten 5-7,57076,0
+Fürst-Johann-Moritz-Gymnasium,Gymnasium,Siegen,3,50.903,8.019,Ferndorfstraße 10,57076,0
+Gymnasium Am Löhrtor,Gymnasium,Siegen,3,50.872,8.02,Oranienstraße 27,57072,0
+Peter-Paul-Rubens-Gymnasium,Gymnasium,Siegen,3,50.861,8.019,Rosterstraße 143,57074,0
+Städisches Gymnasium Kreuztal (Zum Erbstollen),Gymnasium,Kreuztal,2,50.963,7.996,Zum Erbstollen 5,57223,0
+Dietrich-Bonhoeffer-Gymnasium,Gymnasium,Neunkirchen,1,50.788,8.012,Kopernikusring 100,57290,0
+Johannes-Althusius-Gymnasium,Gymnasium,Bad Berleburg,1,51.05,8.392,Im Herrengarten 11,57319,0
+Gymnasium Schloss Wittgenstein,Gymnasium,Bad Laasphe,1,50.931,8.397,Schloß Wittgenstein 6,57334,0
+Städtisches Gymnasium Bad Laasphe (Steinackerstraße),Gymnasium,Bad Laasphe,1,50.928,8.411,Steinackerstraße 10,57334,0
+Gymnasium Netphen (Haardtstraße),Gymnasium,Netphen,1,50.919,8.1,Haardtstraße,57250,0
+Gymnasium Wilnsdorf (Hoheroth),Gymnasium,Wilnsdorf,1,50.823,8.118,Hoheroth 94,57234,0
+Gemeinschaftshauptschule Schwalbenohl,Hauptschule,Attendorn,3,51.133,7.905,Wiesbadener Str. 2,57439,0
+Herrnscheid-Schule Drolshagen,Hauptschule,Drolshagen,1,51.026,7.765,Herrnscheider Weg 33,57489,0
+Gemeinschaftshauptschule Finnentrop (Kopernikusstraße),Hauptschule,Finnentrop,3,51.172,7.973,Kopernikusstraße 24,57413,0
+Gemeinschaftshauptschule Kirchhundem,Hauptschule,Kirchhundem,1,51.081,8.097,An der Hauptschule 4,57399,0
+Anne-Frank-Schule Meggen,Hauptschule,Lennestadt,3,51.114,8.063,Auf'm Ohl 12d,57368,0
+Hakemickeschule Olpe,Hauptschule,Olpe,2,51.033,7.869,Quellenweg 12,57462,0
+Konrad-Adenauer-Schule Wenden,Hauptschule,Wenden,1,50.977,7.866,Peter-Dassis-Ring 47,57482,0
+Sankt-Ursula-Schule Attendorn,Realschule,Attendorn,1,51.124,7.895,Sankt-Ursula-Straße 12,57439,0
+Nikolaus-Kopernikus-Realschule,Realschule,Finnentrop,3,51.171,7.973,Kopernikusstraße 22,57413,0
+Sankt-Barbara-Schule Meggen,Realschule,Lennestadt,1,51.114,8.064,Auf'm Ohl 12A,57368,0
+Lessingschule Grevenbrück,Realschule,Lennestadt,1,51.139,8.019,Lehmbergstraße 74,57368,0
+Realschule Olpe-Drolshagen,Realschule,Olpe,2,51.03,7.842,Franziskanerstraße 4,57462,0
+Realschule Wenden (Peter-Dassis-Ring),Realschule,Wenden,1,50.978,7.866,Peter-Dassis-Ring 47,57482,0
+Sankt-Ursula-Gymnasium Attendorn,Gymnasium,Attendorn,1,51.124,7.895,Sankt-Ursula-Straße 12,57439,0
+Rivius-Gymnasium Attendorn,Gymnasium,Attendorn,1,51.128,7.9,Westwall 48,57439,0
+Gymnasium der Stadt Lennestadt (Am Biertappen),Gymnasium,Lennestadt,1,51.106,8.07,Am Biertappen 45,57368,0
+Gymnasium Maria Königin Altenhundem,Gymnasium,Lennestadt,1,51.098,8.061,Missionshaus 1,57368,0
+Sankt-Franziskus-Gymnasium Olpe,Gymnasium,Olpe,1,51.026,7.846,Kolpingstraße 12,57462,0
+Städtisches Gymnasium Olpe (Seminarstraße),Gymnasium,Olpe,1,51.033,7.847,Seminarstraße 1,57462,0
+Hauptschule im Wiesengrund (läuft 2017 aus),Hauptschule,Iserlohn,5,51.378,7.719,Im Wiesengrund 35,58636,0
+Martin-Luther-Hauptschule,Hauptschule,Iserlohn,5,51.376,7.688,Gerlingser Weg 7,58638,0
+Zeppelinschule Plettenberg,Hauptschule,Plettenberg,4,51.205,7.871,Zeppelinstraße 24,58840,0
+Albert-Schweitzer-Hauptschule (geschlossen),Hauptschule,Lüdenscheid,5,51.224,7.644,Kaiserallee 28,58511,0
+Städtische Gemeinschaftshauptschule Balve (Am Krumpaul),Hauptschule,Balve,2,51.329,7.853,Am Krumpaul 6,58802,0
+Hauptschule Letmathe,Hauptschule,Iserlohn,3,51.373,7.604,Aucheler Str. 12,58642,0
+Hauptschule Am Gelben Morgen,Hauptschule,Menden,4,51.43,7.794,Windthorststraße 36,58706,0
+Bonifatiusschule,Hauptschule,Menden,5,51.433,7.761,Margueritenweg 5,58708,0
+Märkische Schule Hemer,Hauptschule,Hemer,4,51.388,7.755,Parkstraße 50,58675,0
+Hauptschule Lendringsen (geschlossen),Hauptschule,Menden,4,51.421,7.848,Bieberberg 112,58710,0
+Schule Stadtpark,Hauptschule,Lüdenscheid,4,51.213,7.595,Parkstraße 160,58509,0
+Freie Christliche Schule Lüdenscheid,Evangelische Hauptschule,Lüdenscheid,2,51.207,7.635,Am Schäferland 1,58515,0
+Realschule am Bömberg,Realschule,Iserlohn,5,51.379,7.712,Schleddenhofer Weg 61,58636,0
+Realschule Letmathe,Realschule,Iserlohn,3,51.367,7.617,Von-der-Kuhlen-Straße 12,58642,0
+Geschwister-Scholl-Realschule,Realschule,Plettenberg,2,51.232,7.855,Albert-Schweitzer-Straße 4,58840,0
+Städtische Realschule Werdohl (Brüderstraße),Realschule,Werdohl,4,51.256,7.767,Brüderstraße 41,58791,0
+Realschule Halver (Humboldtstraße),Realschule,Halver,2,51.187,7.495,Humboldtstraße 5,58553,0
+Theodor-Heuss-Realschule,Realschule,Lüdenscheid,4,51.213,7.656,Gustavstraße 37,58511,0
+Richard-Schirrmann-Schule,Realschule,Lüdenscheid,4,51.224,7.605,Buckesfelder Str. 73,58509,0
+Schulzentrum Rothenstein,Realschule,Meinerzhagen,3,51.108,7.659,Schulzentrum Rothenstein,58540,0
+Städtische Realschule Balve (Am Krumpaul),Realschule,Balve,1,51.329,7.854,Am Krumpaul 4,58802,0
+Realschule Letmathe,Realschule,Iserlohn,3,51.367,7.617,Von-der-Kuhlen-Straße 12,58642,0
+Städtische Realschule Menden (Windthorststraße),Realschule,Menden,2,51.429,7.795,Klosterstraße 20,58706,0
+Hans-Prinzhorn-Realschule,Realschule,Hemer,3,51.39,7.775,Urbecker Str. 52,58675,0
+Realschule Lendringsen,Realschule,Menden,2,51.429,7.795,Klosterstraße 20,58706,0
+Realschule am Hemberg,Realschule,Iserlohn,3,51.389,7.705,Alexander-Pfänder-Weg 9,58636,0
+Freie Christliche Schule ,Realschule,Lüdenscheid,2,51.207,7.635,Am Schäferland 1,58515,0
+Richard-Schirrmann-Realschule,Realschule,Altena,3,51.296,7.681,Nettestraße 58,58762,0
+Gesamtschule Otto-Ruhe-Straße,Gesamtschule,Kierspe,3,51.129,7.594,Otto-Ruhe-Straße 2,58566,0
+Adolf-Reichwein-Gesamtschule,Gesamtschule,Lüdenscheid,3,51.234,7.626,Eulenweg 2,58507,0
+Gesamtschule Iserlohn,Gesamtschule,Iserlohn,4,51.386,7.69,Langerfeldstraße 84,58638,0
+Albert-Einstein-Gesamtschule,Gesamtschule,Werdohl,3,51.253,7.782,Stadionstraße 50,58791,0
+Gesamtschule Hemer (Parkstraße),Gesamtschule,Hemer,2,51.388,7.757,Parkstraße 48,58675,0
+Märkisches Gymnasium,Gymnasium,Iserlohn,3,51.389,7.7,Alexander-Pfänder-Weg 7,58636,0
+Gymnasium an der Stenner,Gymnasium,Iserlohn,3,51.378,7.698,Stennerstraße 5,58636,0
+Burggymnasium,Gymnasium,Altena,2,51.298,7.67,Bismarckstraße 10,58762,0
+Albert-Schweitzer-Gymnasium,Gymnasium,Plettenberg,2,51.232,7.856,Albert-Schweitzer-Straße 2,58840,0
+Anne-Frank-Gymnasium,Gymnasium,Halver,1,51.184,7.491,Kantstraße 2,58553,0
+Bergstadt-Gymnasium,Gymnasium,Lüdenscheid,3,51.22,7.645,Saarlandstraße 5,58511,0
+Geschwister-Scholl-Gymnasium,Gymnasium,Lüdenscheid,2,51.214,7.635,Hochstraße 27,58511,0
+Zeppelin-Gymnasium,Gymnasium,Lüdenscheid,2,51.213,7.636,Staberger Str. 10,58511,0
+Evangelisches Gymnasium Meinerzhagen,Gymnasium,Meinerzhagen,1,51.111,7.636,Christoph-Friedrich-Baehrens-Straße,58540,0
+Privates Aufbaugymnasium,Gymnasium,Iserlohn,2,51.384,7.719,Bismarckstraße 4,58636,0
+Gymnasium Letmathe,Gymnasium,Iserlohn,2,51.373,7.606,Aucheler Str. 6,58642,0
+Heilig-Geist-Gymnasium (2015: Zusammenschluss zu Gymnasium der Stadt Menden),Gymnasium,Menden,2,51.435,7.796,Walramstraße 2-6,58706,0
+Walram-Gymnasium (2015: Zusammenschluss zu Gymnasium der Stadt Menden),Gymnasium,Menden,2,51.435,7.796,Walramstraße 2-6,58706,0
+Walburgis-Gymnasium,Gymnasium,Menden,2,51.443,7.796,Schwitter Weg 22,58706,0
+Friedrich-Leopold-Woeste-Gymnasium,Gymnasium,Hemer,2,51.385,7.758,Albert-Schweitzer-Straße 1,58675,0
+Hauptschule Oldentrup (geschlossen),Hauptschule,Bielefeld,5,52.027,8.596,Beckerstraße 9-11,33719,0
+Johannes-Rau-Schule,Hauptschule,Bielefeld,5,51.942,8.579,Wintersheide 32,33689,0
+Baumheideschule,Hauptschule,Bielefeld,5,52.047,8.591,Schlehenweg 24,33609,0
+Brodhagenschule,Hauptschule,Bielefeld,5,52.042,8.516,Am Brodhagen 50,33613,0
+Hauptschule Jöllenbeck,Hauptschule,Bielefeld,4,52.095,8.52,Volkeningstraße 3,33739,0
+Marktschule (2016 geschlossen9,Hauptschule,Bielefeld,5,51.985,8.514,Stadtring 39,33647,0
+Brackweder Realschule,Realschule,Bielefeld,5,51.985,8.502,Kölner Str. 40,33647,0
+Realschule Heepen,Realschule,Bielefeld,5,52.029,8.601,Alter Postweg 33,33719,0
+Friedrich-von Bodelschwingh-Schule,Realschule,Bielefeld,3,52.005,8.524,An der Rehwiese 65,33617,0
+Realschule Senne,Realschule,Bielefeld,3,51.96,8.528,Klashofstraße 79,33659,0
+Luisenschule,Realschule,Bielefeld,5,52.027,8.538,Paulusstraße 9-11,33602,0
+Realschule Jöllenbeck,Realschule,Bielefeld,3,52.098,8.519,Dörpfeldstraße 8,33739,0
+Bosseschule,Realschule,Bielefeld,5,52.029,8.518,Bossestraße 10,33615,0
+Gertrud-Bäumer-Realschule,Realschule,Bielefeld,5,52.032,8.515,Stapenhorststraße 100,33615,0
+Theodor-Heuss-Schule,Realschule,Bielefeld,4,51.942,8.58,Wintersheide 30,33689,0
+Kuhloschule,Realschule,Bielefeld,5,51.942,8.58,Wintersheide 30,33689,0
+Gesamtschule Rosenhöhe,Gesamtschule,Bielefeld,4,51.985,8.528,An der Rosenhöhe 11,33647,0
+Martin-Niemöller-Gesamtschule,Gesamtschule,Bielefeld,5,52.054,8.543,Apfelstraße 210,33611,0
+Gesamtschule Quelle (Gesamtschule Brackwede),Gesamtschule,Bielefeld,3,51.992,8.479,Marienfelder Str. 81,33649,0
+Friedrich Wilhelm Murnau-Gesamtschule (Gesamtschule Stieghorst),Gesamtschule,Bielefeld,4,52.0,8.583,Am Wortkamp 3,33605,0
+Georg-Müller-Schule (Evangelikale Bekenntnisschule),Gesamtschule,Bielefeld,5,51.941,8.51,Buschkampstraße 273,33659,0
+Gymnasium Am Waldhof,Gymnasium,Bielefeld,4,52.019,8.529,Waldhof 8,33602,0
+Hans-Ehrenberg-Gymnasium,Gymnasium,Bielefeld,3,51.948,8.587,Elbeallee 75,33689,0
+georg-Müller-Schule (Evangelikales Gymnasium Bielefeld),Gymnasium,Bielefeld,5,52.002,8.568,Detmolder Str. 284,33605,0
+Marienschule,Gymnasium,Bielefeld,4,52.048,8.546,Sieboldstraße 4A,33611,0
+Max-Planck-Gymnasium,Gymnasium,Bielefeld,2,52.029,8.515,Stapenhorststraße 96,33615,0
+Gymnasium Heepen,Gymnasium,Bielefeld,5,52.029,8.602,Alter Postweg 37,33719,0
+Brackweder Gymnasium,Gymnasium,Bielefeld,4,51.983,8.501,Beckumer Str. 10,33647,0
+Ratsgymnasium,Gymnasium,Bielefeld,3,52.019,8.528,Nebelswall 1,33602,0
+Helmholtz-Gymnasium,Gymnasium,Bielefeld,3,52.018,8.547,Ravensberger Str. 131,33607,0
+Ceciliengymnasium,Gymnasium,Bielefeld,4,52.016,8.548,Niedermühlenkamp 5,33604,0
+Friedrich-von-Bodelschwingh-Schule,Gymnasium,Bielefeld,3,52.005,8.524,An der Rehwiese 65,33617,0
+Hauptschule Lübbecke (Wiehenweg),Hauptschule,Lübbecke,3,52.312,8.61,Wiehenweg 35,32312,0
+Bischof-Hermann-Kunst-Schule,Hauptschule,Espelkamp,5,52.383,8.618,Präses-Ernst-Wilm-Straße 2,32339,0
+Waldschule,Hauptschule,Espelkamp,4,52.381,8.599,Koloniestraße 63,32339,0
+Hauptschule Preußisch-Oldenburg (Offelter Weg),Hauptschule,Preußisch Oldendorf,3,52.305,8.502,Offelter Weg 21,32361,0
+Hauptschule Rahden (Freiherr-vom-Stein-Straße9,Hauptschule,Rahden,2,52.435,8.618,Freiherr-vom-Stein-Straße 1,32369,0
+Hauptschule Süd (geschlossen),Hauptschule,Minden,5,52.282,8.882,Piwittskamp 38,32429,0
+Hauptschule Petershagen (Koppelweg),Hauptschule,Petershagen,2,52.376,8.962,Koppelweg 12,32469,0
+Hauptschule Todtenhausen,Hauptschule,Minden,3,52.336,8.924,Schulstraße 8,32425,0
+Hauptschule der Stadt Bad Oeynhausen (in der Wiehwisch),Hauptschule,Bad Oeynhausen,3,52.218,8.795,In der Wiehwisch 12,32549,0
+Birger-Forell-Realschule (läuft aus),Realschule,Espelkamp,4,52.379,8.635,Kantstraße 34,32339,0
+Realschule Preußisch Oldenburg (Mindener Straße),Realschule,Preußisch Oldendorf,2,52.306,8.491,Rathausstraße 3,32361,0
+Freiherr-vom-Stein-Realschule,Realschule,Rahden,1,52.435,8.619,Freiherr-vom-Stein-Straße 1,32369,0
+Käthe-Kollwitz-Realschule,Realschule,Minden,3,52.282,8.882,Piwittskamp 38,32429,0
+Freiherr-von-Vincke-Realschule,Realschule,Minden,4,52.302,8.881,Zähringerallee 5,32425,0
+Realschule Hausberge,Realschule,Porta Westfalica,1,52.231,8.924,Hoppenstraße 46,32457,0
+Realschule im Schulzentrum Nord,Realschule,Bad Oeynhausen,2,52.218,8.792,Im Leingarten 29,32549,0
+Realschule Lahde,Realschule,Petershagen,1,52.373,9.002,Bultweg 23,32469,0
+Wittekind-Gymnasium,Gymnasium,Lübbecke,2,52.303,8.623,Ziegeleiweg 14,32312,0
+Söderblöm-Gymnasium,Gymnasium,Espelkamp,1,52.38,8.635,Kantstraße 33,32339,0
+Herder Gymnasium ,Gymnasium,Minden,2,52.291,8.91,Brüningstraße 2,32427,0
+Besselgymnasium,Gymnasium,Minden,2,52.298,8.884,Hahler Str. 134,32427,0
+Ratsgymnasium,Gymnasium,Minden,3,52.286,8.908,Königswall 28,32423,0
+Immanuel-Kant-Gymnasium,Gymnasium,Bad Oeynhausen,2,52.202,8.814,Grüner Weg 28,32547,0
+Gymnasium Petershagen (Hauptstraße),Gymnasium,Petershagen,1,52.379,8.965,Hauptstraße 15,32469,0
+Stemweder-Berg-Schule,Realschule,Stemwede,1,52.434,8.461,Am Schulzentrum 10-14,32351,0
+Realschule im Schulzentrum Süd,Realschule,Bad Oeynhausen,3,52.202,8.814,Grüner Weg 28,32547,0
+Gymnasium Porta Westfalica (Hoppenstraße),Gymnasium,Porta Westfalica,1,52.231,8.924,Hoppenstraße 48,32457,0
+Kurt-Tucholsky-Gesamtschule,Gesamtschule,Minden,4,52.289,8.91,Königswall 10,32423,0
+Gesamtschule Hüllhorst (Osterstraße),Gesamtschule,Hüllhorst,2,52.275,8.672,Osterstraße 7,32609,0
+Verbundschule Hille,Gesamtschule,Hille,1,52.336,8.739,Von Oeynhausen Str. 30,32479,0
+Gymnasium Rahden (Freiherr-vom-Stein-Straße),Gymnasium,Rahden,1,52.436,8.619,Freiherr-vom-Stein-Straße 5,32369,0
+Gesamtschule Porta Westfalica (Bruchstraße),Gesamtschule,Porta Westfalica,3,52.252,8.945,Bruchstraße 9,32457,0
+Gesamtschule der Stadt Bad Oeynhausen (In der Wiehwisch),Gesamtschule,Bad Oeynhausen,3,52.218,8.795,In der Wiehwisch 12,32549,0
+Freie Evangelische Gesamtschule ,Gesamtschule,Minden,5,52.311,8.882,Kingsleyallee 5,32425,0
+Hauptschule Bünde,Hauptschule,Bünde,4,52.19,8.593,Heidestraße 41,32257,0
+Hauptschule Löhne-West (geschlossen),Hauptschule,Löhne,2,52.18,8.682,Neuer Kamp 14,32584,0
+Hauptschule Meierfeld,Hauptschule,Herford,4,52.121,8.684,Meierfeld 15,32049,0
+Hauptschule Vlotho (Jägerortstraße),Hauptschule,Vlotho,2,52.159,8.861,Jägerortstraße 30,32602,0
+Realschule Bünde-Mitte,Realschule,Bünde,3,52.192,8.586,Strotweg 19,32257,0
+Goethe-Realschule,Realschule,Löhne,3,52.198,8.774,Goethestraße 67,32584,0
+Geschwister-Scholl-Realschule,Realschule,Herford,4,52.112,8.679,Wiesestraße 33/a,32052,0
+Realschule Bünde-Nord,Realschule,Bünde,2,52.205,8.558,Ringstraße 65,32257,0
+Otto-Hahn-Realschule,Realschule,Herford,4,52.121,8.661,Uhlandstraße 16,32051,0
+Realschule Enger (Ringstraße),Realschule,Enger,2,52.142,8.555,Ringstraße 75,32130,0
+Realschule Löhne (Königstraße),Realschule,Löhne,2,52.192,8.716,Realschule Stadt Löhne,Franz-von-Borries-Straße,0
+Ernst-Barlach-Realschule,Realschule,Herford,4,52.124,8.686,Graf-Kanitz-Straße 11,32049,0
+Realschule Spenge (Immanuel-Kant-Straße),Realschule,Spenge,1,52.144,8.487,Immanuel-Kant-Straße 2,32139,0
+Realschule Vlotho,Realschule,Vlotho,1,52.158,8.862,Jägerortstraße 30,32602,0
+Gesamtschule Fiedenstal (Salzufler Straße9,Gesamtschule,Herford,5,52.106,8.694,Salzufler Str. 129,32052,0
+Regenbogen-Gesamtschule Spenge,Gesamtschule,Spenge,3,52.145,8.487,Immanuel-Kant-Straße 2,32139,0
+Gesamtschule Rödinghausen (An der Stertwelle),Gesamtschule,Rödinghausen,1,52.248,8.506,An der Stertwelle 34-38,32289,0
+Olof-Palme-Gesamtschule,Gesamtschule,Hiddenhausen,3,52.152,8.637,Pestalozzistraße 5,32120,0
+Erich-Kästner-Gesamtschule,Gesamtschule,Bünde,3,52.206,8.559,Ringstraße 59,32257,0
+Bertold-Brecht-Gesamtschule,Gesamtschule,Löhne,3,52.22,8.711,Zur Schule 4,32584,0
+Widukind-Gymnasium,Gymnasium,Enger,1,52.141,8.548,Tiefenbruchstraße 22,32130,0
+Weser-Gymnasium Vlotho,Gymnasium,Vlotho,1,52.164,8.87,Professor-Domagk-Straße 12,32602,0
+Gymnasium am Markt,Gymnasium,Bünde,2,52.195,8.586,Marktstraße 12,32257,0
+Freiherr-vom-Stein-Gymnasium,Gymnasium,Bünde,2,52.206,8.557,Ringstraße 69,32257,0
+Königin-Mathilde-Gymnasium,Gymnasium,Herford,2,52.116,8.689,Vlothoer Str. 1,32049,0
+Ravensberger Gymnasium,Gymnasium,Herford,3,52.121,8.677,Werrestraße 10,32049,0
+Friedrichs-Gymnasium,Gymnasium,Herford,2,52.121,8.674,Werrestraße 9,32049,0
+Städtisches Gymnasium (Albert-Schweitzer-Straße),Gymnasium,Löhne,2,52.204,8.72,Albert-Schweitzer-Straße 16,32584,0
+Hauptschule Sundern,Hauptschule,Sundern,2,51.321,8.0,Berliner Str. 57,59846,0
+Binnerfeldschule,Hauptschule,Arnsberg,3,51.447,7.958,Graf-Galen-Straße 6,59755,0
+St.-Petri-Schule,Hauptschule,Arnsberg,4,51.427,7.997,Petriweg 2,59759,0
+Heinrich-Lübke-Schule,Hauptschule,Brilon,2,51.393,8.553,Zur Jakobuslinde 19,59929,0
+Grimmeschule,Hauptschule,Arnsberg,3,51.451,7.968,Schwester-Aicharda-Straße 14,59755,0
+Christine-Koch-Hauptschule,Hauptschule,Eslohe,1,51.257,8.167,Schulstraße 7,59889,0
+Gemeinschaftshauptschule Marsberg (Trift),Hauptschule,Marsberg,2,51.46,8.846,Trift 33,34431,0
+Hauptschule Olsberg (Am Schwesternheim),Hauptschule,Olsberg,3,51.357,8.486,Am Schwesternheim 5,59939,0
+Christine-Koch-Schule,Hauptschule,Schmallenberg,1,51.162,8.286,Obringhauser Str. 38,57392,0
+St.-Walburga-Hauptschule,Katholische Hauptschule,Meschede,3,51.342,8.295,Schederweg 57,59872,0
+Verbundschule Winterberg-Siedlinghausen,Hauptschule und Realschule,Winterberg,1,51.252,8.469,Senge-Platten-Straße 10,59955,0
+Theodor-Heuss-Schule,Hauptschule,Arnsberg,2,51.394,8.076,Sauerstraße 3-5,59821,0
+Verbundschule Medebach Hallenberg,Hauptschule und Realschule,Hallenberg,1,51.115,8.615,Elbersbach 12,59969,0
+Konrad-Adenauer-Schule,Hauptschule,Meschede,2,51.375,8.178,Im Ohl 9,59872,0
+Realschule Sundern (Rotbuschweg),Realschule,Sundern,1,51.323,8.001,Rotbuschweg 28,59846,0
+Realschule Eslohe (Schulstraße),Realschule,Eslohe,1,51.257,8.167,Schulstraße 6,59889,0
+Städtische Realschule im August-Macke-Zentrum,Realschule,Meschede,2,51.342,8.296,Schederweg 59,59872,0
+Realschule am Eichholz,Realschule,Arnsberg,2,51.394,8.076,Sauerstraße 3-5,59821,0
+Erich-Kästner-Realschule,Realschule,Schmallenberg,1,51.19,8.305,Leißestraße,57392,0
+Marienschule,Realschule,Brilon,1,51.394,8.566,Schulstraße 18,59929,0
+Realschule Hüsten,Realschule,Arnsberg,2,51.432,8.002,Vogelbruch 7,59759,0
+St.-Walburga-Schule,Realschule,Meschede,1,51.352,8.274,An Klocken Kapelle 18,59872,0
+Realschule Bestwig im Franz-Hoffmeister-Schulzentrum,Realschule,Bestwig,2,51.364,8.41,Zum Schulzentrum 1,59909,0
+Realschule Neheim,Realschule,Arnsberg,3,51.451,7.96,Goethestraße 16-18,59755,0
+Realschule Marsberg (Lillers-Straße),Realschule,Marsberg,1,51.46,8.846,Trift 33,34431,0
+Mariengymnasium,Gymnasium,Arnsberg,1,51.393,8.061,Königstraße 36A,59821,0
+Gymnasium Sundern (Berliner Straße),Gymnasium,Sundern,1,51.321,8.0,Berliner Str. 55,59846,0
+Gymnasium der Stadt Meschede (Schederweg),Gymnasium,Meschede,2,51.341,8.297,Schederweg 65,59872,0
+Gymnasium Petrinum,Gymnasium,Brilon,1,51.357,8.463,Norbachstraße 1,59939,0
+Franz-Stock-Gymnasium,Gymnasium,Arnsberg,2,51.437,7.968,Berliner Pl. 5,59759,0
+Gymnasium der Benediktiner,Gymnasium,Meschede,1,51.354,8.278,Klosterberg 7,59872,0
+Geschwister-Scholl-Gymnasium,Gymnasium,Winterberg,1,51.188,8.526,Ursulinenstraße 24,59955,0
+Städtisches Gymnasium Schmallenberg (Obringhauser Straße),Gymnasium,Schmallenberg,1,51.162,8.286,Obringhauser Str. 38,57392,0
+Carolus Magnus Gymnasium,Gymnasium,Marsberg,1,51.464,8.853,Schöffenwiese 2,34431,0
+Laurentianum,Gymnasium,Arnsberg,1,51.392,8.065,Klosterstraße 26,59821,0
+St.-Ursula-Gymnasium,Gymnasium,Arnsberg,2,51.448,7.971,Engelbertstraße 43,59755,0

@@ -1,0 +1,49 @@
+@mixin bp-xs() {
+  @media (min-width: $screen-xs) {
+    @content
+  }
+}
+
+@mixin bp-sm() {
+  @media (min-width: $screen-sm) {
+    @content
+  }
+}
+
+@mixin bp-md() {
+  @media (min-width: $screen-md) {
+    @content
+  }
+}
+
+@mixin bp-lg() {
+  @media (min-width: $screen-lg) {
+    @content
+  }
+}
+
+@mixin transition($transition...) {
+  -moz-transition:    $transition;
+  -o-transition:      $transition;
+  -webkit-transition: $transition;
+  transition:         $transition;
+}
+
+@mixin hide-bigger() {
+  @include bp-sm {
+    display: none;
+  }
+}
+
+@mixin hide-small($display: block) {
+  display: none;
+
+  @include bp-sm() {
+    display: $display;
+  }
+}
+
+@mixin background-opacity($color) {
+  background-color: $color; // Fallback
+  background-color: rgba($color, $circle-opacity)
+}

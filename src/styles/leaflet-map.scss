@@ -1,0 +1,33 @@
+.ddjnrw-mst-map__map {
+
+  &-container {
+    display: block;
+    width: 100%;
+
+    @media (min-width: $screen-sm) {
+      width: 70%;
+      float: left;
+    }
+  }
+
+  &-leaflet {
+    height: 400px;
+
+    @include bp-sm {
+      height: 600px;
+    }
+
+    .l-marker {
+
+      &__circle {
+        fill-opacity: $circle-opacity;
+
+        &--exceed {
+        }
+      }
+
+    }
+
+  }
+
+}

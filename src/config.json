@@ -1,0 +1,11 @@
+{
+  "leaflet": {
+    "elementId": "ddjnrw-mst-map",
+    "tileLayer": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+    "minZoom": 7,
+    "maxZoom": 16
+  },
+  "legend": {
+    "ticks": [25, 50, 75, 100, 125, 150, 175, 200]
+  }
+}
