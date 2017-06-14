@@ -63,7 +63,6 @@
   &__value-badge {
     font-weight: bold;
     font-family: $font-neuzeit;
-    background-color: steelblue;
     text-align: center;
     padding: 4px 8px;
     font-size: 26px;
@@ -77,6 +76,11 @@
 
     &--dark {
       color: $gray-darker;
+    }
+
+    &--stale {
+      color: $gray-dark;
+      background-color: $gray-light;
     }
 
   }

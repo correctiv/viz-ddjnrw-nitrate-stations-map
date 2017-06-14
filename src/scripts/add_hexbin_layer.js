@@ -12,7 +12,7 @@ export default map => {
   hexbinLayer.data(stations)
     .lng(d => d.lon)
     .lat(d => d.lat)
-    .fill(d => getColor(d3.max(d, e => +e.o.value)))
+    .fill(d => getColor(d3.max(d, e => +e.o.mean)))
 
   return hexbinLayer
 

@@ -21,8 +21,13 @@
   &-tick {
     font-size: 12px;
     display: inline-block;
-    width: 12.5%;
+    width: 16%;
     background-color: $gray;
     text-align: center;
+    color: $gray-lighter;
+
+    &--dark {
+      color: $gray-dark;
+    }
   }
 }

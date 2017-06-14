@@ -7,13 +7,15 @@ import './close-button.tag'
 
   <div if={ data } class="ddjnrw-mst-map__infobox-data">
     <span
-      style="background-color:{ getColor(data.value) };"
-      class="ddjnrw-mst-map__value-badge ddjnrw-mst-map__value-badge--{ getModifier(data.value) }">{ data.value } mg/l</span>
-    <p class="{ -hidden: data.value <= 50 }">Der EU-Grenzwert von 50 mg/l ist überschritten.</p>
+      style="background-color:{ getColor(data) };"
+      class="ddjnrw-mst-map__value-badge ddjnrw-mst-map__value-badge--{ getModifier(data) }">{ data.mean || data.value }&nbsp;mg/l</span>
+    <p if={ data.mean }>Durchschnitt der letzten 10 Jahre.</p>
+    <p if={ data.recent && data.mean > 50 }>Der EU-Grenzwert von 50 mg/l ist überschritten.</p>
+    <p if={ !data.recent }>Die letzte Messung an dieser Station liegt über 10 Jahre zurück.</p>
     <dl>
       <dt>{ data.city }</dt>
-      <dt>{ data.date }</dt>
-      <dd>Datum der Messung</dd>
+      <dt>{ data.value }&nbsp;mg/l</dt>
+      <dd>Letzte Messung: { data.date }</dd>
       <dt>{ data.area }</dt>
       <dd>Flächen-Nutzung</dd>
       <dt>{ data.kind }</dt>
@@ -23,8 +25,8 @@ import './close-button.tag'
     </dl>
   </div>
 
-  this.getColor = getColor
-  this.getModifier = val => val > 30 && val < 100 ? 'dark' : 'bright'
+  this.getColor = data => data.recent ? getColor(data.mean) : '#dadada'
+  this.getModifier = data => data.recent ? data.mean > 30 && data.mean < 100 ? 'dark' : 'bright' : 'stale'
 
   riot.control.on(riot.EVT.updateInfobox, data => {
     this.update({data, visible: true})
