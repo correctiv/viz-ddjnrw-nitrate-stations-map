@@ -8,8 +8,8 @@ import './close-button.tag'
   <div if={ data } class="ddjnrw-mst-map__infobox-data">
     <span
       style="background-color:{ getColor(data.value) };"
-      class="ddjnrw-mst-map__value-badge">{ data.value } mg/l</span>
-    <p if={ data.value > 50 }>Der EU-Grenzwert von 50 mg/l ist überschritten.</p>
+      class="ddjnrw-mst-map__value-badge ddjnrw-mst-map__value-badge--{ getModifier(data.value) }">{ data.value } mg/l</span>
+    <p class="{ -hidden: data.value <= 50 }">Der EU-Grenzwert von 50 mg/l ist überschritten.</p>
     <dl>
       <dt>{ data.city }</dt>
       <dt>{ data.date }</dt>
@@ -21,10 +21,10 @@ import './close-button.tag'
       <dt>{ data.name }</dt>
       <dd>Bezeichnung der Messstelle</dd>
     </dl>
-
   </div>
 
   this.getColor = getColor
+  this.getModifier = val => val > 30 && val < 70 ? 'dark' : 'bright'
 
   riot.control.on(riot.EVT.updateInfobox, data => {
     this.update({data, visible: true})

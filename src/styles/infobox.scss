@@ -41,6 +41,10 @@
   &__infobox-data {
     font-size: 15px;
 
+    p.-hidden {
+      visibility: hidden;
+    }
+
     dt {
       padding-top: .7em;
       font-size: 20px;
@@ -67,11 +71,12 @@
     display: inline-block;
     margin-right: 10px;
 
-    &--small {
-      font-size: 22px;
-      width: 20px;
-      height: 20px;
-      line-height: 20px;
+    &--bright {
+      color: $gray-lighter;
+    }
+
+    &--dark {
+      color: $gray-darker;
     }
 
   }
