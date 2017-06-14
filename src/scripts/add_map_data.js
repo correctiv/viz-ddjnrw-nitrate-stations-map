@@ -12,6 +12,6 @@ export default map => {
       data: d
     })
   }))
-  featGroup.addTo(map)
+
   return featGroup
 }

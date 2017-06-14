@@ -3,7 +3,9 @@ import '../components/legend.tag'
 
 import initLeaflet from '../scripts/init_leaflet.js'
 import addMapData from '../scripts/add_map_data.js'
+import addHexBin from '../scripts/add_hexbin_layer.js'
 import addMapEvents from '../scripts/add_map_events.js'
+import switchLayersOnZoom from '../scripts/switch_layers_on_zoom.js'
 
 <leaflet-map class="ddjnrw-mst-map__map-container">
 
@@ -15,8 +17,10 @@ import addMapEvents from '../scripts/add_map_events.js'
   this.on('mount', () => {
     this.map = initLeaflet(this.opts.config.leaflet)
     this.featGroup = addMapData(this.map)
+    this.hexBin = addHexBin(this.map)
     this.bounds = this.featGroup.getBounds()
     this.resetMap()
+    switchLayersOnZoom(this)
     addMapEvents(this.featGroup)
   })
 

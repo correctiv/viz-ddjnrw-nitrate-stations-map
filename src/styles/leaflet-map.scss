@@ -21,9 +21,7 @@
 
       &__circle {
         fill-opacity: $circle-opacity;
-
-        &--exceed {
-        }
+        stroke-width: 2px;
       }
 
     }
