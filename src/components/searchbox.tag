@@ -3,7 +3,6 @@ import {search} from '../scripts/data.js'
 <searchbox class="ddjnrw-mst-map__searchbox">
 
   <input type="text"
-    autofocus={ true }
     oninput={ doSearch } class="ddjnrw-mst-map__search-input"
     placeholder="Suche nach Deiner Stadt..."
   />

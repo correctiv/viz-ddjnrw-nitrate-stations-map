@@ -24,7 +24,7 @@ import './close-button.tag'
   </div>
 
   this.getColor = getColor
-  this.getModifier = val => val > 30 && val < 70 ? 'dark' : 'bright'
+  this.getModifier = val => val > 30 && val < 100 ? 'dark' : 'bright'
 
   riot.control.on(riot.EVT.updateInfobox, data => {
     this.update({data, visible: true})
