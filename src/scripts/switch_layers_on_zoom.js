@@ -5,7 +5,7 @@ export default ({
 }) => {
 
   const setLayer = zoom => {
-    if (zoom < 10) {
+    if (zoom < 9) {
       map.hasLayer(hexBin) || map.addLayer(hexBin)
       map.hasLayer(featGroup) && map.removeLayer(featGroup)
     } else {
